@@ -53,8 +53,13 @@
 
         <script type="text/javascript">
 
-                function makeSearch(val) {
+            function makeSearch(val) {
+                if (val != '') {
                     return location.href = '/stevner/page={{page}}&show=10/search=' + val;
+                }
+                else {
+                    return location.href = '';
+                }
                 }
 
         </script>
