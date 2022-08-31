@@ -68,12 +68,9 @@
             <table id="example" class="table table-striped" style="width:100%">
                 <thead>
                     <tr>
-                        <th>#</th>
                         <th>L&oslash;fter</th>
                         <th>F&oslash;dt</th>
-                        <th>&Aring;r</th>
-                        <th>Mnd</th>
-                        <th>Dag</th>
+                        <th>Dato</th>
                         <th>Vekt</th>
                         <th>Kat</th>
                         <th>Rykk</th>
@@ -88,19 +85,15 @@
                 <tbody>
                     {% for data in data_set %}
                     <tr>
-                        <td>{{ data.idx|add:1}}</td>
                         <td>{{ data.lofter }}</td>
                         <td>{{ data.fodt }}</td>
-                        <td>{{ data.aar }}</td>
-                        <td>{{ data.mnd }}</td>
-                        <td>{{ data.dag }}</td>
+                        <td>{{ data.aar }}/{{ data.dag }}/{{ data.mnd }}</td>
                         <td>{{ data.vekt }}</td>
                         <td>{{ data.kat }}</td>
                         <td>{{ data.rykk }}</td>
                         <td>{{ data.stot }}</td>
                         <td>{{ data.sml }}</td>
                         <td>{{ data.sinclair }}</td>
-                        <td>{{ data.tau }}</td>
                         <td>{{ data.klubb }}</td>
                         <td>{{ data.stevne }}</td>
                     </tr>
