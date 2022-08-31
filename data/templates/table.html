@@ -7,7 +7,7 @@
     <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" type="text/css">
 </head>
 <body>
-
+    <h3 class="text-center mt-5"><strong>NORSKE STEVNER (1947-2019)</strong></h3>
     <div class="card col-xxl-6 shadow p-0 mt-5 mx-auto">
         <div class="card-header p-3">
 
@@ -31,6 +31,8 @@
                     <select class="form-select ms-2" onchange="location = this.value; selected = this.value;" style="width:100px;">
                         <option selected="#">Sort&eacute;r</option>
                         <option value="/stevner/page={{page}}&show=10{{search}}/order_by=lofter">Navn (alfabetisk)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=aar">Stevne&aring;r (tidlig)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-aar">Stevne&aring;r (sent)</option>
                         <option value="/stevner/page={{page}}&show=10{{search}}/order_by=fodt">F&oslash;dt (tidlig)</option>
                         <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-fodt">F&oslash;dt (sent)</option>
                         <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-rykk">Rykk (h&oslash;yt)</option>
@@ -76,9 +78,9 @@
                         <th>St&oslash;t</th>
                         <th>Sml</th>
                         <th>Sinclair</th>
-                        <th>Klubb</th>
-                        <th>Stevne</th>
                         <th>Dato</th>
+                        <th>Stevne</th>
+                        <th>Klubb</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -92,9 +94,9 @@
                         <td>{{ data.stot }}</td>
                         <td>{{ data.sml }}</td>
                         <td>{{ data.sinclair }}</td>
-                        <td>{{ data.klubb }}</td>
-                        <td>{{ data.stevne }}</td>
                         <td>{{ data.dag }}/{{ data.mnd }}/{{ data.aar }}</td>
+                        <td>{{ data.stevne }}</td>
+                        <td>{{ data.klubb }}</td>
                     </tr>
                     {% endfor %}
                 </tbody>
