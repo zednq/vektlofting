@@ -12,7 +12,7 @@ def table(request, page, show, search='', order='lofter'):
         start = page_range * entries
         end = (page_range * entries) + entries
         if len(search) < 1:
-            return redirect('/stevner/page=1&show=10')
+            data = Data.objects.all()[start:end]
         else:
             data = Data.objects.filter(lofter__icontains=search).order_by(order)[start:end]
         return data
