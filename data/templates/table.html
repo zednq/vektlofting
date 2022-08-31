@@ -1,0 +1,127 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Norske stevner</title>
+    {% load static %}
+    <script type="text/javascript" src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+    <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+    <div class="card w-75 mt-5 mx-auto">
+        <div class="card-header p-3">
+
+            <div class="d-flex">
+                <div class="container">
+                    <h5 class="m-2"><a href="/stevner/page=1&show=10"><img src="{% static 'icons/home.png' %}" width="35" height="35"></a>&nbsp;&nbsp;Page {{ page }}</h5>
+                    <select class="form-select m-2" onchange="location = this.value; selected = this.value;" style="width:100px;">
+                        <option selected="">#</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}{{order}}">10</option>
+                        <option value="/stevner/page={{page}}&show=25{{search}}{{order}}">25</option>
+                        <option value="/stevner/page={{page}}&show=50{{search}}{{order}}">50</option>
+                        <option value="/stevner/page={{page}}&show=100{{search}}{{order}}">100</option>
+                    </select>
+                    
+                </div>
+                <div class="container w-50 h-50 d-flex">
+
+                    <input class="form-control me-2" id="search" placeholder="S&oslash;k p&aring; l&oslash;fter">
+                    <button class="btn btn-outline-secondary" onclick="makeSearch(getElementById('search').value);">S&oslash;k</button>
+
+                    <select class="form-select ms-2" onchange="location = this.value; selected = this.value;" style="width:100px;">
+                        <option selected="#">Sort&eacute;r</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=lofter">Navn (alfabetisk)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=fodt">F&oslash;dt (tidlig)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-fodt">F&oslash;dt (sent)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-rykk">Rykk (h&oslash;yt)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=rykk">Rykk (lavt)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-stot">St&oslash;t (h&oslash;yt)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=stot">St&oslash;t (lavt)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-sml">Sammenlagt (h&oslash;yt)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=sml">Sammenlagt (lavt)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=-sinclair">Sinclair (h&oslash;yt)</option>
+                        <option value="/stevner/page={{page}}&show=10{{search}}/order_by=sinclair">Sinclair (lavt)</option>
+                    </select>
+
+                </div>
+
+
+
+            </div>
+        </div>
+
+
+        <script type="text/javascript">
+
+                function makeSearch(val) {
+                    return location.href = '/stevner/page={{page}}&show=10/search=' + val;
+                }
+
+        </script>
+
+        <div class="card-body p-0">
+            <table id="example" class="table table-striped" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>L&oslash;fter</th>
+                        <th>F&oslash;dt</th>
+                        <th>&Aring;r</th>
+                        <th>Mnd</th>
+                        <th>Dag</th>
+                        <th>Vekt</th>
+                        <th>Kat</th>
+                        <th>Rykk</th>
+                        <th>St&oslash;t</th>
+                        <th>Sml</th>
+                        <th>Sinclair</th>
+                        <th>Tau</th>
+                        <th>Klubb</th>
+                        <th>Stevne</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for data in data_set %}
+                    <tr>
+                        <td>{{ data.idx|add:1}}</td>
+                        <td>{{ data.lofter }}</td>
+                        <td>{{ data.fodt }}</td>
+                        <td>{{ data.aar }}</td>
+                        <td>{{ data.mnd }}</td>
+                        <td>{{ data.dag }}</td>
+                        <td>{{ data.vekt }}</td>
+                        <td>{{ data.kat }}</td>
+                        <td>{{ data.rykk }}</td>
+                        <td>{{ data.stot }}</td>
+                        <td>{{ data.sml }}</td>
+                        <td>{{ data.sinclair }}</td>
+                        <td>{{ data.tau }}</td>
+                        <td>{{ data.klubb }}</td>
+                        <td>{{ data.stevne }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <nav aria-label="Page navigation">
+                <ul class="pagination m-3 justify-content-end">
+                    <li class="page-item">
+                        <a class="page-link" href="/stevner/page={{page|add:-1}}&show={{show}}{{search}}{{order}}" aria-label="Previous">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    </li>
+                    <li class="page-item"><a class="page-link" href="/stevner/page=1&show={{show}}{{search}}{{order}}">1</a></li>
+                    <li class="page-item"><a class="page-link" href="/stevner/page=2&show={{show}}{{search}}{{order}}">2</a></li>
+                    <li class="page-item"><a class="page-link" href="/stevner/page=3&show={{show}}{{search}}{{order}}">3</a></li>
+                    <li class="page-item"><a class="page-link" href="/stevner/page=4&show={{show}}{{search}}{{order}}">4</a></li>
+                    <li class="page-item"><a class="page-link" href="/stevner/page=5&show={{show}}{{search}}{{order}}">5</a></li>
+                    <li class="page-item">
+                        <a class="page-link" href="/stevner/page={{page|add:1}}&show={{show}}{{search}}{{order}}" aria-label="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</body>
+</html>
