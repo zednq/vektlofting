@@ -5,5 +5,5 @@ django-csvimport==2.16
 gunicorn==20.1.0
 sqlparse==0.4.2
 tzdata==2022.2
-
+whitenoise==6.2.0
 
