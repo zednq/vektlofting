@@ -12,7 +12,10 @@ def table(request, page=1, show=25, search='', order='lofter'):
         start = page_range * entries
         end = (page_range * entries) + entries
         if len(search) < 1:
-            data = Data.objects.all().order_by(order)[start:end]
+            if order == 'fodt':
+                data = Data.objects.filter(fodt__gte=1000).order_by(order)[start:end]
+            else:
+                data = Data.objects.all().order_by(order)[start:end]
         else:
             data = Data.objects.filter(lofter__icontains=search).order_by(order)[start:end]
         return data
