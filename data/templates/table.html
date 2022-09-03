@@ -21,7 +21,9 @@
                         <option value="/stevner/page={{page}}&show=50{{search}}{{order}}">50</option>
                         <option value="/stevner/page={{page}}&show=100{{search}}{{order}}">100</option>
                     </select>
-                    
+                    {% if search_string != '' %}
+                        <div class="m-3">Søkeresultat for: <strong>"{{search_string}}"</strong></div>
+                    {% endif %}
                 </div>
                 <div class="container w-75 h-50 d-flex">
 
