@@ -13,7 +13,7 @@
 
             <div class="d-flex">
                 <div class="container">
-                    <h5 class="m-2"><a href="/stevner/page=1&show=10"><img src="{% static 'icons/home.png' %}" width="35" height="35"></a>&nbsp;&nbsp;Page {{ page }}</h5>
+                    <h5 class="m-2"><a href="/"><img src="{% static 'icons/home.png' %}" width="35" height="35"></a>&nbsp;&nbsp;Page {{ page }}</h5>
                     <select class="form-select m-2" onchange="location = this.value; selected = this.value;" style="width:100px;">
                         <option selected="">#</option>
                         <option value="/stevner/page={{page}}&show=10{{search}}{{order}}">10</option>
