@@ -6,7 +6,7 @@ def redirectview(request):
 
 def table(request, page, show, search='', order='lofter'):
     path = ''
-    def get_data_range(page, show, search, order):
+    def get_data_range(page=1, show=25, search, order):
         entries = show
         page_range = page - 1
         start = page_range * entries
