@@ -13,8 +13,8 @@
 
             <div class="d-flex">
                 <div class="container">
-                    <h5 class="m-2"><a href="/"><img src="{% static 'icons/home.png' %}" width="35" height="35"></a>&nbsp;&nbsp;Page {{ page }}</h5>
-                    <select class="form-select m-2" onchange="location = this.value; selected = this.value;" style="width:100px;">
+                    <h5 class="m-3"><a href="/"><img src="{% static 'icons/home.png' %}" width="35" height="35"></a>&nbsp;&nbsp;Page {{ page }}</h5>
+                    <select class="form-select m-3" onchange="location = this.value; selected = this.value;" style="width:100px;">
                         <option selected="">#</option>
                         <option value="/stevner/page={{page}}&show=10{{search}}{{order}}">10</option>
                         <option value="/stevner/page={{page}}&show=25{{search}}{{order}}">25</option>
@@ -22,8 +22,11 @@
                         <option value="/stevner/page={{page}}&show=100{{search}}{{order}}">100</option>
                     </select>
                     {% if search_string != '' %}
-                        <div class="m-3">Søkeresultat for: <strong>"{{search_string}}"</strong></div>
+                        <div class="m-3">Søkeresultat for: &nbsp;<strong>"{{search_string}}"</strong></div>
                     {% endif %}
+                    {% if sort_string != '' %}
+                    <div class="m-3">Sortért etter: &nbsp;<strong>{{sort_string}}</strong></div>
+                    {% endif %} 
                 </div>
                 <div class="container w-75 h-50 d-flex">
 
