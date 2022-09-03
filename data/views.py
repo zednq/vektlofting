@@ -32,6 +32,7 @@ def table(request, page=1, show=25, search='', order='lofter'):
         return redirect('/stevner/page=1&show=10')
 
     context = {
+        'search_string': search,
         'order': order_path,
         'search': path,
         'page': page,
