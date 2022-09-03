@@ -62,7 +62,7 @@
 
             function makeSearch(val) {
                 if (val != '') {
-                    return location.href = '/stevner/page=1&show=10/search=' + val;
+                    return location.href = '/stevner/page=1&show={{show}}/search=' + val;
                 }
                 else {
                     return location.href = '';
