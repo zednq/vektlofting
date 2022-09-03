@@ -4,9 +4,9 @@ from .models import Data
 def redirectview(request):
     return redirect('/stevner/page=1&show=10')
 
-def table(request, page, show, search='', order='lofter'):
+def table(request, page=1, show=25, search='', order='lofter'):
     path = ''
-    def get_data_range(page=1, show=25, search, order):
+    def get_data_range(page, show, search, order):
         entries = show
         page_range = page - 1
         start = page_range * entries
