@@ -1,0 +1,8794 @@
+1,Stian Grimseth
+2,Leif Jenssen
+3,Øystein Holt
+4,Kring Tim
+5,Egon Vee-Haugen
+6,Roger B. Myrholt
+7,Arne Grostad
+8,Tore Bjørnsen
+9,Victor Solstrand
+10,Rolf Larsen
+11,Tage Knudsen
+12,Gunnar Østby
+13,Kim Eirik Tollefsen
+14,Håkon Vindenes
+15,Tollefsen Kim Eirik
+16,Eivind Rekustad
+17,Per Hordnes
+18,Stig Øvrebø
+19,Geir Grønnevik
+20,Atle Rønning Kauppinen
+21,Odd Gunnar Røyseth
+22,Retulainen Eero
+23,Geir Stølsvik
+24,Jarleif Amdal
+25,Keskitalo Hannes Heikki Juhni
+26,Ågren Stefan Wilhelm Mauritz
+27,Richard Foyn Markeng
+28,Agnar Stensland
+29,Geir Borgan Paulsen
+30,Ørjan Østhus
+31,Trond Høgtun
+32,Jan Robert Solli
+33,Torstein Gjervan
+34,Arne Hagelund
+35,Johan Thonerud
+36,Nykänen Jesse
+37,Jan Erik Gabrielsen
+38,Kjell Bjørnsen
+39,Øistein Smith Larsen
+40,Bernt Petter Andersen
+41,Bjørn Harald Andersen
+42,Tom Hauge
+43,Sindre Rørstadbotnen
+44,Daniel Roness
+45,Jon Martin Larsen
+46,Eskil Andersen
+47,Asbjørn Johansen
+48,Håvard Grostad
+49,Jantsen Øverås
+50,Sebastian Farmen
+51,Sigmund Borgenhaug
+52,Johnny Jensen
+53,Vebjørn Varlid
+54,Rune Hansen 3
+55,Terje Hansen
+56,Børge Øvrebø
+57,Vikingsson Sjöblom, Joen
+58,Lars Hage
+59,Harry Espeseter
+60,Ivar Hauge
+61,Alam Omed
+62,Hans Åge Flåto
+63,Per Marstad
+64,Jostein Frøyd
+65,Tommy Olsen 4
+66,Ronny Matnisdal
+67,Mats Hofstad
+68,Geir Johansen
+69,Steinar Kvame
+70,Øystein Robberstad
+71,Magnar Helleren
+72,Kristian Helleren
+73,Rolf Ingvaldsen
+74,Roness Daniel Strømsborg
+75,Vilagi Christopher
+76,Ragnar Holme
+77,Tor Hammerborg
+78,Aage Mølstad
+79,Jarle Hammersvik
+80,Daniel Strømsborg Roness
+81,Toralf Særheim
+82,Kjetil Lindanger
+83,Hofstad Mats
+84,Terje Ree
+85,Olsen Mats
+86,Trond Skifjeld
+87,Asef Mostafaei
+88,Roy Andersen
+89,Darville Simon
+90,Paul Marhaug
+91,Eskil Forås
+92,Lithén Carl Hampus
+93,Børge Aadland
+94,Mats Olsen
+95,Bjørnar Olsen
+96,John Martin Larsen
+97,Per Arne Marstad
+98,Edgar Kjerran
+99,Thor Underhaug
+100,Erik Andresen
+101,Håvard Røyseth
+102,Hans Hagenes
+103,Magnus Eide
+104,Kjell Johansen
+105,Reidar C. Johnsen
+106,Aage Sletsjøe
+107,Tore Gjøringbø
+108,Svein Tore Hølland
+109,Hultvall, Hugo
+110,Edvard Natvik
+111,Lars Vegard Jahnsen
+112,Vidar Vassliås
+113,Per Mattingsdal
+114,Daniel S. Roness
+115,Nils Harry Vagstad
+116,Olav Johansen
+117,Per Ola Dalsbø
+118,Aleksandr Tkachenko
+119,Jan Egil Trøan
+120,Bjarte Hauge
+121,Arne Hægland
+122,Bjørn Erik Frigaard
+123,Jonsson Einar Ingi
+124,Enrico Vassdal
+125,Steinar Hauge
+126,Yngve Apneseth
+127,Lindfors Petri Mikael
+128,Leif Apneseth
+129,Tryggve Duun
+130,Vidar Tangen
+131,Roger Trones
+132,Thomas Eide
+133,Erik Hagen
+134,Bjørn Arild Pettersson
+135,Svenn Idar Hammervold
+136,Johan Kallevik
+137,Thomsen Ole
+138,Reza Benorouz
+139,Kåre Sømme
+140,Tom Nordby
+141,Arne Lanes
+142,Geir Inge Sørvåg
+143,Dag Rønnevik
+144,Halldórsson, Brynjar Logi
+145,Runar Stikholmen
+146,Anders Andersen
+147,Harald Storli
+148,Pålsson Jan-philip
+149,Tomas Fjeldberg
+150,Jørgen Kjellevand
+151,Erling Ellingsen
+152,Per Alv Eikeset
+153,Samuel Bjørk
+154,Thomas Lilleborgen
+155,Kim-Rune Edvardsen
+156,Jan Røst
+157,Paul Endresen
+158,John Kåre Monsen
+159,Erling Westgård
+160,Leik Simon Aas
+161,Daniel Sjøberg
+162,Hartikainen,juuso
+163,Orn Birkir
+164,Klaus Jungbluth
+165,Håkon Bekkevold
+166,Rolf Pedersen
+167,Helge Gjøvåg
+168,Geir Hestmann
+169,Håvard Vold
+170,Baldursson Arni Runar
+171,Ommedal Roy Sømme
+172,Bjørn Vidar Rasmussen
+173,Simon Sjøen
+174,Ole Jakob Aas
+175,Geir Inge Holmstrøm
+176,Børge Andersen
+177,Hartikainen Iiro
+178,Suoniemi, Väinö
+179,Roy Sømme Ommedal
+180,Per Olav Dagsland
+181,Kaikkonen Henri
+182,Alexander Hanssen
+183,Tom Jonassen
+184,Alexander Bahmanyar
+185,Ragnar Mathisen
+186,Holme Ragnar
+187,Håkon Eik Litland
+188,Marcus Bratli
+189,Robin Andresen
+190,Jan Kristensen
+191,Aleksander Tkachenko
+192,Daniel R. Erichsen
+193,Håkon Evensen Bekkevold
+194,Espen Espenes
+195,Lars Egil Borsheim
+196,Eskil Lian
+197,Terje Bjerke
+198,Bent Andre Midtbø
+199,Robin Lee Lange
+200,Ove Stensland
+201,Bård Sandbakken
+202,Kjellevand Jørgen
+203,Kolbjørn Bjerkholt
+204,Knut Terje Verkland
+205,Odd Andersen
+206,Phillip Houghton
+207,Tom Berg
+208,Kristian Høyland
+209,Sigurd Haug Korsvoll
+210,Fredrik Kvist Gyllensten
+211,Bjørn Matre
+212,Gunnar Reiakvam
+213,Kevin Lund
+214,Jørgen Skevik
+215,Lars Kåre Skifjeld
+216,Bjørn Holte
+217,Carlos Skyrud
+218,Jo-Magne Rønning Elden
+219,Hreinsson Bjarmi
+220,Audun Rørvig
+221,Remy Heggvik Aune
+222,Mathias Hove Johansen
+223,Litland Håkon E.
+224,Eirik Mølmshaug
+225,Leif Rune Olsen
+226,Kenneth Heidenberg
+227,Trond Olav Frigård
+228,Martin Hatle
+229,Andersen Eskil E.
+230,Roar Hoff
+231,Jørgen Kristian Olsen
+232,Peter Johannessen
+233,Petter Johannesen
+234,Johnny Sandvik
+235,Peter Wilke
+236,Broman, Alvin
+237,Espen Hellesøy
+238,Raymond Toft
+239,Bård Larsen
+240,Per A. Lier
+241,Anthoni Romul
+242,Ole Kristian Hagen
+243,Jan Løland
+244,Eivind Eilertsen
+245,Tor Kristoffer Klethagen
+246,Ove Hordnes
+247,Steinar Solberg
+248,Robertsson Daniel
+249,Trond Arild Smedshammer
+250,Fabian Fosse
+251,Kjell Øygard
+252,Thor Hammerborg
+253,Jøran Herfjord
+254,Jørgen Barth Jørgensen
+255,Stein Inge Holstad
+256,Johnny Olsen
+257,Einar Bakstad
+258,Håvard Førland
+259,Robert Grødem
+260,Sundh, Victor
+261,Johan Fredrik Murberg
+262,Pål Bjørhusdal
+263,Lubomir Kafonek
+264,Juuso Hartikainen
+265,Oddmund Frafjord
+266,Arne Andersen
+267,Bjørn Holmsen
+268,Per Andrew Lier
+269,Ørjan Hagelund
+270,Jonnar Antonsen
+271,Jan Erik Stenseth
+272,Thorkild Larsen
+273,Sigurd Korsvoll
+274,Hohint Wat
+275,Truls H. Grimstad
+276,Trygve Torgersen
+277,Ruth Kasirye
+278,Trond Karlsen
+279,Bjørn Gunnar Skaugerud
+280,Kjell Kristiansen
+281,Hadi Jouhar
+282,Jon Peter Ueland
+283,Vegar Olsen
+284,Eivind Smørgrav
+285,Lars Morten Andreassen
+286,Benerouz Reza
+287,Arvid Gerhard
+288,Ronny Fevåg
+289,Kai Barkhald
+290,Leif Helgeland
+291,Eskil Engelskjerd Andersen
+292,Øystein Aleksander Skauge
+293,Jostein Aukland
+294,Johan Nystrøm
+295,Erik Haarvei
+296,Ole Hagen
+297,Svein Arne Follinglo
+298,Ole Magnus Strand
+299,Toha, Andy
+300,Peter Johannesen
+301,Aune Remy
+302,Terje Verkland
+303,Ivar Bakstad
+304,Tord Gravdal
+305,Alexander Aronsen
+306,Nils Arne Leikvoll
+307,Øystein Bjørbæk
+308,Bjørn Ivar Kværnø
+309,Joel Tobiassen
+310,Laurits Hamre
+311,Eivind Kleven Hagen
+312,Geir Erik Arnøy
+313,Espen Bjaaland
+314,Roy Morten Dahl
+315,Arngeir Syversen
+316,Lintulaakso Akseli
+317,Arve Jansberg
+318,Johan Bjarnaberg Tørud
+319,Rune Andersen
+320,Eskil Engelsgjerd Andersen
+321,Morten Johannesen
+322,Karl Kristian Marthinussen
+323,Andreas Engebø
+324,Tor Olsen
+325,Rasmus Aune
+326,Thor Arne Heiberg
+327,Finn Aakre
+328,Roy Berentsen
+329,Christoffer Nilsen
+330,Magnar Aksland
+331,Henrik Walter Pettersen
+332,Jomar Vorvik
+333,Johannes Røstad
+334,Hogne Syversen
+335,Espen Sjøen
+336,Bjørn Feøy
+337,Frode Edvardsen
+338,Runar Klungervik
+339,Vidar Sæland
+340,Thomas Malmo
+341,Odd Hagenes
+342,Ronny Jervsjø
+343,Erlend Raastad
+344,Rune Olsen
+345,Bendik Dalen
+346,Daniel Fonnes
+347,Erik Dokka Haug
+348,Jostein Mattingsdal
+349,Kim A. Kvernø
+350,Victor Boquetale Gomez
+351,Stein Eriksen
+352,Rune Flekke
+353,Jonas Hetland Mong
+354,Svein Inge Waaland
+355,Hautaniemi,eetu
+356,Mauricio Velez Kjeldner
+357,Alexander Schive Bjerck
+358,Paul Vikhammer
+359,Tor Inge Myklebust
+360,Åsmund Rykhus
+361,Kristen Røyseth
+362,Odd Brekke
+363,Morten Almaas
+364,Håkon Lorentzen
+365,Frank Eggerud
+366,Torgeir Tønnesen
+367,Marius Eliassen
+368,Rolf Feøy
+369,Kim Alexander Kværnø
+370,Tord Graval
+371,Robert Andre Moldestad
+372,Terje Weber
+373,Odd Gustav Johansen
+374,Per Reinertsen
+375,Erik Holte
+376,Terje Birkeland
+377,Przemyslaw Sobka
+378,Mikal Akseth
+379,Ole Morten Joneid
+380,Patrik Wevelstad
+381,Ketil Bergmann
+382,Rune Mattingsdal
+383,Remy Aune
+384,Sindre Madsgaard
+385,Shi Jesse
+386,Michael Rosenberg
+387,Trond Ottar Bø
+388,Leif Rise
+389,Jan Egil Gabrielsen
+390,Hans Sande
+391,Vetle Andersen
+392,Ragnar Dreier
+393,Kjell Ivar Wien
+394,Kjell Arne Slethei
+395,Hemen Palami
+396,Odd Johansen
+397,Aron Süssmann
+398,Arne Lundby
+399,Svein Helgesen
+400,Even H. Walaker
+401,Arne Nilsen
+402,Jonny Block
+403,Mikal Akset
+404,Dag Aleksander Klethagen
+405,Jørund Årdal
+406,Hemen Palani
+407,Sigvald Monsen
+408,Lars Joachim Nilsen
+409,Petter N. Sæterdal
+410,John Skiftesvik
+411,Knut Ydse
+412,Thor Olsen
+413,Olav Martinsen
+414,Ole Erik Raad
+415,Joakim Sofienlund
+416,Sigleif Myklebust Ravnestad
+417,Roald Bjerkholt
+418,Rasmus Heggvik Aune
+419,Andreas Klinkenberg
+420,Lauge Thingnes
+421,Brynjar Ari Magnússon
+422,Bjørn Marthinsen
+423,Adrian Henneli
+424,Marco Mogueis
+425,Jan Olav Brekke
+426,Jan Nystrøm
+427,Jan Hansen
+428,Terje Grimstad
+429,Tom Andersen
+430,Trond Vidar Bjerkholt
+431,Jan Albrightsen
+432,Akseth Mikal
+433,Alf Sannerud
+434,Tor Bjarne Nilsen
+435,Erland Jensen
+436,Kai Magne Wiik
+437,Indy Sobka
+438,Georg Andersen
+439,Arnulf Wahlstrøm
+440,Thor Heiberg
+441,Tom Carlsen
+442,Konsta Suoniemi
+443,Karlsson, William
+444,Nils Petter Floan
+445,Aleksandar Zivkovic
+446,Stig Jensen
+447,Tommy Sele
+448,Alf Marton Aksland
+449,Martin Wenstad Janssen
+450,Tor Otto Drager
+451,Ståle Eriksen
+452,Tore Sæten
+453,Vegar Farsund
+454,Stein Erik Eriksen
+455,Gravdal Tord
+456,Johnny Sørlie
+457,Tor Aleksander Klethagen
+458,Kurt Gjesdal
+459,Sjur Djupedal
+460,Lars Grostad
+461,Tor Arne Heiberg
+462,Daniel Theisner
+463,Thor Evert Paulsen
+464,Tor Nilsen
+465,Ragnar Iversen
+466,Rolf Nordeide
+467,Ingolf Viken
+468,Kim Helge Moe
+469,Danny Duy Vo
+470,Ørjan Jervsjø
+471,Per Berger Olsen
+472,Magnar Vardeberg
+473,Christer Idland
+474,Håvard Mattingsdal
+475,Olaf Opperud
+476,Ken Egil Hove
+477,Anders By
+478,Per Christian Terum
+479,Kåre Sagmyr
+480,Bjørn Emil Evensen
+481,Bjarte Åsbø
+482,Leif Larsen
+483,Per Olav Meraker
+484,Tor Evert Paulsen
+485,Dalen Bendik Drangsholt
+486,Østhus Ørjan
+487,Svein Grinden
+488,Nils Pedersen
+489,Bjørn Heyn
+490,Bjørn Bang Andersen
+491,Leif Erlandsen
+492,Arne Sollihøgda
+493,Svein Erik Sæle
+494,Per Iversen
+495,Thor Inge Myklebust
+496,Karl Johan Pedersen
+497,Knut Heltrø
+498,Kristian Kvalen
+499,John Ove Waage
+500,Stig Lund
+501,Sigurd Korsvold
+502,Sebastian Fløysvik
+503,Bjørn Thorsen
+504,Markus Settemsdal
+505,Kjell Larsen
+506,Ulrik Bakke
+507,Odd Børnick
+508,Johan Espedal
+509,Arild Pedersen
+510,Jonas Fiskum Pedersen
+511,Rune Hansen 2
+512,John Ivar Evjen
+513,Símon Gestur Ragnarsson
+514,Espen Rørstadbotnen
+515,Jonas Grønstad
+516,Richard Minge
+517,Kristian Ulvan
+518,Kjell Stub Olsen
+519,Ole Kristian Larsen
+520,Svein E. Moholt
+521,Yngvar Frønæs
+522,Solfrid Koanda
+523,Kristoffer Klausen
+524,Knut Ivar Borgen
+525,Jostein Myrvang
+526,Kjell Tore Andersen
+527,Svenn Sørensen
+528,Tom Einar Andersen
+529,Rune Bråten
+530,Reidar Steen
+531,Izak Süssmann
+532,Jan Baggerud Larsen
+533,Øyvind Skeiseid
+534,Robert Gullachsen
+535,Bård Roos Svendsen
+536,Tor Paulsen
+537,Torstein Dæhlin
+538,Henry Ryggvik
+539,Per Edvardsen
+540,Per Kristian Simonsen
+541,Jan Kristian Johnsrud
+542,Adrian Mendis
+543,Anders Albert
+544,John Evjen
+545,Torstein Dæhlien
+546,Espen Berg 3
+547,Chisom Okeke
+548,Øistein Johansen
+549,Harald Lorentsen
+550,Ove Varlid
+551,Johannes Jåsund
+552,Kristoffer Solheimsnes
+553,Tom E. Andersen
+554,Stig Lien
+555,Filip Ludvigsen
+556,Mauricio Kjeldner
+557,Thomas Solheim
+558,Freddy Aarthun
+559,Stefan Bender
+560,Oskar Emil Wavold
+561,Jonas Nord
+562,Anouar El Ouali
+563,Larsgrostad
+564,Eric Balloux
+565,Leif Erik Gladstad
+566,Lassad Jammali
+567,Tom Kristian Berg
+568,Patrik Ahtiainen
+569,Kristen Brosvik
+570,Per Lorvik
+571,Thor Paulsen
+572,Per Willy Edvardsen
+573,Erland Erlandsen
+574,Dag Amund Klinkenberg
+575,Roy Åge Pedersen
+576,Hans Seilø
+577,Geir Gunnerud
+578,Kim Aleksander Kværnø
+579,Yngvar Martinsen
+580,Frode Ueland
+581,Arne Vidar Paulsen
+582,Lauge Tingnes
+583,Akujärvi,jonne
+584,Bengt Holm
+585,Alvolai Røyseth
+586,Derek Falkenberg
+587,Trond Kvilhaug
+588,Darren Wilmot
+589,Svein Skeiseid
+590,Niemelä,timi
+591,Aadland Børge
+592,Strenius Patricia
+593,Einar Solvang
+594,Jan Leif Lande
+595,Hans Hoff
+596,Bjørn Frydenlund
+597,Røyseth Kristen Espedal
+598,Geir Slupphaug
+599,Hans Larsen
+600,Simen Leithe Tajet
+601,Karl Setereng
+602,Lars Andreassen
+603,Ola Øydegard
+604,Ragnvald Paulsen
+605,Victor Boquetale Gomes
+606,Ine Anderson
+607,Erik Moen Birkeland
+608,Øistein Johnsen
+609,Glenn Waksvik
+610,Stefan Hauge
+611,Ine Andersson
+612,Karl Johan Førland
+613,Ove Andre Pettersen
+614,Kristoffer Thonerud
+615,Egil Tangen
+616,Tormod Fladen
+617,Brian Larsen
+618,Kjell Arne Sletthei
+619,Eivind Hetland
+620,Aron Sussmann
+621,Kjell Aukan
+622,Ole Christiansen
+623,Per Helge Iversen
+624,Are Kiel
+625,Erik Eide
+626,Bjørn Christian Stabo-Eeg
+627,Rolf Hermansen
+628,Terje Seilen
+629,Kåre Skogø
+630,Arve Olafsen
+631,Evald Osnes Devik
+632,Tormod Andersen
+633,Egil Holvik
+634,Knut Jakobsen
+635,Magnar Wardeberg
+636,Danny Vo
+637,Roy W. Johannessen
+638,Paal Sveum
+639,Arild Busterud
+640,Mathias Hybertsen
+641,Magnus Hægland
+642,Sturle Hordnes
+643,Tomas Block
+644,Svein Inge Walvik
+645,Ciscomar Mogueis
+646,Tore Klevset
+647,Terje Indseth
+648,Morten Gjersvik
+649,Wilhelm Johannesen
+650,Rune Ivar Rasmussen
+651,Tor Erling Iversen
+652,Breiðfjörð Björnsson, Bjarki
+653,Kim Aleksander Kvernø
+654,Ole Jørgen Bakke
+655,Lars Espedal
+656,Egil Eide
+657,Trond Sømme
+658,Sarah Hovden Øvsthus
+659,Hovet Sigurd
+660,Patrick Læret
+661,Gunnar Rasmussen
+662,Einar Tromsdal
+663,Jan Albrigtsen
+664,Brynjar Logi Halldórsson
+665,Thor Rune Olsen
+666,Jacob Martinsen
+667,Jonny Sørlie
+668,Roy Fuglum
+669,Gabriel Carvajal
+670,Halvor Eide
+671,Roy Walther Johannessen
+672,Endre Winje
+673,John Skien
+674,Arild Digernes
+675,Svein Jakobsen
+676,Arne Fless Prestholt
+677,Jon Ove Waage
+678,Ragnar Strand
+679,Steinar Trones
+680,Viitasaari,joona
+681,David Hansen
+682,Nils Vikan
+683,Geir Amund Svan Hasle
+684,Morten Rasch Arnesen
+685,Helge Myrseth
+686,Arne Paulsen
+687,Arve Olavsen
+688,Kjell Roger Engvik
+689,Petter Davidsen
+690,Magnus Bjerke
+691,Martin Lekøen
+692,Henrik S. Johannessen
+693,Daniel Emil Egeberg Hansen
+694,Torgeir Brønstad Kaspersen
+695,Roald Haver
+696,Jan Remmereit
+697,Sten Arne Lund
+698,Wilhelm Johansen
+699,Lars Ulvund
+700,Sussmann Aron
+701,Roy Rossvold
+702,Svenn Tønnesen
+703,Andreas Hidle
+704,Rune Johansen
+705,Daniel Holstad
+706,Nils Berglund
+707,Svein Jacobsen
+708,Svein Eriksen
+709,Jørgen Grønner
+710,Harald Thommesen
+711,Johan Dybmyr
+712,Erlend Kraggerud
+713,Brynjar Mehlum
+714,Petter Rekdal
+715,Tom Halvorsen
+716,Torbjørn Hestnes
+717,Petter Jonas Nord
+718,Trond Egil Karlsen
+719,Ruben Wåge Kristiansen
+720,Tor E. Iversen
+721,Jan Hansen Grytemark
+722,Terje Skifjeld
+723,Karl Sætereng
+724,Alexander Kolstø Våge
+725,Andre Phillip Thomassen
+726,Arvid Lien
+727,Øyvind Hamre
+728,Andreas Tamburplass
+729,Beckton Meling
+730,Karl Sletsjøe
+731,Stian Knudsen
+732,Terje Gulvik
+733,Tom Farsund
+734,Henry Myrvang
+735,Agung Bukhari Raden
+736,Geir Espen Handeland
+737,Ine Anderssom
+738,Svein Sørensen
+739,Vidar Myrvold
+740,Cisomar Mogueis
+741,Ivar Nordtveit
+742,Eskil E. Andersen
+743,Johnny Sørli
+744,Leif Hepsø
+745,Ole Henrik Røine
+746,Roy Østnes
+747,Albert Farstad
+748,Kenneth Friberg
+749,Edvin Øygard
+750,Arild Kristoffersen
+751,Ole Martin Larsen
+752,Knut Jacobsen
+753,Bjørn Rønning
+754,Taneli Ollila
+755,Arthur Selstø
+756,Bjørn Martinsen
+757,Mart Hallink
+758,Lars Larsen
+759,Håvard Knappskog
+760,Arve Andersen
+761,Hogne Nygård
+762,Espen Gard Larsen
+763,Svein Moholt
+764,Ståle Hagen
+765,Adrian Andersen Mendis
+766,Mathias Lilleheim
+767,Ingve Erga
+768,Nils Drolsum
+769,Willy Ly
+770,Remy H. Aune
+771,Per Christian Andersen
+772,Ingebrikt Nordtevedt
+773,Roar Karlsen
+774,Jardar Tønsberg Kameratene
+775,Fridtjof Kvinge
+776,Finn Knutsen
+777,Thor Otto Drager
+778,Espen Albert
+779,Olaf Tønnesen
+780,John Anders Terland
+781,Arne Pedersen
+782,Per Kvandal
+783,Roger Meyer
+784,Knut Hjeltnes
+785,Fritjof Kvinge
+786,Kim Helge Boltfjord
+787,Jørn Thomassen
+788,Stein Brynjar Mehlum
+789,Robert Moldestad
+790,Magnus Løvstad
+791,Ole Martin Aas
+792,Teemu Pasanen
+793,Jan Egil Austerheim
+794,Christoffer Akselsen
+795,Nyberg, Alexander
+796,David Haraldsen
+797,Alf Eriksen
+798,Erik Haugseth
+799,Hans Magnus Kleven
+800,Astor Brechan
+801,Inge Sommerstad
+802,Per Arne Thorsteinsen
+803,Mathias Lunde Aven
+804,Øyvind Wallentinsen
+805,Roy Kenneth Salte
+806,Jon Inge Ruud
+807,Sverre Kirkseter
+808,Ove Farsund
+809,Edgar Henriksen
+810,Gunnar Knudsen
+811,Stefan Rønnevik
+812,Agung Raden
+813,Anton Pevik
+814,Thorleif Dybdahl
+815,Hans Gunnar Kvadsheim
+816,Amund Lorentsen
+817,Per Holen
+818,Svein Gravdahl
+819,Kjell Gunnar Guttormsen
+820,Øyvind Saastad
+821,Bård Juliebø
+822,Roy Fjærestad
+823,Bjørn-Arild Masvik
+824,Even Herlin Walaker
+825,Knut Buvarp
+826,Roar Edvardsen
+827,Kim-Alexander Kvernø
+828,John Kenneth Olderbø
+829,Vegard Lindtner
+830,Bjørnar Mehlum
+831,Lennart Josefson
+832,Sverre Farstad
+833,Wilhelm Johannessen
+834,Øystein Johansen
+835,Christian Karrestad
+836,Jon Stenkløv
+837,Kåre Nordpoll
+838,Boye Jon
+839,Birger Svensson
+840,Frode Rossvold
+841,Tor Trøan
+842,Bent Furevik
+843,Christer Andersen
+844,Torgeir Olsen
+845,Joar Håland
+846,Sigurd Øvrevik
+847,Quist, August
+848,Erik Carlsen Kjørslevik
+849,Jon Boye
+850,Tore Faafeng
+851,Adnan Ljubovic
+852,Ole Petter Smørsgård
+853,Robert Mood
+854,Magnus Frøyen
+855,Leif Tvedalen
+856,Finn Hansen
+857,Per Oddvar Sæther
+858,Petter Tennstrand
+859,Øyvind Laastad
+860,Patrick Ravn
+861,Aron Sûssmann
+862,Thomas Bankhaug
+863,Klaus Lien
+864,Olav Viken
+865,Petter Tennestrand
+866,Sverre Scheen
+867,Dennis Lauritsen
+868,Geir Arnøy
+869,Fredrik Thornes
+870,Hans-robert Krefting
+871,Frode Røtterud
+872,Johan Fr. Murberg
+873,Torbjørn Øverås
+874,Tor Nordhagen
+875,Pål Hemmighytten
+876,Per Arne Thorstensen
+877,Tor Inge Rørvik
+878,Willy Andresen
+879,Arvid Mikkelsen
+880,Christopher Pedersen
+881,Per Ellingsen
+882,Roar Pettersen
+883,Sigurbjørn De Lange
+884,Knut Ulseth
+885,Åge Olsen
+886,Lund Romeo
+887,Svein Johannesen
+888,Odd Haugen
+889,Anders Sandvik
+890,Asle Nicolaysen
+891,Per Arne Torsteinsen
+892,Richard Lie
+893,Torgeir Kaspersen
+894,Tore Farsund
+895,Sol Anette Waaler
+896,Kolbjørn Bjekholt
+897,Rune Korsnes
+898,Andreas Brekke
+899,Jan Erik Hopen
+900,Sigurd Wasa
+901,Geir Ove Waage
+902,Erik Schjetne
+903,Harald Hanslien
+904,Tom Skogø
+905,Wio Kollberg
+906,Alexander Hauff
+907,Jan Hansengrytemark
+908,Henrik Reiakvam
+909,Finn Knudsen
+910,Per Arve Holen
+911,Finn Strange
+912,Persson, Linus
+913,Kjell Grønning
+914,Stian Lunde
+915,Lars Vikan Rise
+916,Dennis Åkre Danielsen
+917,Anders Kallhovd
+918,Leif Inge Fimreite
+919,Gøran Vollan
+920,Marit Årdalsbakke
+921,Romeo Lund
+922,Brynjulf Simonsen
+923,Roger Bakke
+924,Erling Svendsen
+925,Jon Roberg
+926,Kjetil Kleppe
+927,Jørgen Johnsen
+928,Kristoffer Ytterbø
+929,Bjørn Lie
+930,John Erik Jørgensen
+931,Krister Larsen
+932,Hans-robert Høgbrenna Krefting
+933,Knut Hop
+934,Knut Olav Ulseth
+935,Jan Block
+936,Andreas Timenes
+937,Dag Inge Nordtvedt
+938,Rolf Haugen
+939,Erlend Helgesen
+940,Ali Akbar
+941,Hjalmar Ness
+942,Frithjof Kvinge
+943,Kim Jung Arntsen
+944,Olaf Tønnessen
+945,Alf Vikne
+946,Andreas Hansen
+947,Martin Grønsund
+948,Per Larsen
+949,Gunnar Haraldsen
+950,Geir Sørebø
+951,Simen Angell
+952,Vegard Orekåsa
+953,Martin Norum
+954,Stein Haugen
+955,Hans-robert Kreftengen
+956,Gustav Hovland
+957,Marius Haave
+958,Magnus Abrahamsen
+959,Tor Eirik Rasmussen
+960,Arnfinn Askeland
+961,Bjarne Vik
+962,Raden Agung Fahrizal Bukhari
+963,Rebekka Tao Jacobsen
+964,Jon Harald M.boye
+965,Austerheim Jan Egil
+966,Stig Aunhaug
+967,Patricio Yanez
+968,Skadal Sebastian
+969,Jonas Grønnhaug
+970,Tor Arne Faafeng
+971,Tore Wisth
+972,Vegard Nyvold
+973,Sven Erik Engen
+974,Erik Vådahl
+975,Tore Bjørstad
+976,Timenes Andreas Wallem
+977,Ketil Eriksen
+978,Terje Michelsen
+979,Per Magne Holm
+980,Torkel Larsen
+981,Hans Jansens
+982,John Fagna
+983,Alexander Tulach
+984,Asgeir Sandstad
+985,Axel Hagen
+986,Ragnar Paulsen
+987,Magn Bjarte Ness
+988,Arnt Inge Rognevær
+989,Roy Brusletten
+990,Odd Inge Utbjoa
+991,Aslak Glad-Solstrand
+992,Per Arne Holen
+993,Gunnar Welde
+994,Thore Thorsen
+995,Vio Kalberg
+996,Wio Kolberg
+997,Per Arne Torstensen
+998,Ole Skullerud
+999,Helin, Markus
+1000,Bjørn Kymre
+1001,Kåre Hæreid
+1002,Tarjei Breivik
+1003,Øivind Tøgersen
+1004,Torkjeld Jevne
+1005,Trond Meland
+1006,Roy Refsdal
+1007,Arve Apneseth
+1008,Bjørn Heia
+1009,Magne Weber
+1010,Per Gjøvåg
+1011,Rolf Ingebrigtsen
+1012,Steinar Fredheim
+1013,Jon Rui
+1014,Harald Faafeng
+1015,Christian Lysenstøen
+1016,Trygve Stenrud Nilsen
+1017,Roger Helmersen
+1018,Lasse Slengesol
+1019,Olav Evjeth
+1020,Torbjørn Raad
+1021,Harald Torgersen
+1022,Ivar Ulgenes
+1023,Jone Stornes
+1024,Jon Kenneth Olderbø
+1025,Stephan Paulsen
+1026,Asle Nocolaysen
+1027,Thomas Mardal
+1028,Ivar Skinstad
+1029,Thor Esperaas
+1030,Tomas Erlandsen
+1031,Geir Mikalsen
+1032,Ivar Kværnø
+1033,Gunnar Hoff Leirvik
+1034,Per Jespersen
+1035,Jan Leo Sandvik
+1036,Frode Franche
+1037,Rune Rasmussen
+1038,Ole Marius Hovdum
+1039,Roger Leonardsen
+1040,Jan Brunsell
+1041,Chris Butler
+1042,Huhtamäki,veeti
+1043,Henry Berg
+1044,Rune Fredriksen
+1045,Sigurd Øvervik
+1046,Kim Helge Boltsfjord Moe
+1047,Edgar Dahl
+1048,Nils Ekerhovd
+1049,Stig Jonsen
+1050,Bernhard Bergmann
+1051,Mikal Bellesen Nygaard
+1052,Per Nordstrand
+1053,Jan Sander Herje
+1054,Jon-Wilhelm Johansen Schweder
+1055,Bjarki Breiðfjörð
+1056,Andreas Askeland
+1057,Torgeir A. H. Bentsen
+1058,Per Erik Bach
+1059,Rolf Andresen
+1060,Brynjar Mæhlum
+1061,Svein Wiksnes
+1062,Arnulf Dahl
+1063,Sven Høydal
+1064,Eetu Hautaniemi
+1065,Jone Vigrestad
+1066,Harry Steen
+1067,Magne Føleide
+1068,Svein Høydal
+1069,Bjørn Eriksen
+1070,Paul A. Solberg
+1071,Roy Walter Johannessen
+1072,Per Olav Meråkerli
+1073,Tor Gunnar Trøan
+1074,Sigurd Kristiansen
+1075,Jens Graff
+1076,Christian Ekelund Solberg
+1077,Liikanen,otto
+1078,Christian Solberg
+1079,Jan Engvik
+1080,Roy Pedersen
+1081,Egil Wixøe
+1082,Ruoho,onni
+1083,Audun Reigstad
+1084,Ove Laastad
+1085,Haakon Hellenes
+1086,Stig Øvrevik
+1087,Jan Dahl
+1088,Eivind Steen
+1089,Kjell Jensen
+1090,Torje Bragstad Venseth
+1091,Øvsthus Sarah Orteza Hovden
+1092,Ivar Engelsviken
+1093,Sverre Kirksæter
+1094,Johannes Stølsvik
+1095,Zekiye C. Nyland
+1096,Sigurd Hedberg
+1097,Arnold Andresen
+1098,Thorbjørn Nilsen
+1099,Magnus Tovslid
+1100,Jon Jørgensen
+1101,Ivar Øglend
+1102,Bjørnar Duun
+1103,Kjell Nilsen
+1104,Christer Larsen
+1105,Sveinung Isaksen
+1106,Trond Merkesdal
+1107,Anno Elo
+1108,Jan Olav Engvik
+1109,Harald Sjonbotn
+1110,Arthur Fjeldberg
+1111,Per Hytten
+1112,Trygve Nilsen
+1113,Torgeir Skaalvik
+1114,Helge Øglænd
+1115,Johan Sandvik
+1116,Sven Kåre Høydal
+1117,Roar Sylthe
+1118,Raymond Paldanius
+1119,Bjørn Øyangen
+1120,Tore Gabrielsen
+1121,Fredrik Paulsberg
+1122,Ole Ingebrigtsen
+1123,Arne Nystøl
+1124,Bjørn Moe
+1125,Leyton, Alexander
+1126,Jardar Tøn
+1127,Per Atle Hansen
+1128,Daniel Korhonen
+1129,Ivar Marken
+1130,Asbjørn Lyster
+1131,Bertin Wulff
+1132,Per Thorsteinsen
+1133,Øystein Saastad
+1134,Jan Christensen
+1135,Ove Pettersen
+1136,Geir Inge Waage
+1137,Håkon Hellnes
+1138,Egil Hansen
+1139,Per Espen Omberg
+1140,Dag Bruun
+1141,Arild Næss
+1142,Harald Lorentzen
+1143,Jan Erik Paulsen
+1144,Shayne Willis
+1145,Olav Hansen
+1146,Ole Petter Skullerud
+1147,Kjell Magne Lervik
+1148,Tor Iversen
+1149,Christian Robak
+1150,Magnus German Hove
+1151,Jørgensen Mathias Lauvland
+1152,Richard Badendyck
+1153,Håkon Hellenes
+1154,Birger Strand
+1155,Bjørn Even Sønvisen
+1156,Rolf Rognaldsen
+1157,Jan Klimek
+1158,Per Morten Henriksen
+1159,Andreas Nordmo Skauen
+1160,Brynjulv Simonsen
+1161,Frode Bruknapp
+1162,Arne Olsen
+1163,Glenn Djursvoll
+1164,Engzell, Milo
+1165,Adrian Liland
+1166,Philip Aashildrød
+1167,Sander Emil Ospevoll
+1168,Knut Fosslien
+1169,Hans Hansen
+1170,Øystein Skottvåg
+1171,Helge Martinsen
+1172,Anders Grønsund
+1173,Arne Landfall
+1174,Runar Klungervik 
+1175,Åge Olav Grostad
+1176,Lars Ole Elle
+1177,Martin Olsen
+1178,Marius Lie Winger
+1179,Bjørn Frantzen
+1180,Stian Myrmel
+1181,Bjørn Jansen
+1182,Egil Taksrud
+1183,Svein Gravdal
+1184,Markus Fosse
+1185,John Stiansen
+1186,I. Engelsviken
+1187,Tommy Lervik
+1188,Torstein Klingenberg
+1189,Stig Halvorsen
+1190,Per Øyvind Olsen
+1191,Jens Haukali
+1192,Tor Johnsen
+1193,Ulf Petersen
+1194,Rolf Enger
+1195,Svein Hotvedt
+1196,Thor Inge Rørvik
+1197,Bertil Post
+1198,Yngvar Frønes
+1199,Jørgen Nielsen
+1200,Paul Svendsen
+1201,Gunnar Kjelsås
+1202,Frank Eikeland
+1203,Martin Balsvik Ramberg
+1204,Ivan Jensen
+1205,Per Magnussen
+1206,Ragnar Skjøllingstad
+1207,Rune Johannessen
+1208,Pål Tetlie
+1209,Eirik Aven
+1210,Olav Tønnesen
+1211,Terje Andresen
+1212,Lars-Thomas Grønlien
+1213,Stein Hotvedt
+1214,Sivert Olsen
+1215,Håkon Hjelle Roset
+1216,Freddy Mikkelsen
+1217,Kjell Dyrdal
+1218,Arne Langnes
+1219,Lasse Kolstad
+1220,Olav Paulsen
+1221,Sverre Stenvaag
+1222,Ly Willy
+1223,Geir Gunnerød
+1224,Sverre Stenvåg
+1225,Sander G. Idsal
+1226,Frank Halvorsen
+1227,Nino Reis Dokke
+1228,Abo Edelbijev
+1229,Bjørnar Wold
+1230,Stein Kjendalen
+1231,Marius Hovdum
+1232,Nils Gudbrand Berglund
+1233,Jan Løkeland
+1234,Per Markus Fosse
+1235,Kjell Weseth
+1236,Anja-Evelin Jordalen
+1237,Leif Berg
+1238,Toan Dinh
+1239,Tord Aronsen
+1240,Rune Frydenberg
+1241,Aune Rasmus
+1242,Cainan Sletten
+1243,Alexander Zivkovic
+1244,Romar Johansen
+1245,Jacobsen Rebekka Tao
+1246,Edvin Storlien
+1247,Inge Terje Sommerstad
+1248,Vidar Grana
+1249,Christian Hafsmo
+1250,Ove Wiik
+1251,Magnus Børøsund
+1252,Birger Kaspersen
+1253,Harry Kopstad
+1254,Amund Holm
+1255,Glenn Robert Benjaminsen
+1256,Luostarinen,aino
+1257,Stefan Revang
+1258,Kai Roger Johansen
+1259,Endre Solberg
+1260,Harald Sørhaug
+1261,Roy Kvam
+1262,Øyvind Wiig Petersen
+1263,Ole Vee
+1264,Ole Johan Løkberg
+1265,Nicolas Johnsen
+1266,Ronald Berberg
+1267,Wiggo Niedemann
+1268,Ivar Arnesen
+1269,Sigurd Varpe Hedberg
+1270,Jonas André Grønnhaug
+1271,J. Dybmyr
+1272,Rolf Arntsen
+1273,Geir Hansen
+1274,Nuno Correira
+1275,Svein Gamlemsvik
+1276,Roar Letnes
+1277,Suonpää, Santeri
+1278,Øyvind Thøgersen
+1279,Arne Landfald
+1280,Stein Olav Omland
+1281,Reidar Refsnes
+1282,Trygve Hiorth
+1283,Thomas Erlandsen
+1284,Ole Kristiansen
+1285,Frode Risvold
+1286,Ørnulf Olsen
+1287,Øyvind Fredriksen
+1288,Katarina Sederholm Hoff
+1289,Rune Storøy
+1290,Nuno Correia
+1291,Egil Ø. Sæther
+1292,Waaler Sol Anette
+1293,Christian H. Grusd
+1294,Rolf Arne Haugen
+1295,Kjell Bakkelund
+1296,Arne Larsen
+1297,Christian Jahren
+1298,Gerard Halsall
+1299,Joona Viitasaari
+1300,Ingvar Kolbeinsen
+1301,Christopher Ytterbø
+1302,Poulsen Amanda
+1303,Rolf Wick
+1304,Lars Amund Larsen
+1305,Viggo Nidemann
+1306,Daniel Kim
+1307,Ingolf Bertelsen
+1308,Helge Andersen
+1309,Jørn Holt
+1310,Jostein Lie
+1311,Erik Byrkjeland
+1312,Henk De Boer
+1313,Tom Weber
+1314,William Sølsnæs Buvik
+1315,John Elvin Birkeland
+1316,Nora Skuggedal
+1317,Harald Vikne
+1318,John Anders Muklebust
+1319,Jan Johnsen
+1320,Oddvar Glidje
+1321,Ole P. Smørsgård
+1322,Røyseth Alvolai
+1323,Knut Torbjørnsen
+1324,Marius Krogseng
+1325,Bjarne Bergheim
+1326,Christer Ersland
+1327,Henning Gjerløv
+1328,Arne Sørlie
+1329,Knut Olav Mogen
+1330,Svenn Høydal
+1331,Jonny Bakke
+1332,Kåre Stange
+1333,Svein Erik Strøm
+1334,Ulf Thoresen
+1335,Reidar Værøy
+1336,Ivar Øglænd
+1337,Trygve Hiort
+1338,Asbjørn Almås
+1339,Vemund Holstad
+1340,Eirik Bergsted
+1341,O. Løhberg
+1342,Sverre Steen
+1343,Trygve Nordtømme
+1344,Kjell Roger Andersen
+1345,Kai Tommy Svensen
+1346,Torgeir Skålvik
+1347,Gunnar Kjeldsås
+1348,Roy Vollvik
+1349,Steen Arne Lund
+1350,Kenneth Wood
+1351,Hans Arnesen
+1352,Daniel Shanks
+1353,Jonathan Wayne Monahan Andersen
+1354,Hans Otto Helle
+1355,Reidar Vårvik
+1356,Kjell Pettersen
+1357,Roald Halvorsen
+1358,Terje Fredriksen
+1359,Iver Hole
+1360,Engström Wallman, Felix
+1361,Robin Thorstensen
+1362,Ole Henrik Holte
+1363,Ove Haug
+1364,Svein Kåre Gamlemsvik
+1365,Terje Mikkelsen
+1366,Jørgen Evensen
+1367,Karsten Karlsen
+1368,Ole Sommervold
+1369,Aksel Svorstøl
+1370,Marius Beck
+1371,Svein Hodtvedt
+1372,Helgadottir Þuridur Erla
+1373,Jesse Kääriäinen
+1374,Fredrik Gyllensten
+1375,Ståle Werner Eriksen
+1376,Svein Hytten
+1377,Jan Vårdal
+1378,Andres Sandvik
+1379,Harald Knudsen
+1380,Øyvind Hult
+1381,Atle Løge
+1382,Rebeka Tao Jacobsen
+1383,John Lau
+1384,Sander Heyn Stave
+1385,Jorg Sverre Jørgensen
+1386,Jørn Svendsen
+1387,Emil Herredsvela
+1388,Johannes N. Johansen
+1389,Svein Folkestad
+1390,Martin Ramberg
+1391,Bjarne Lunde
+1392,Tor Haug
+1393,Harald Vigdal
+1394,Johan Johansen
+1395,Bruhn Katrine
+1396,Julia Jordanger Loen
+1397,Robert Flaatten
+1398,Bjørn Olav Moe
+1399,Ingolf Berthelsen
+1400,Svein Amundsen
+1401,Joacim Junhov-Rindberg
+1402,Trond Bjerkholt
+1403,Emil Marhaug
+1404,Kjell Magne Sunde
+1405,Johannes Hovland
+1406,Thorbjørn Schau Johansen
+1407,Trygve Stenerud Nilsen
+1408,Hogne Syvertsen
+1409,Ole Dullerud
+1410,Rønnevik Stefan
+1411,Stian Hanssen
+1412,Erik Skar
+1413,Steinar A. Aas
+1414,Arve Kristoffersen
+1415,Mathias Jørgensen
+1416,Egil Hovland
+1417,Willy Alfsen
+1418,Matthew Hessaa-szwinto
+1419,Leif Jonny Berg
+1420,Tommy Davidsen
+1421,Tor Tunheim
+1422,Asbjørn Lind
+1423,Audun Endestad
+1424,Øyvind Faugstad
+1425,Kristian Wahl Jensen
+1426,Magnus Reusch
+1427,Rolf Hansen
+1428,Rolf Håkestad
+1429,Thor Øystein Thorsen
+1430,Håkon Andersen
+1431,Jan Robert Meyer Jensen
+1432,Sølve Gill
+1433,Torvald Toft
+1434,Jan Sagedal
+1435,Lars Stinessen
+1436,Marius Nordfjellmark
+1437,Loen Julia Jordanger
+1438,Ingvald Torkildsen
+1439,Chris Bruland
+1440,Lennart Josefsson
+1441,Stig Thanke Aspli
+1442,Helga Øglænd
+1443,Ingebrigt Nordtvedt
+1444,Svein Knutsen
+1445,Øivind Hamre
+1446,Bruno Mayer
+1447,Sten Lund
+1448,Ø. Johansen
+1449,Hans G. Kvadsheim
+1450,Ingar Andersen
+1451,Arvid Rimestad
+1452,William Sølsnes Buvik
+1453,Harald Halvorsen
+1454,Knut Knudsen
+1455,Bjarne Synstad
+1456,Tor Magnussen
+1457,Kenneth Liseth
+1458,Ronny Hovland
+1459,Øistein Skottvåg
+1460,Rolf Engen
+1461,Ernst Andersen
+1462,Kjell Moberg
+1463,Truls Eriksen
+1464,Sigurd Kristoffer Notøy
+1465,Arild Mikkelsen
+1466,Per Lindflathen
+1467,Tore Sørlie
+1468,Arthur Jahnsen
+1469,Helge Brochmann
+1470,Wiggo Christensen
+1471,William Christiansen
+1472,Øystein Hansen
+1473,Mareno Einan
+1474,Rune Tørstad
+1475,Reidar Hansen
+1476,Ole-Kristoffer Sørland
+1477,Ken Berge
+1478,Odd Døskeland
+1479,Kjell Arvid Heen
+1480,Krister Thonerud
+1481,Jens Åge Suhr
+1482,Eirik Bergstad
+1483,Einar Sjøen
+1484,Hans Dahl
+1485,Harry Lyster
+1486,Per Hagen
+1487,Finn Sefaniassen
+1488,Tom Ekra
+1489,Steinar Lundgren
+1490,Bent Røssum
+1491,Jan Erik Block
+1492,Terje Johansen
+1493,Bjørn Abrahamsen
+1494,Rolf Andersen
+1495,Monrad Andreassen
+1496,Per Lindflaten
+1497,Frode Farsund
+1498,Håkon Njål Hansen
+1499,Gunnar Pettersen
+1500,Hermod Høgheim
+1501,Morten Flåten
+1502,Olaf Evjeth
+1503,Jarle Sørensen
+1504,Pål Heminghyth
+1505,Birger Freddy Aarthun
+1506,Ole Williamsen
+1507,Stig Kvittem
+1508,Yngve Lauritsen
+1509,Daniel Solberg
+1510,Ola Aalmo
+1511,Sven Erik Holthe
+1512,Rune Søderlund
+1513,Kåre Slåttun
+1514,Lasse Bye
+1515,Andreas Haugen
+1516,Norman Lodden
+1517,Aksel Hetland
+1518,Svein Sæle
+1519,Karl Johan Larsen
+1520,Kristian Vestermo
+1521,Johan Tørud
+1522,Stian Trettsveen
+1523,Alexander Jacobsen
+1524,Ole Sigurd Lodsby
+1525,Even Walaker
+1526,Hugo Kjerran
+1527,Rune Sikveland
+1528,Erik Harkaniemi
+1529,Kåre Sagedal
+1530,Tor Haugland
+1531,Georg Mathisen
+1532,Svein Viksnes
+1533,Einar Gjøvåg
+1534,Jostein Hansen
+1535,Lena Berntsson
+1536,Roy Sunde
+1537,Håvard Nordtorp
+1538,Stian Sivertsgård
+1539,Egil Wiksøe
+1540,Arve Nordaas
+1541,Rolf Andreassen
+1542,Terje Totland
+1543,Bård E. Larsen
+1544,Ivar Aarstad
+1545,Aage Rykkje
+1546,Arne Langenes
+1547,Per Eivind Holmeide
+1548,Arnt Ivar Høiberg
+1549,Bruno Meyer
+1550,Gunnar Aasvestad
+1551,Ove Berger
+1552,Bjørn Henriksen
+1553,Sebastian Skadal
+1554,Bjørn Franzen
+1555,Joachim Offman
+1556,Morten Kolstø
+1557,Stig Aspli
+1558,David Thams Breien
+1559,Jens Morten Johannessen
+1560,Odd Hammerset
+1561,Reidar Myking
+1562,Tomas Bangsund
+1563,Arnes Hrnjic
+1564,Ricard Olsen
+1565,Alf Lillestøl
+1566,Egil Wiksø
+1567,Torleif Dybdahl
+1568,Hjálmarsson, Ari Tómas
+1569,Stasi Kryshtal
+1570,Lars Kirksæter
+1571,Sverre Kirksæther
+1572,Andre Lima
+1573,Reidar Langtjær
+1574,Muhrman, Tilde
+1575,Håkon Sivertsen
+1576,Magnar Tefre
+1577,Per Buarø
+1578,Birgir Hilmarsson
+1579,Einar Lihovd
+1580,Eugen Strøm
+1581,Ylisoini,janette
+1582,Atle Ånestad
+1583,Ole-kristoffer Sørland
+1584,Veslemøy Kollstad
+1585,Roy Rosvoll
+1586,Åge Faugstad
+1587,Arne Bjermeland
+1588,Bjørn Arild Masvik
+1589,Osvald Alstad
+1590,Ronny Nordvik
+1591,Øyvind Humlekjær
+1592,Årdalsbakke Marit
+1593,Torvald Sande
+1594,Erling Bach
+1595,Erling Helle
+1596,Morten Fuglum
+1597,Thor Hansen
+1598,Tor Steinar Kristensen
+1599,Erik Solbakken
+1600,Tor Fåfeng
+1601,André Lima
+1602,Eyvind Off
+1603,Emil Viktor Sveum
+1604,Werner Gursli
+1605,Per Olav Meosli
+1606,Sigurbjørn Johansen
+1607,Lena Richter
+1608,Tore Waaga
+1609,Bjørn Lund
+1610,Kjell Hustad
+1611,Anders Raa
+1612,Eskild Forås
+1613,Svein Holte
+1614,Bjørn Berntsen
+1615,Bjørn Frigaard
+1616,Ludvig Ingebrigtsen
+1617,Kristen Espedal Røyseth
+1618,Jonny Berg
+1619,Nils Hesjedal
+1620,Realf Ingebretsen
+1621,Arbi Edelbijev
+1622,O.r. Paulsen
+1623,Tor Westernes
+1624,Adolfsson Jenny
+1625,Fredrik Enger
+1626,Jone Håland
+1627,Egil Bergsted
+1628,Bjørge Jensen
+1629,Eivind Svendsen
+1630,Bäckström,jannike
+1631,Ivar Aarsted
+1632,Maryoth Kling
+1633,Kjetil Hiorth
+1634,Karstein Lied
+1635,Kjetil Byrkjeland
+1636,Bjørn Sønvisen
+1637,Bjørn-Harald Fossum
+1638,Dag Aarnes
+1639,Martin Monclair
+1640,Ragnar Jonassen
+1641,Sander Skjørestad
+1642,Erik Næss
+1643,Tor Oftedal
+1644,Torbjørn Johansen
+1645,Øivind Humlekjær
+1646,Finn Seffaniassen
+1647,Jean Robert Sørensen
+1648,Karl Bersås
+1649,Thor Erling Iversen
+1650,Thor Thorsen
+1651,Alf Alsaker
+1652,Eirik Sandøy
+1653,Melissa Schanche
+1654,Åmund Rykhus
+1655,Arnfinn Eriksen
+1656,Dag Engelsvoll
+1657,Magn Ness
+1658,Sturla Okstad
+1659,Pål Andersen
+1660,Salif Camara
+1661,Frøyd Fredriksen
+1662,Halstein Irgens
+1663,Herluf Hansen
+1664,Per Knudsen
+1665,Thore Hansen
+1666,Tor Henning Nordhagen
+1667,Stig Asplid
+1668,Robert Bru
+1669,Lars Kirksæther
+1670,Trygve Haave
+1671,Roger Handeland
+1672,Oddvar Mile
+1673,Eigil Wiksøe
+1674,Erling Damm
+1675,Steinar Stølsvik
+1676,Odd Sangvik
+1677,Jan Ove Hansen
+1678,Sander Hustad
+1679,Alexander Sture
+1680,Joachim Thøgersen
+1681,Karl Christian Møller
+1682,Birger Caspersen
+1683,Eldin Muminovic
+1684,Morten Sørensen
+1685,Magnus Iversen
+1686,Bjørn Erik Lunde
+1687,Kurt Jonny Hove
+1688,Mats Runar Bye Herø
+1689,Harald Olsen
+1690,Øistein Hansen
+1691,Ragnar Ed
+1692,Pål Kr. Kletthagen
+1693,Tommy Leirvik
+1694,Holst Håkestad
+1695,Emma Hald
+1696,Kjetil Holden
+1697,Daniel Seljeset
+1698,Bjarne Haukedal
+1699,Espen Thygesen
+1700,Øystein Nordahl
+1701,Morten Stolt-nielsen
+1702,Kolbein Espeseth
+1703,Lars Bleketh
+1704,Tor Eric Sivertsen
+1705,Lindflaten
+1706,Johan Olsen
+1707,Magnar Breidablikk
+1708,Kenneth Rostad
+1709,Stave H. Sander
+1710,David Haakonsen
+1711,Gaute Høyland
+1712,Reidar Wang
+1713,Stig Strøm
+1714,Tore Hansen
+1715,Ricardo Skyrud
+1716,Fabian Fjelle
+1717,Ingar Storsve
+1718,Jarle Brendeland
+1719,Kjartansson, Bjarni
+1720,Zacharias Ovesen Murad
+1721,Morten Hovland
+1722,Georg Mathiesen
+1723,Jan Jonsen
+1724,Ivar Amundsen
+1725,Ronja Lenvik
+1726,Morten Fausko
+1727,Tom - Erik Lysenstøen
+1728,Torbjørn Nilsen
+1729,Trygve Blørstad
+1730,Per Øivind Olsen
+1731,Finn Ove Øen
+1732,Sindre Wergeland
+1733,Ole Henrik Kristiansen
+1734,Sverre Wilhelmsen
+1735,Gustav Winter Sørensen
+1736,Jon Ivar Evjen
+1737,Jan Waardal
+1738,Håvard Dahle
+1739,Sebastian Myrhaug
+1740,Knut Sellæg
+1741,Lorenty Sæter
+1742,Lars Stinesen
+1743,Frode Hauan
+1744,Pål Roar Aunvåg
+1745,Ragnar Ingebretsen
+1746,Terje Ogngard
+1747,Trygve Larsen
+1748,Wilhelm Feyling Hansen
+1749,Jarle Vangsnes
+1750,Stig Thanke Johnsen
+1751,Christian Højberg Grusd
+1752,Nils Sellegg
+1753,Christian Christensen
+1754,Jørn Kirkeby
+1755,Trond Ahlsen
+1756,Bernt Andre Midtbø
+1757,Thorbjørn Skau Johansen
+1758,Gustav W. Sørensen
+1759,Junhov-rindberg Paula
+1760,Lars Vonli
+1761,Juraj Szigeti
+1762,Renatas Riebzda
+1763,Birger Rønne
+1764,Espen Grostad
+1765,Bjørn Haukedal
+1766,Eigil Bergerud
+1767,Jan Kristoffersen
+1768,Odd Engelstad
+1769,Eirik Kalland
+1770,Leonard Sepehri
+1771,Arild Dahl
+1772,Rune Gundersen
+1773,Ragnar Ingebriktsen
+1774,Tomm Ekra
+1775,Zekiye Dönerciler Nyland
+1776,Fredrik Ivan Elle
+1777,Bjørge Jansen
+1778,Jan Magne Sørensen
+1779,Stian Eriksen
+1780,Torbjørn Sandvik
+1781,Lars Gausemel
+1782,Odd Seljeseth
+1783,Kjell Konningen
+1784,Eirik Nordgaard
+1785,Gøran Volla
+1786,R. Kvam
+1787,Torkild Larsen
+1788,Jens Larsen
+1789,Ronald Just Larsen
+1790,Stein Ole Hansen
+1791,Sverre Krogseth
+1792,Karl-jørgen Hoff
+1793,Jan Michael Rolland
+1794,Sune Hagen
+1795,Sven Svendsen
+1796,Viljar Myklestad
+1797,Aksel Herre
+1798,Fritz Borgersen
+1799,Rolf Øydvin
+1800,Eirik Skar
+1801,Maryoht Kling
+1802,Philip Mirzai Dang
+1803,Pål Pedersen
+1804,Fredrik Pedersen
+1805,Marie Mossige Grythe
+1806,Michael V. Faafeng
+1807,Svein Vigsnes
+1808,Kenneth Vold
+1809,Leif Hagen
+1810,Sven Berg
+1811,Øystein Sæten Hoff
+1812,Per Gunnar Teigen
+1813,Per Arne Lundekvam
+1814,Frank Rennestraum
+1815,Jostein Ask
+1816,Janne Skorpen Knudsen
+1817,Stein Befring
+1818,Bjørn Harald Fossum
+1819,Jørgen Engelstad
+1820,Ole Johnny Micaelsen
+1821,Magne Ødegård
+1822,Lars Christian Johnsen
+1823,Arne Kjell Dyrstad
+1824,Per Otto Nøvik
+1825,W. Steinholm
+1826,Danckert Loodtz
+1827,Jan Magnus Dæhlin
+1828,Ulf Westreng
+1829,Rune Nordgård
+1830,Andreas Fosse Meling
+1831,Einar Jansen
+1832,Per Einar Hollum
+1833,Øystein Røstad
+1834,Bjørn Larsen
+1835,Isak Kiviniemi
+1836,Kåre Engebretsen
+1837,Jensen Sandra
+1838,Arne Skage
+1839,Åkerlund Ida
+1840,Vennekilde Marie Louise
+1841,Gunnar Johannes T. Gunvaldsen
+1842,Sverre Saksegård
+1843,Per Arne Larsen
+1844,Harald Andersen
+1845,Harald Ulvestad
+1846,Hans Rydningen
+1847,Lars Bleken
+1848,John Nielsen
+1849,Torleif Knudsen
+1850,Brynjulv Mikalsen
+1851,Mikael Bjørløv
+1852,Tore Eriksen
+1853,Diego Romero
+1854,Arnold Asheim
+1855,Harald Vigrestad
+1856,Arild Valdersnes Hamre
+1857,Stig Pedersen
+1858,John L. Ellefsen
+1859,Ole Andersen
+1860,Knut Olav Fosslien
+1861,Lone Kalland
+1862,Hiwa Rehmani
+1863,Johnny Færavåg
+1864,Mehmet Alp Øzalp
+1865,Steinar Rasmussen
+1866,Hågen Solemsløkk
+1867,Sølve Giil
+1868,Kjell Aarø
+1869,Gunnar Kjeldås
+1870,Aino Luostarinen
+1871,Mathias Nikolai Arnesen
+1872,Eirik Andre Nordbø
+1873,Marius Haranes
+1874,Arne Jan Bjarmeland
+1875,Arild Buch
+1876,Sigurd Nilsen
+1877,Van Eck Nicholas
+1878,Kåre Fossvik
+1879,Ramon Gulbrandsen
+1880,Tor Øystein Torsen
+1881,Knut Ellefsrud
+1882,Alf Hlinensky
+1883,Ketil Johnsen
+1884,Tor-Martin T. Tangen
+1885,Süssmann Aron
+1886,Andre Vaz De Lima
+1887,Lars Engseth
+1888,Roar Aasen
+1889,Petter Meland
+1890,Ragnar Skinnerud
+1891,Simon Størseth
+1892,Stefan Krstic
+1893,Alexander Eide
+1894,Arnfinn Skadsem
+1895,Robert Grønland
+1896,Henrik Paulsen
+1897,Håkon Boganes
+1898,Nima Berntsen
+1899,Lea Berle Horne
+1900,Grythe Marie Mossige
+1901,Stig Frydenberg
+1902,Trond Engvik
+1903,Helge Monstad
+1904,Rune Berdal
+1905,Jens Henrik Høydal
+1906,Ottar Mulvik
+1907,Trond Gunnar Haugan
+1908,Bendik Dale
+1909,Jan Johansen
+1910,Olav Tegle Sande
+1911,Tom Torkildsen
+1912,Ole Michalsen
+1913,Daniel Johansen
+1914,Terje Jacobsen
+1915,Carl Christian Møller
+1916,Daniel Grimseid
+1917,Alf Buck
+1918,Asbjørn Uthaug
+1919,Jan-Ove Undem
+1920,Svend Svendsen
+1921,Arild Remmereit
+1922,Jonne Akujärvi
+1923,John Jørgensen
+1924,Kristoffer Johansen
+1925,Åsmund Sveinsvoll
+1926,Torbjørn Farmen
+1927,Frode Berg
+1928,Kristoffer Brekke
+1929,Nima Berntsen Lama
+1930,Erik Hansen
+1931,Hlynsson, Þórbergur Ernir
+1932,Håkon Sundklakk
+1933,Alf Helinenski
+1934,Kjell Haslestad
+1935,Bjarne Virum
+1936,Gunnar Kaspersen
+1937,Johannes Gundersen
+1938,Tormod Lislerud
+1939,Frank Ophuus
+1940,Vegar Weiseth
+1941,Jarle Bjerkholt
+1942,Stig Ove Dahlen Selnes
+1943,Normann Ulfsten
+1944,Magne Fjærestad
+1945,Svein Kvatningen
+1946,Alf Buch
+1947,Viggo Christensen
+1948,Tom Holstad
+1949,Steinar Eriksen
+1950,Ronny Gudmestad
+1951,Johnny Børresen
+1952,Bjørn Berge
+1953,Jonas Nygaard
+1954,Jan Kåre Fjellestad
+1955,Ketil B. Lunde
+1956,Kurt Waage
+1957,Petter Johannessen
+1958,Egil Sæther
+1959,Terje Heegbarth
+1960,Bjørn Tore Wiik
+1961,Kai Svensen
+1962,Mathias Aven
+1963,Sven Eriksen
+1964,Stein Erik Andersen
+1965,Ingolf Forsland
+1966,Gustav Sørensen
+1967,Harald Vigdahl
+1968,Per Nøvik
+1969,Per Thorstensen
+1970,Tinna Ringsaker
+1971,Kjell Skåren
+1972,Per Henry Ellingsen
+1973,Svein Olav Farstad
+1974,Thomas Rene Johannessen
+1975,Kjell Slethei
+1976,Willy Marhaug
+1977,Ivar Kvernø
+1978,Petter Løken
+1979,Vemund Furre
+1980,Sandra Trædal
+1981,Bo Norgren
+1982,Torje Venseth
+1983,Daniel O. Karijord
+1984,Martin Sund
+1985,Henrik Markhus
+1986,Espen Smevik
+1987,Roy Hansen
+1988,Petter Schawland
+1989,Willy Marthinsen
+1990,Jan Roberg
+1991,Erik Nordgård
+1992,Knut Ludahl
+1993,Willy Stenholen
+1994,Tom-Erik Lysenstøen
+1995,Henrik Kalberg
+1996,Rolf Berg
+1997,Ragnar Næss
+1998,Morten Hognestad
+1999,Jonny Wisth
+2000,Nils Hansen
+2001,Even Matnisdal
+2002,Odd Hansen
+2003,Jarle Kristiansen
+2004,Schanche Melissa
+2005,Nævdal Sandra
+2006,Per Hersve
+2007,Victor Hvistendahl
+2008,Eivind Balstad
+2009,Jacqueline Dahlstrøm
+2010,Roy Høydahl
+2011,Øyvind Larsen
+2012,Ivar Lyster
+2013,William Christensen
+2014,Brede Nicolai Tellefsen
+2015,Bjarte Jacobsen
+2016,Rasmus Heggvik Aune 
+2017,Svein Fjellheim
+2018,Tobias Figenshacu
+2019,Pål Jordsmyr
+2020,Bengt Strømmen
+2021,Petter Hauge
+2022,Leif Jonassen
+2023,Arve Nordås
+2024,Edvin Eimstad Riisem
+2025,Alf Ranby
+2026,Frode Rosvold
+2027,Leif Lier
+2028,Reidar Langkjær
+2029,Svein Sulamo
+2030,Erik Høglien
+2031,Jan B. Kristoffersen
+2032,Knut Rundhovde
+2033,Per Solberg
+2034,Tom Andreassen
+2035,Anders Vik
+2036,Rune Johannsen
+2037,Steffen Skjærli
+2038,Åge Willy Bjørnerud
+2039,Jim Ruben Kristoffersen
+2040,Simen Ingar Hinderaker
+2041,Ingvard Klaussen
+2042,J. Kjevik
+2043,Per Bore
+2044,Tor Løvoll
+2045,Per Ø. Kamfjord
+2046,Kristian Hammer
+2047,Ola Bergheim
+2048,Bjørnar Rydheim
+2049,Gunnar Ervik
+2050,Jon Wårdal
+2051,Sigbjørn Storset
+2052,Kittil Haugen
+2053,Hein Martin Hauge
+2054,Atle Isaksen
+2055,Eddy Knutshaug
+2056,Morten Berge
+2057,Kjell Andersen
+2058,Runar Scheie
+2059,Ørjan Simensen
+2060,Kjell Seljeset
+2061,Lars Ove Østrem
+2062,Ragnar Eed
+2063,Asbjørn Berge
+2064,Stein Markussen
+2065,Tor Evan Løvoll
+2066,Lars Åstveit
+2067,Iver Strandheim
+2068,Aldrin Hafsmo
+2069,Svein Buseth
+2070,Egil Nygård
+2071,Jan Bloch
+2072,Håkon Tinholt
+2073,Cato Torp
+2074,Harald Knutsen
+2075,Tore Westlie
+2076,Torstein Larsen
+2077,Frank Teyler
+2078,Raymond Gulbrandsen
+2079,Gunvaldsen Gunnar
+2080,Kristian Nilsen
+2081,Torr Bjarne Nilsen
+2082,Gard Hauge
+2083,Dagfinn Danielsen
+2084,Terje Eriksen
+2085,Tom-erik Lysenstøen
+2086,John Storø
+2087,Arthur Jansen
+2088,Johnny Sandve
+2089,Tor Erik Grimen
+2090,Børge Eriksen
+2091,Kim Ringvoll
+2092,Ole Andre Teigen
+2093,Daniel Schanks
+2094,Fred Olaf Christiansen
+2095,Sverre Torp
+2096,Kittel Skjellaug
+2097,Marvin Arntsen
+2098,Hans Kristian Lorentzen
+2099,Tommy Olsen
+2100,Geir Alshus
+2101,Jonny Børresen
+2102,Bo Nordgren
+2103,Jan Stenkløv
+2104,Terje Jakobsen
+2105,Tom Erik Råstad
+2106,Arvid Bangsund
+2107,Rasmus H Aune
+2108,Ivar Galåen
+2109,Johan Andersen
+2110,Petter Hauger
+2111,Jon Magnus Dæhlin
+2112,Robert Jarland
+2113,Mikael Bjørløw
+2114,Arvid Andreassen
+2115,Robert Keil
+2116,Arve Otto Nundal
+2117,Tomm Thorkildsen
+2118,Torger Lode
+2119,Emil Ljone
+2120,Asbjørn Sæterdal
+2121,Bjørn Hansen
+2122,Erling Back
+2123,Hjalmar Ludvigsen
+2124,Leif Myrvik
+2125,Bjørn Johnsen
+2126,Roy Kristian Østnes
+2127,Frank Teylor
+2128,Andreas Skauen
+2129,Jan Gårdsøy
+2130,Kittil Skjellaug
+2131,Harand Engebø
+2132,Erik Sandøy
+2133,Geir Kjeldsrud
+2134,Finn Mathisen
+2135,Tor Steinar Herikstad
+2136,Alexander S. Vika
+2137,Aksel Haugen
+2138,Jarle Brændeland
+2139,Steinar Vollvik
+2140,Ole Skogø
+2141,Leiv Arne Støyva Sårheim
+2142,Hans Kristoffer Graff
+2143,Kris Aursland
+2144,Ole Micaelsen
+2145,Kristian Grimstveit
+2146,Stig Mistereggen
+2147,Helge Grøsfjeld
+2148,Asbjørn Lundseng
+2149,Markus André Ringjord
+2150,Fredrik Lian
+2151,Thomas Galåen
+2152,Odd Svendsen
+2153,Alf Møll
+2154,Christian Schawland
+2155,Jan Næss
+2156,Tinna Ringstad
+2157,Torgeir Tjernø
+2158,Ragnar Hermanstad
+2159,Erik Hvasshovd
+2160,Erlend Kaggerud
+2161,Dehli Sofie
+2162,Aleksander Vangen
+2163,Arne Wang
+2164,Audun Nygård
+2165,Erik Bergsted
+2166,Sven Kvatningen
+2167,Finn Dekkerhus
+2168,Oddbjørn Bjordal
+2169,Kollstad Veslemøy
+2170,Jan Harry Hasselkvist
+2171,Terje Hillestad
+2172,Alf Øyen
+2173,Jarle Grytten
+2174,Frode Meidell
+2175,Sigve Nedrebø
+2176,Bjørn Kjønnstad
+2177,Carl Møller
+2178,Erik Aas
+2179,Vidar Paulsen
+2180,Daniel S. Solberg
+2181,F. Svendsen
+2182,Henry Nordli
+2183,Jens Svardal
+2184,Martin Pedersen Ludvigsen
+2185,Yasir Jari
+2186,Dan Sindre Helgø
+2187,Oddmund Teigland
+2188,Hans Skaseth
+2189,Eirik Holmslet
+2190,Inge Nilsen
+2191,Roger Paulsberg
+2192,Kjell Tore Pettersen
+2193,Per Joachim J. Rindberg
+2194,Einar Eriksen
+2195,Knut Brun
+2196,Sven Åge Skår
+2197,Tom Danielsen
+2198,Leif Skogø
+2199,Einar Sagli
+2200,Øyvind Torgersen
+2201,Bjørn T. Lysholm
+2202,Ronny Mikkelsen
+2203,Nils Petter Sveen
+2204,Olav Thomassen
+2205,Sandra Nævdal
+2206,Harald Herre
+2207,Odd Pedersen
+2208,Stig Pettersen
+2209,Maren Fikse
+2210,Egil Olsen
+2211,Erling Karlsen
+2212,Leif Landseem
+2213,Sverre Kvitningen
+2214,Thor Arne Faafeng
+2215,Per Henning Asper
+2216,Knut Bjering Strand
+2217,Terje Hegbarth
+2218,J. Danielsen
+2219,Bjørn Pedersen
+2220,Jørn Lian
+2221,Knut Sælleg
+2222,Roy Jensen
+2223,Hoa Van Vo
+2224,Otto Grepperud
+2225,Ivar Årstad
+2226,Lars Andersen
+2227,Leif Eriksen
+2228,Jannike Bäckström
+2229,Erik Aspelund
+2230,Odd Kiil
+2231,Geir Danielsen
+2232,Ole Kristian Frøystveit
+2233,Harald Skomedal
+2234,Jens Høydahl
+2235,Morten Slettebø
+2236,Odd Seljeset
+2237,Fred Olaf Kristiansen
+2238,Palmer Leira
+2239,Ragnhild Haug Lillegård
+2240,Per Erik Back
+2241,Erling Buarøy
+2242,Tobias Figenschau
+2243,Geir Hemminghytt
+2244,Inge Langeland
+2245,Tommy Winås
+2246,William S. Buvik
+2247,Juraj Szegeti
+2248,Jan Dalgren
+2249,Martin Lehn
+2250,Safa Daniel Sjøli Ararat
+2251,L. Vattøy
+2252,Per Nørvik
+2253,Pål Kr. Klethagen
+2254,Stian Waksvik
+2255,Knut Knutsen
+2256,Leif Hansen
+2257,Jan Andreassen
+2258,Andreas Larsen
+2259,Arvid Dyrnes
+2260,Thor Støen
+2261,Geir Carlsen
+2262,Søgaard Mille
+2263,Geir Rimstad
+2264,Helge Watendal
+2265,Silje Emilie Tønnesen
+2266,Arnt Inge Rognvær
+2267,Tore Haraldsen
+2268,Aslak Kalstad
+2269,Hallstein Irgens
+2270,Koanda Solfrid
+2271,Gunnar Inge Sagedal
+2272,Klaus Hansen
+2273,Alf Stenersen
+2274,Andreas Viken
+2275,John Steen
+2276,Kjartan Bakke Derås
+2277,Roar Tøndel
+2278,Ørnulf Sandland
+2279,Ivar Hole
+2280,Torleif Trossdal
+2281,Jacob Opdahl
+2282,Ingvald Torkelsen
+2283,Hans M. Arnesen
+2284,Andreas Båtnes
+2285,Arvid Lundseng
+2286,Jan Inge Trøan
+2287,Per Knutsen
+2288,Rolf Walstad
+2289,Torstein Skjervald
+2290,Odd Bjørn Bjordal
+2291,Roald Reisvang
+2292,Knut Mathisen
+2293,Norvald Nilsen
+2294,Tore Heggdal
+2295,Vidar Arnesen
+2296,Tor Erling Bruun
+2297,Kjell Heen
+2298,Olav Ringstad
+2299,R. Groth Nilsen
+2300,Egil Nygaard
+2301,Geir Urdal
+2302,Tristan Andri Karenarson
+2303,Evald Devik
+2304,Andreas Meling
+2305,Kristin Holte
+2306,Endre Waatevik
+2307,Shirzad Abbaszadh
+2308,Harald Larsen
+2309,L. Kvia
+2310,Per M. Hansen
+2311,Thomas Høve
+2312,Torleiv Trosdal
+2313,Kai Roger Johannessen
+2314,Roar Baglo
+2315,Christian Vikskjold
+2316,Jan Egil Gårdsøy
+2317,Andreas Kvinge Kindenes
+2318,Leif Johnny Berg
+2319,Kjell Heggelund
+2320,Hans Skjervold
+2321,Sverre Helland
+2322,Kenneth Johansen
+2323,Arve Nundal
+2324,Tor Sandvik
+2325,Per Christiansen
+2326,Ola Øen
+2327,John Haugstad
+2328,Kjell Erik Olsen
+2329,Andreas Hovde Bø
+2330,Arild Bangsund
+2331,Tor Ingvar Njerve
+2332,Jonas AndrÃ© Grønnhaug
+2333,Marcus Røed Frøyset
+2334,Karl Magnar Waksvik
+2335,Audun Arne
+2336,Aksel Haugseth
+2337,Guttorm Dragsnes
+2338,Odd Brønner
+2339,Arnulf Eidem
+2340,Thor- Erik Espeland
+2341,Leif Børge Gården
+2342,Normann Lodden
+2343,Rolf Steen
+2344,Christoffer Lysenstøen
+2345,Victor Källström
+2346,Leif Kvalvik
+2347,Willy Johansen
+2348,Idar Andersen
+2349,Egil Johansen
+2350,Roger Mikkelsen
+2351,Egil Larsen
+2352,Ragnar Hassum
+2353,Ragnar Nordli
+2354,Tore Magnussen
+2355,Haakon Tinholdt
+2356,Bjarne Wirum
+2357,Juraj Zsigeti
+2358,Karl-Jørgen Hoff
+2359,Tengs Olve Magne
+2360,Steinar Wedø
+2361,Sverre Wilhelmmsen
+2362,Leif Iversland
+2363,Stein Nilsen
+2364,Chris Alexander Bruland
+2365,Robert Djønne
+2366,Rinar Solvang
+2367,Morten Høyland
+2368,Bjørn Skogheim
+2369,Sven Åge Skaar
+2370,Audun Fuglestad
+2371,Ingvar Kjerpeseth
+2372,Leif Ugelstad
+2373,Vegard Vikane
+2374,Peder Lindsetmo
+2375,Alexander Trabelsi
+2376,Vigild Nanna
+2377,Unnarsdóttir, Úlfhildur Arna
+2378,Kjell Kalvå
+2379,Sturle Andersen
+2380,Ole Perry Lødemel
+2381,Lars Vattøy
+2382,Audbjørn Simonsen
+2383,Kristoffer Haugland
+2384,Jon Ryland
+2385,John Terje Haugstad
+2386,Beate Amdahl
+2387,Edit Mulich
+2388,Erik Skaugen
+2389,Arne Kjølen
+2390,Morten G. Amundsen
+2391,Jon Berg
+2392,Arild Buck
+2393,Johannes Martinsen
+2394,Alexander Mendis
+2395,Erik Ness
+2396,Ingolf Fossland
+2397,Leif Pedersen
+2398,Tom Sundberg
+2399,Tor Jonassen
+2400,Tore Spjøtvold
+2401,Karl Larsen
+2402,Terje Kvam
+2403,Kamilla Storstein Grønnestad
+2404,Magnar Vigrestad
+2405,Terje Rasmussen
+2406,Torbjørn Vik
+2407,Vidar Skisaker
+2408,Lars Bårdgard Åstveit
+2409,A. Tjernsmo
+2410,Hans Skjervald
+2411,Jon Skiftesvik
+2412,Frank Gjesdal
+2413,Martin Skauen
+2414,Lars Thomas Grønlien
+2415,Ragnar Lie
+2416,Egil Thorland
+2417,Håkon Rolfsen
+2418,Lorentz Sæter
+2419,Lukas Baldauf
+2420,Tor Gudmundsen
+2421,Erik A. F. Johansson
+2422,Jørn Petter Rasmussen
+2423,Tor Westlie
+2424,Knut Skramstad
+2425,Terje Sæterdal
+2426,Torkel Selnes
+2427,Jan Rolland
+2428,Arne Odin Rygh
+2429,Ingar Elvelund
+2430,Eirik Bergsten
+2431,Anton Ramberg
+2432,Arnfinn Aglen
+2433,Bjørn Kristiansen
+2434,Dag Ansteensen
+2435,Håvard Olsen
+2436,Jørn Thommasen
+2437,Thore Eriksen
+2438,Morten Stolt Nielsen
+2439,Mathias Aase
+2440,Mari Rotmo
+2441,Svein Erik Halleland
+2442,Edvin Riisem
+2443,Jens Petter Lunde
+2444,Ole Brunæs
+2445,Rasmus Stokke
+2446,Nikolai K. Aaland
+2447,Pedersen Tine R.
+2448,Ingar Kjerpeset
+2449,Per Hollum
+2450,Gunnar Johannes Tvedt Gunvaldsen
+2451,Aleksander Eide
+2452,SiljeTønnesen
+2453,Johnny Sjursen
+2454,Lars-thomas Grønlien
+2455,Svein Gunnar Standnes
+2456,Gunnar Gunvaldsen
+2457,Arne Utbjoa
+2458,Frank V. Hansen
+2459,Odd Lie
+2460,Frode Aakre
+2461,Mathias Nicolai Arnesen
+2462,Johan A. S. Mellemsæther
+2463,Thorvald Schau Johansen
+2464,Arne Bysveen
+2465,Joakim Haukaas
+2466,Mads Hansen
+2467,Jostein Haraldseid
+2468,Anthony Egeland
+2469,Siri Sytelä
+2470,Trond Hersløv
+2471,Torbjørn Fuglevik
+2472,Atle Dalsbø
+2473,Aslak Bryne Håland
+2474,Tom-erik Lysentøen
+2475,Tine Rognaldsen Pedersen
+2476,Kyrre Styrvold
+2477,Tom Erik Nilsen
+2478,H. Sivertsen
+2479,Arne Skoglund
+2480,Erik Gjerløw
+2481,Jan Bertelsen
+2482,Sten Nilsen
+2483,Kenneth Eriksen
+2484,Roy Simonsen
+2485,Arvid Larsen
+2486,Tore Sundli
+2487,Terje Fosse
+2488,Bjarne Alman Kås
+2489,Ingbjørn Sørbotten
+2490,Håkon Olsen
+2491,Knut Ove Rake
+2492,Lars Elle
+2493,Morten Trydal
+2494,Jose Janeiro
+2495,Kjell Olsen
+2496,Jarle Kjevik
+2497,Mats Røst Kjørsvik
+2498,Arnfin Skadsem
+2499,Frode Linna
+2500,Hans Martin Arnesen
+2501,Kåre Westre
+2502,Per Kristian Eidspjeld
+2503,Alf Randby
+2504,Alf Halvorsen
+2505,Bjørn Johannesen
+2506,Kolbjørn Berg
+2507,Nils Nilsen
+2508,Harald Allestad
+2509,Jens Johansen
+2510,Per Kristiansen
+2511,Morten Hammersmark
+2512,Leiv Inge Fimreite
+2513,Martin Hårsvær
+2514,Torvind Eskildsen
+2515,Bjørn Myklebust
+2516,Helge Simonsen
+2517,Andreas Simonsen
+2518,Werner Jansen
+2519,Harald Keil
+2520,Aslak Rønvik Solstrand
+2521,Ivar Lode
+2522,Sindre Flaate
+2523,Per Evensen
+2524,Ole Jørgen Karstensen
+2525,Tina Pedersen
+2526,Markus Nodeland
+2527,Morten Ree
+2528,Roy Leonard Hansen
+2529,Stig Tennstrand
+2530,Ronja Lenvik    UK
+2531,Magnus Traasdahl
+2532,Ingvar Kjerpeset
+2533,Frode Kvammen
+2534,Jens Morten Johannesen
+2535,Ronny Mæland
+2536,Åge Wickmann
+2537,Bjørn Bang Abelsen
+2538,Dan Hagen
+2539,Jens Skogberget
+2540,Rune Malt
+2541,Erling Hoff Leirvik
+2542,Jonny Pettersen
+2543,Martin Moncklair
+2544,Terje Ask
+2545,Åsmund Eidsten
+2546,Sondre Faanes
+2547,Hans Chr. Andersen
+2548,Vegard Sletvold
+2549,Nurmi Nelli
+2550,Arnold Hallgren
+2551,Bjarne Lie
+2552,Moreno Einan
+2553,Sverre W. Rostoft
+2554,Torbjørn Skau Johansen
+2555,Øivind Werner
+2556,Leif Blomquist
+2557,Øivind Eftedal
+2558,Michal Daae
+2559,Tor Lamøy
+2560,Torleif Trosdal
+2561,Jens Helgø
+2562,Egil Engen
+2563,Harry Tvedt
+2564,Tor Myhrvold
+2565,John Strøm
+2566,Olav Herheim
+2567,Ann Beatrice Høien
+2568,Robert Øren
+2569,Endre Sundal
+2570,Jack Pedersen
+2571,Håkon Ulvesveen
+2572,Viktor Jensen
+2573,Michael Hals
+2574,Jan Dyngen
+2575,Jens Barsnes
+2576,John Manseterbakk
+2577,Svein Aage Skaar
+2578,E. Karlsen
+2579,Oscar Jacobsen
+2580,Per Otto Knudsen
+2581,Arnfinn Gundersen
+2582,Steinar Ånnerud
+2583,Thor Gundersen
+2584,Nils Tokstad
+2585,Sigurdardottir Amalia Osk
+2586,Joachim Marthinsen
+2587,Dag Anstensen
+2588,Svein Vetnes
+2589,Terje Pedersen
+2590,Dag Årnes
+2591,Erik Kristiansen
+2592,Pedersen Mette
+2593,Richter Lena Amalie
+2594,Sverre Askeland
+2595,Adrian Rosmæl Skauge
+2596,Vetle Sanda
+2597,Øyvind Halsnes
+2598,Aaron Gem Donerciler
+2599,Fredrik R. Lian
+2600,Jacob Frafjord
+2601,Jan Skarding
+2602,Terje Tysvær
+2603,Hans B. Skaset
+2604,Harry Eilertsen
+2605,Øyvind Henanger
+2606,Tiril Boge
+2607,Arne Mulvik
+2608,Bendik Dahle
+2609,Jan Wathne
+2610,Rune Hermansen
+2611,Frank Haugen
+2612,Ole Aalmo
+2613,Cato Andersen
+2614,Runar Christensen
+2615,Henning Hofstad
+2616,Harry Martinsen
+2617,Nima Lama
+2618,Karl Petter Ulvan
+2619,Kristian Krog Hansen
+2620,Rolf Lehn
+2621,Jan Kvitle
+2622,Ken Møller
+2623,Torleiv Knutsen
+2624,Eivind Mathisen
+2625,Terje Volla
+2626,Kåre Næss
+2627,Maarthen Hammersmark
+2628,Geir Olsen
+2629,Björnsdóttir, Bergrós
+2630,Odd Eriksen
+2631,Jakob Enerstvedt
+2632,Jørn Iversen
+2633,Bjørn Wold
+2634,Tine Pedersen
+2635,Melissa Schancke
+2636,Jan Sturle Andersen
+2637,Rune Kristiansen
+2638,Ole Harald Økern
+2639,Henrik Hauge
+2640,Dag Henriksen
+2641,Hestmann Geir
+2642,Klaus Halbakken
+2643,Tor Bjørn Vigrestad
+2644,Henrik Hirth
+2645,Tor Arve Monan
+2646,Daniel Ravndal
+2647,Olve Magne Gjertsen Tengs
+2648,Remi Sture
+2649,Oddmund Gåskjenn
+2650,Max Jensen
+2651,Marianne Hasfjord
+2652,Jostein Berg
+2653,Raymond Greni
+2654,Haakon Tinholt
+2655,Rolf Bruknapp
+2656,Arnt Snorre Rogstad
+2657,Eddy Berntsen
+2658,Jan Erik Hansen
+2659,Tom Nilsen
+2660,Truls Johansen
+2661,Carlos Gutierrez
+2662,Reiel Felde
+2663,Hasfjord Marianne
+2664,Øyvind Meldgård
+2665,Dag Andersen
+2666,John Arne Langhelle
+2667,Alf Ramby
+2668,Mads Flornes
+2669,Odd Gjerstad
+2670,Tore Thoresen
+2671,Trond Ulleberg
+2672,Unn Merete Lie
+2673,Gunnar Johannessen
+2674,Leik Engelsvoll
+2675,Tor Kristensen
+2676,Jan Breivik
+2677,Trygve Lunde
+2678,John Vidar Lund
+2679,Normann Laskemoen
+2680,Vetle Kolberg Stene
+2681,Manasses Tshibala Kabeya
+2682,Ingar Merli
+2683,Per Buarøy
+2684,Axel Hanslien
+2685,Kjell Arnesen
+2686,Yanzhe Bekkemoen
+2687,Erling Nilsen
+2688,Kjetil Ørbeck
+2689,William Stormoen
+2690,Andreas Soto Petersen
+2691,Nikolai K. Aadland
+2692,Otto Krog
+2693,Magnus Østerli Børøsund
+2694,John Ellefsen
+2695,Jon Gudmundsen
+2696,Ragnar Andersen
+2697,Vegar Andersen
+2698,Berglund Donna
+2699,Morten Stene
+2700,Arvid Karlsen
+2701,Halvor Schjetne
+2702,Jostein Kvinnesland
+2703,Geir Karlsen
+2704,Harry Kristiansen
+2705,Bernt Rustad
+2706,Karl Waksvik
+2707,Anna T. Omdal
+2708,Christian M.Sehm
+2709,Morgens Kvassheim
+2710,Gunstein Nyvold
+2711,Jakob Endestad
+2712,Hermund Høgheim
+2713,Kåre Espedal
+2714,Morten Walseth
+2715,Morten Nygaard
+2716,Kristian Einarsen
+2717,Kjell Svendsen
+2718,Odd Håkon Hilton
+2719,Wiggo Røst
+2720,Jan Dahlgren
+2721,John Erlend Storrø
+2722,Arne Gabrielsen
+2723,Christoph Mandler Carlson
+2724,Harry Tang
+2725,Andreas Settemsdal
+2726,Helge Bergheim
+2727,Arnt Ivar Dahl
+2728,Heine Martin Junge
+2729,Odd Neverdal
+2730,Leif Arne Bakke
+2731,Halvor Danielsen
+2732,Finn Svendsen
+2733,Bjørn Ludvigsen
+2734,Jim Harridsleff
+2735,Thor Damhaug
+2736,Körkkö,viivi
+2737,Knut Havnen Johansen
+2738,Knut Hansen
+2739,Andreas Nordby
+2740,Arthur Bolle
+2741,Muslim Patsamigov
+2742,Jørn Leonardsen
+2743,Rothstein, Alisa
+2744,Arthur Tønnesen
+2745,Karen Ros Sæmundardottir
+2746,Edvard Langseth
+2747,Ivar Horvli
+2748,Mariell Rørstadbotnen
+2749,Harald Pedersen
+2750,Arne Karlsen
+2751,Inge Byrkjeland
+2752,Jean Karlsen
+2753,Morten Sørum
+2754,Odd Lien
+2755,Odd Magne Lien
+2756,Jan Abrahamsen
+2757,Stig Olsen
+2758,Tor Sundbye
+2759,Alexander Nævdal Sigurdsson
+2760,Jon Nerdal
+2761,Dag Storalsen
+2762,Iselin Hatlenes
+2763,Ingvald Ytrehus
+2764,Jon Johansen
+2765,Jørn Andersen
+2766,Lasse Bjørgan
+2767,Hans Snekkerbakken
+2768,Raghhild Haug Lillegård
+2769,Henrik Kleveland
+2770,Morten Teigen
+2771,Oliver Haugan
+2772,Ove Østberg
+2773,Andreas Bjordal
+2774,Joachim Heier
+2775,Steinar Aannerud
+2776,Trond Selvåg
+2777,Aage Øibakken
+2778,Alfred Bolseth
+2779,Martin Lier
+2780,Svein Markusen
+2781,Johan Trones
+2782,Rolf Pettersen
+2783,Arne Sørum
+2784,Even Lokøy
+2785,Kjell Steen
+2786,Kai Andre Andersen
+2787,John Olsen
+2788,Knut Iversen
+2789,Mogens Kvassheim
+2790,Øivind Krogstad
+2791,Kalland Lone
+2792,Olaf Garberg
+2793,Nicolai Pedersen
+2794,Viken Andreas
+2795,Ole Brunæss
+2796,Carl Kristian Møller
+2797,Jon Rugland
+2798,Kjell Hansen
+2799,Jim Andersen
+2800,Mohammed Mostafei
+2801,Geir Ivan Yndestad
+2802,Thorleik Årstad
+2803,Åge Johansen
+2804,Kjell Hagen
+2805,Kulle Vikan
+2806,Bjørn Langmo
+2807,Egil Andersen
+2808,Jonas Sebastian H. Karlsen
+2809,Stian Skeiseid
+2810,Arve Kjell Dyrstad
+2811,Dag Bjørkedal
+2812,Geir Skorgenes
+2813,Per Johansson
+2814,Celine Mariell Bertheussen
+2815,Tor Alsaker
+2816,Håkon Sjulstok
+2817,Kenneth Dang
+2818,Egil Horpestad
+2819,Finn Sefaniasen
+2820,Espen Hamre
+2821,Ove Ludvigsen
+2822,Øyvind Seeberg
+2823,Ragnar Skinnarud
+2824,Leif Magnus Grov Husevåg
+2825,Tor Endre Opedal
+2826,Ove Bones
+2827,Rolf Huseby
+2828,Carlsson, Hillevi
+2829,Marius Arnesen
+2830,Koskinen Essi
+2831,Kenneth Jørgensen
+2832,Nils Espesæter
+2833,Terje Andersen
+2834,Kjell Rasmussen
+2835,Celine Båtnes
+2836,Jan Ramstad
+2837,Mathias Dale
+2838,Rune Espelid
+2839,Thor Sjøen
+2840,Gøsta Steen
+2841,Fredrik Finnerud
+2842,Knut Karlsen
+2843,Åge Johan Sundvor
+2844,Vidar Løken
+2845,Gjert Aanes
+2846,Knut Sæther
+2847,Svein Engeseth
+2848,Bjarne Ådnanes
+2849,Gøran Augustson
+2850,Heine Junge
+2851,Stig Tønseth
+2852,Øivind Soltvedt
+2853,Torgeir Bentsen
+2854,Jonas Vigrestad
+2855,Simen Nerkvern
+2856,Gunnar Aune
+2857,Jan Wårdal
+2858,Jan Brevik
+2859,Fred Kristiansen
+2860,Harald Thommasen
+2861,Oda Wiig
+2862,Kai Sindre Moldestad
+2863,Vidar Dalsbø
+2864,Karl Magnar Johansen
+2865,Mia Mundal
+2866,Alexander F. Hetle
+2867,Kåre Vestre
+2868,Simon B. Kværnø
+2869,Kåre Løberg
+2870,Lennart Norgren
+2871,Per Sjødal
+2872,Vegard Andersen
+2873,Ken Lien
+2874,Christer Odin Mjanger Wiig
+2875,Stein Arnesen
+2876,Torgeir Sommer
+2877,Bjørn Frantsen
+2878,Tor Gunnar Olsen
+2879,Ruben Vikhals Bjerkan
+2880,Thor Hammer
+2881,Albert Brandal
+2882,Jan Baar Kristoffersen
+2883,Anders Skjølås
+2884,Andreas Barkhald
+2885,Johnny Pettersen
+2886,Kristian Gjølberg
+2887,Ole Holmen
+2888,Paal Borge
+2889,Espen Brønn
+2890,Helge Storli
+2891,Thor-Håvard Brekke
+2892,Lars Vemund Vikse
+2893,Emil Johansen
+2894,Sindre Østerås
+2895,Christian Sehn
+2896,Amandus Grønlien
+2897,Ingvar Tysvær
+2898,Ivar Falstad
+2899,Knut Herland
+2900,Ole Brunes
+2901,Karoline Aadne
+2902,Arne Aarseth
+2903,Arne Otto Nundal
+2904,Frank Pedersen
+2905,Morten Nygård
+2906,Bjørn Jensen
+2907,Arthur Bale
+2908,Reidar Kristiansen
+2909,Lars Olav Vattøy
+2910,Oddvar Lundseng
+2911,Reidar Berg
+2912,Sigmund Hauge
+2913,Carl Borchrevink Lund
+2914,Petter Henriksen
+2915,Trond Strand
+2916,Svein Kvatninga
+2917,Atle Terøy
+2918,Frode Ervik
+2919,Robin Saleh
+2920,Håkon Nordbø
+2921,Anna K. Niclasen
+2922,Kamilla Gronnestad
+2923,Bjørn Johansen
+2924,Half Lampe
+2925,H.C Andersen
+2926,Morten Wallentinsen
+2927,Knut Bakkeløkken
+2928,Steinar Årsland
+2929,Eirik Bergstedt
+2930,Paul Egil Eidem
+2931,Hans Melien
+2932,Kjell Amundsen
+2933,Olaf Trygve Tønnessen
+2934,Endre Kvamme Berstad
+2935,Asbjørn Aarmo
+2936,Sigurd Langeland
+2937,Harry Marthinsen
+2938,Maks Jensen
+2939,Nils Harald Eriksen
+2940,Geir Kåre Nyland
+2941,Ingvild Brynjulfsen
+2942,Jim Harrdsleff
+2943,Bjarne Aadnanes
+2944,Bjarne Eriksen
+2945,Olav Steffensen
+2946,Roger Paulsen
+2947,Tor Sjøen
+2948,Harry Sagen
+2949,Arne Flåthen
+2950,Elisabeth Holmstrøm
+2951,Karoline Linga
+2952,Helge Olsen
+2953,Iver Svorstøl
+2954,Kjell Magnar Waksvik
+2955,Gunnar Lorentzen
+2956,Emmy Kristine L. Rustad
+2957,Katarina Torrissen
+2958,Osmund Stølsvik
+2959,Robert Barkhald
+2960,Þorarinsdottir Birta Lif
+2961,Nils Espeseter
+2962,Stian Skarslien
+2963,Joachim Junhov Rindberg
+2964,Dag Kompelien
+2965,Edvin Rognaldsen
+2966,Jan Marton Hodne
+2967,Werner Hrasky
+2968,Sindre Høgmo Johansen
+2969,Izak Sussmann
+2970,William Knutsen
+2971,Bo Lennart Norgren
+2972,Gunnar Velde
+2973,Gunstein Myrvoll
+2974,Jan Sørum
+2975,Ole Thomas Horsevik
+2976,Rolf Evanger
+2977,Boge Tiril
+2978,Arild Ove Ørjasæter
+2979,Alf Derås
+2980,Jan Martin Hodne
+2981,Svein Jørgensen
+2982,Lars Lunde
+2983,Bernt Wangberg
+2984,Leik Håland
+2985,Kristin Solbakken
+2986,Bjørn Langmoe
+2987,Tiainen Inka
+2988,Frank Simensen
+2989,Karl Gunnar Klausen
+2990,Simen Ullern
+2991,Tor Ivar Forsland
+2992,Úlfhildur Unnarsdóttir
+2993,Terje Gulholm
+2994,Tor Sundby
+2995,Vidar Jørgensen
+2996,Kjell Schive
+2997,Alexander Sigurdson
+2998,Steinar Dahlin
+2999,Åge Holm
+3000,Kjell Edgar Svendsen
+3001,Thorbjørn Vold
+3002,Jan Magne Flaat
+3003,Geir Bjarmann
+3004,Per Wærnes
+3005,Jens Eimhjellen
+3006,Torleif Trosdahl
+3007,Jesper Larsen
+3008,Kjell Lundal
+3009,Tina Madeleine Larsen
+3010,Thomas Gjedebo
+3011,Tor Martinsen
+3012,Håkon Pedersen
+3013,Reidar Schei
+3014,Harald Borgebund
+3015,Ragnar Øygard
+3016,Hans Alm
+3017,Mario Carrera
+3018,Olav Hegnes
+3019,Steinar Stigre
+3020,Tom Gunnerød
+3021,Jon Stensnes
+3022,Johannes Fjærestad
+3023,Leif Uglestad
+3024,Knut Kiil
+3025,Karl Vaksvik
+3026,Harald Byre
+3027,Knut Westby
+3028,Ole Olsen
+3029,Emil Strandskog
+3030,Karl Johansen
+3031,Roald Fjeldberg
+3032,Sondre Åmbakk
+3033,Thorleif Knutsen
+3034,Steinar Nilsen
+3035,Victor F. Løkkevik-jacobsen
+3036,Einar Wold
+3037,Kristoffer Hansen
+3038,Noraldin Nia
+3039,Morten Johannessen
+3040,Joakim Larsen
+3041,Kristian Erun
+3042,Tom Fredriksen
+3043,Frode Sneve Strand
+3044,Krister Drivenes
+3045,Kristian Silderen Hammer
+3046,Sverre Johansen
+3047,Preben Nordanger
+3048,Trygve Lein
+3049,Finn Martinsen
+3050,Vidar Ringvold
+3051,Ørjan Rullestad
+3052,Niemelä Anna
+3053,Dag A Klinkenberg
+3054,Endre Sandal
+3055,Kurt Arntzen
+3056,Leif Landsem
+3057,Ottar Olsen
+3058,Thomas Verkland
+3059,Ruben Bjerkan
+3060,Stine Mari Hasfjord
+3061,Frode Hansen
+3062,Hans Jacobsen
+3063,Ragnar Johansen
+3064,Kjell Tomter
+3065,Olaf Steffensen
+3066,Ole Sønsterudbråten
+3067,Tarjei Brevik
+3068,Emma Hagen
+3069,Oddbjørn Dahlen
+3070,Mathias Reksten Dale
+3071,Aasmund Kristensen
+3072,Ole Aas
+3073,Dag Magnus Mikalsen
+3074,Celine Mariell Båtnes
+3075,Torbjørn Johnsen
+3076,Per Gåsland
+3077,Hermod Holmen
+3078,Jens Aage Suhr
+3079,Oleiv Nesse
+3080,Johnny Jesting
+3081,Thor Lunde
+3082,Asle Asprusten
+3083,Petter Lund
+3084,Bendik Gjevjon
+3085,Arne Kleiva
+3086,Maarten Hammersmark
+3087,Mikal Olaus Akseth
+3088,Roy Høidal
+3089,Stig Nybø
+3090,Duoc Van Duong
+3091,Sigve Frafjord
+3092,Svein Emil Ljone
+3093,Idar Randby
+3094,Hans Mogens Kvassheim
+3095,Jon Dyngen
+3096,Sigurd Iversen
+3097,Thorvald Toft
+3098,Lars Tetlie
+3099,Øystein Lindholt
+3100,Martine Halvorsen Sønju
+3101,Leif Magne Fursland
+3102,Arild Halvorsen
+3103,Leif Skjørestad
+3104,Edvard Langset
+3105,Venke Bergum
+3106,Arild Digersen
+3107,Reidar Kvinesen
+3108,Yngve Raknerud
+3109,Arne Jens Larsen
+3110,Roar Olsen
+3111,Geir Liaklev
+3112,Petter Alstad
+3113,Finn Landstad
+3114,Magnus Mikalsen
+3115,Sverre Olav Wilhelmsen
+3116,Tor Martin Gudmundsen
+3117,Sverre Sørensen
+3118,Jan Greni
+3119,Kåre Riverud
+3120,Emil Victor Sveum
+3121,Tor Øyvind Andersen
+3122,Bernt Pedersen
+3123,Egil Nygaard Jr.
+3124,Helge Usterud
+3125,Einar Stenbekk
+3126,Sverre Kristiansen
+3127,Bjarne Aare
+3128,Olav Brokland
+3129,Sigve Stavnem
+3130,Elias Langseth
+3131,Andreas Samdal
+3132,Asbjørn Lucassen
+3133,Mads Olsen
+3134,Bjørn Heggelund
+3135,Trond Kolaas
+3136,Atle Andersen
+3137,Halvard Haugen
+3138,Ketil Hiorth
+3139,Tom Moberg
+3140,Roar Lehn
+3141,Tron Røed
+3142,Dag Furulid
+3143,Geir Eriksen
+3144,Svein Solseth
+3145,Lars Ivar Hagfors
+3146,Aleksander Nordmo
+3147,Sivert Wiseth
+3148,Kolbjørn Nybø
+3149,Leolo Bruhn
+3150,Gent Pollestad
+3151,Alexander S Vika
+3152,Geir Einarsen
+3153,Arne Dyrstad
+3154,Dagfinn Lindjem
+3155,Ronny Hestvik Olsen
+3156,Åge Bjørn Øibakken
+3157,Lars Jønvik
+3158,Sindre Ingdahl
+3159,Tore Guldbrandsen
+3160,Frode Dahl
+3161,Bjørn Berentsen
+3162,Hans Petter Wathne
+3163,Ivar Randby
+3164,Erik Svendsen
+3165,Svein Markussen
+3166,Kjell Dahl Larsen
+3167,Eriksson, Nicol Alejandra
+3168,Per Inge Kristoffersen
+3169,Tommy Holm
+3170,Morten Westby
+3171,Lena Hordnes
+3172,Sigurd Larsen
+3173,Vidar Skramstad
+3174,Thor Øyvind Andersen
+3175,Erling Thorland
+3176,Georg Salvesen
+3177,Odd I. Andersen
+3178,Torbjørn Gjersvik
+3179,Øyvind Eftedal
+3180,Dag A. Klinkenberg
+3181,Arne Vang
+3182,Bjørn Brun
+3183,Jan Inge Hammer
+3184,Leif Rune Vang
+3185,Odd Lier
+3186,Pål Hemminghyth
+3187,Oddbjørn Sola
+3188,Peder Pedersen
+3189,Erling Nerland
+3190,Jan Jacobsen
+3191,Thorleiv Knutsen
+3192,Asbjørn Armod
+3193,Tobias Velvang
+3194,Arne Inge Stavnesli
+3195,Svein Lundberg
+3196,Eygló Fanndal Sturludóttir
+3197,Jan Erik Bentehaugen
+3198,Asbjørn Kjerringvåg
+3199,Bjørn Harald Bruun
+3200,Jørgen Erik Haug
+3201,Kåre Nilsen
+3202,Walter Høyvik
+3203,Mundal Mia
+3204,Sten Karlsen
+3205,Svein Søderlund
+3206,Nils J. Utnes
+3207,Morten Hatle
+3208,Sebastian Lund Myrhaug
+3209,Roar Sylte
+3210,Ragnhild Lillegård
+3211,Atle Syversen
+3212,Arne Nielsen
+3213,Dagfinn Fedje
+3214,Ghulan Mustafa
+3215,Ole Kristian Holmen
+3216,Arne Muldvik
+3217,Per Borg
+3218,Ragnar Nilsen
+3219,Thor Sundby
+3220,Svein Myrvold
+3221,Tormod B. Skar
+3222,Roar Haugland
+3223,Synne Walle Tjønnevåg
+3224,Hans Alme
+3225,Svein Lian
+3226,Tor Halvorsen
+3227,Robert Haammersgaard
+3228,Cato Sigurdsen
+3229,Sven Martin Skagestad
+3230,Sanna Uppling
+3231,Arvid Olsen
+3232,Tore Helle
+3233,Even Forås
+3234,Hans Jørgen Johnsen
+3235,Åge Pedersen
+3236,Egil Sæter
+3237,Jan Nygren
+3238,Tom Helge Tunheim
+3239,Laine Eveliina
+3240,Agertoft, Jasmin
+3241,Helene Skuggedal
+3242,Bjørn Thore Olsen
+3243,Ane Westrheim
+3244,Agnar Aadland
+3245,Henik Kleiveland
+3246,Trygve Binder
+3247,Isak Førde
+3248,Frank Emil Hansen
+3249,Svenn-Arne Bjørkelo
+3250,Svend Christiansen
+3251,Jan Helge Nilsen
+3252,Ronald Justlar
+3253,Geir Sørstrømmen
+3254,Klaus Skeie
+3255,Per Røed
+3256,Torleif Knutsen
+3257,Torstein Duesten
+3258,Terje Ree Jr.
+3259,Kjell Johannesen
+3260,Arne Askeland
+3261,Ole Frøystveit
+3262,Øivind Halvorsen
+3263,Anine Linnea Keen Hansen
+3264,Torrey Enoksen
+3265,Thor Myhrvold
+3266,Åge Nilsen
+3267,Kjell Paulsen
+3268,Patrick Jensen
+3269,Rune Lind
+3270,Tor Westli
+3271,Åse Johanne Berge
+3272,Christian Hatland
+3273,Magne Lima
+3274,Arve Hansen
+3275,Arvid Fredriksen
+3276,Pål Waaden
+3277,Edgar Lund
+3278,Peter Østergård
+3279,Svein Arvid Johansen
+3280,Lorentz Sæther
+3281,Georg Knudsen
+3282,Klaus Egil Kallevik
+3283,Svein Arild Olsen
+3284,Alf Johansen
+3285,Egon Vee-haugen
+3286,Erik Bornstedt
+3287,Eystein Hovda
+3288,Finn Kjeldås
+3289,Rune Pettersen
+3290,Melissa Scanche
+3291,Ole Westernes
+3292,Svein Olsen
+3293,Andrew Shaw
+3294,Karstein Duesten
+3295,Per Magne Bell Fossen
+3296,Øivind Sørhusbakken
+3297,Tamara Cvetkovic
+3298,Sigmund Andersen
+3299,Sven Reine
+3300,Tore Vårvik
+3301,Wiggo Dehli
+3302,Andrey Morgal
+3303,Magne Rogne
+3304,Per Karlsen
+3305,Thor Sandvik
+3306,Odd Næss
+3307,Willy Martinussen
+3308,Roald Tøndal
+3309,Torbjørn Dahle
+3310,Jan Skogseth
+3311,Jan Granbo
+3312,Birta Líf Þórarinsdóttir
+3313,Carolina Roa
+3314,Kurt Tonheim
+3315,Frode Thorsås
+3316,Endre Aronsen
+3317,Anfinn Jacobsen
+3318,Bård Dyrseth
+3319,Hans Johnsen
+3320,Rogar Eriksen
+3321,Odd Hilton
+3322,Otto Edvardsen
+3323,Leiv Kvalvik
+3324,Tor Andersen
+3325,Peder Aune
+3326,Bjørn Erik Julseth
+3327,Dag Jakobsen
+3328,John Maseterbakk
+3329,Morten Vedø
+3330,Benjamin Winås
+3331,Tore Thrana
+3332,Martin Grønbech
+3333,Ole Bjor
+3334,Yngve Lervik
+3335,Stine Marie Hasfjord
+3336,Svein Køhler
+3337,Marius Dæhli
+3338,Olav Benestvedt
+3339,Egil Brenne
+3340,Rolf Leksen
+3341,Moktar Sohailifar
+3342,Pål Jordsmyhr
+3343,Kristian Lunde Aven
+3344,Ingelin Garmann
+3345,Pål Kristian Klethagen
+3346,Inge Jonassen
+3347,Magne Storrå
+3348,Oddvar Hagen
+3349,Hans Jensen
+3350,Martin Vangstuen
+3351,Trond Hammernes
+3352,Per Vilhelm Årvik
+3353,Svein Stenset
+3354,Jo Lervik
+3355,Simen B. Hansen
+3356,Vidar Johannessen
+3357,Arnfinn Hamberg
+3358,Inge Andersen
+3359,Tore Rønne
+3360,Alexander W. Skog
+3361,Hjalmar Rønning
+3362,Süssmann Izak
+3363,Andrew Andersen
+3364,Stein Beyer Olsen
+3365,Jørgen Lie
+3366,Gunstein Myvold
+3367,Ketil Skatvold
+3368,Roar Nilsen
+3369,Bjarne Aase
+3370,Svend M. Svendsen
+3371,Bjarne Lund
+3372,Gholan Mustafa
+3373,Gunnar Brunself
+3374,Lars Kjørlien
+3375,Amund Blomkvist
+3376,Pål Grav
+3377,Alexander Ferdinand Hetle
+3378,Eetu Leinonen
+3379,Jostein Bø
+3380,Leif Johan Kvamstad
+3381,Ivar Bårdsen
+3382,Trygve Lie
+3383,Jomar Stjern
+3384,Tore Gulbrandsen
+3385,Johan Vigrestad
+3386,Rolf Øyvind Sæthre Hauge
+3387,Iver Klingenberg
+3388,Knut Einar Øyangen
+3389,Leif Sørensen
+3390,Tom Werner Olsen
+3391,Torkel Ravndal
+3392,Ida Moisio
+3393,Oskar Brandsø
+3394,Dag Steinar Jakobsen
+3395,Ronja Leppiaho
+3396,Gunnar Eriksen
+3397,Stian Welsvik Haugen
+3398,Audun Hyldmo
+3399,Viivi Körkkö
+3400,Synne Walle Tjønnvåg
+3401,Dagfin Feidje
+3402,Oddvar Frueger
+3403,Ernst Østerholm
+3404,Jan Pedersen
+3405,Åge Eikeland
+3406,Arnfinn Dahl
+3407,Jørgen Haug
+3408,Mattias Larsen
+3409,Geir Hjelleseth
+3410,Arne Hoem
+3411,Hans Mogens Kvassehim
+3412,Jan Tore Kolnes
+3413,Rory Fitzgerald
+3414,Einar Kolden
+3415,Leon Årdal
+3416,Thore Kanstad
+3417,Runar Gulliksen
+3418,Hedda Torp Nygård
+3419,Roy Terje Andersen
+3420,Sigmund Stenberg
+3421,Bjørge Næss
+3422,Sverre Dahl
+3423,Jon Sivertsvik
+3424,Elfinn Høgberg
+3425,Øyvind Soltvedt
+3426,Lars Haakon Aagesen
+3427,Petter Vraa
+3428,Alf Larsen
+3429,Kjetil Andre Storesund
+3430,Thomas Herigstad
+3431,Steffen Vold
+3432,Celine Bertheussen
+3433,Joakim Thomassen
+3434,Thorbjørn Brauer
+3435,Espen Kalvø
+3436,Bjørn Mathisen
+3437,Rene Azeem
+3438,Terje Kjøl
+3439,Daniel Isaksen
+3440,Egil Wermskog
+3441,Thorbjørn Hassum
+3442,Øyvind Jacobsen
+3443,Arve Mehl Hansen
+3444,Tom Erik Flatmo
+3445,Geir Dahl
+3446,Preben Bjarkøy Jensen
+3447,Alf Christian Losvar
+3448,Vibeke Carlsen
+3449,Geir-Inge Østli
+3450,Jens Helge Larsen
+3451,Tom Nalum
+3452,Roar Lindbekk
+3453,Ole Christian Andersen
+3454,Theodor Ek Bråtane
+3455,Camilla Carlsen
+3456,Emmy Rustad
+3457,Mari Nesse Bolstad
+3458,Kristian Lundell
+3459,Mariel Rørstadbotnen
+3460,Otto Olsen
+3461,Veronica Sørensen
+3462,Roger Eriksen
+3463,Alf Stølsvik
+3464,Asbjørn Reppe
+3465,Per Li
+3466,Islam Tangijev
+3467,Tor Larsen
+3468,Anders Bonge
+3469,Wibling, Siff
+3470,Iita Kononen
+3471,Arne Sandnes
+3472,Kjell Kaspersen
+3473,Håvard Austnaberg
+3474,Jon Anders Løkkevik
+3475,Rolf Eikeland
+3476,Bjørn Riise
+3477,Kasper Virkestad
+3478,Einar Sørvåg
+3479,Sandra Nevdal
+3480,Siri Magnussen
+3481,Arne Hansen
+3482,Johan Berge
+3483,Rolf Totland
+3484,Remy H.Aune
+3485,Tor Øivind Andersen
+3486,Lars Gaard
+3487,Einar Grude
+3488,Kononen,olivia
+3489,Morten K.Johansen
+3490,Andre Eriksen
+3491,Øyvind Hetland
+3492,Artur Jansen
+3493,Eirik Onarheim
+3494,Erling Haukås
+3495,Thomas Bakstad
+3496,Trygve E. Dyremyhr
+3497,Olaf Lommerud
+3498,Thomas Schawland
+3499,Richard Fjærgård
+3500,Emil Smith Larsen
+3501,Per Egil Refsnes
+3502,Reidar Vang
+3503,Parjanen Tytti
+3504,Trygg Frode Kvalvik
+3505,Olaf Solberg
+3506,Joakim Snildal
+3507,Jørund Sundal
+3508,Isak Anvedsen
+3509,Roar Lindbeck
+3510,Hans Christian Lorentzen
+3511,Thomas Sørensen
+3512,Ola Herheim
+3513,Kristian Ruud
+3514,Lene Christine Telle
+3515,Johnny Steen
+3516,H. Snekkerbakken
+3517,Harald Ulseth
+3518,Knut Larsen
+3519,Allin Rustad
+3520,Leiv Jørund Myhre
+3521,Kåre Vesterø
+3522,Freddy Svendsen
+3523,Espen Andersen
+3524,Rene Ludvigsen
+3525,Adrian Hafsmo
+3526,Arne Riaunet
+3527,Guttorm Dragnes
+3528,Kjell Skaar
+3529,Oddry Folkestad
+3530,Oleiv Nese
+3531,Tore Bisgård
+3532,Thorbjørn Johansen
+3533,Ingvald Mellingen
+3534,Per Lie
+3535,Roald Thommassen
+3536,Kjell Skauge
+3537,Per Frouth
+3538,Jon Bakke
+3539,Victor Larsen
+3540,Tore Waage
+3541,Rezgar Ahmed Rasool
+3542,Anders Blomberg
+3543,Christopher S.Engan
+3544,Einar Nørholm
+3545,Ole Jonny Sønstubråten
+3546,Per Jørgensen
+3547,Brede Tengel Lesto
+3548,Beatrice Llano
+3549,Stian Hoff
+3550,Jacob Ziesler
+3551,Odd Aagesen
+3552,Sindre Nygård
+3553,Jan Wasland
+3554,Fredrik Karlsen
+3555,Byamungu Kabiraba
+3556,Odd Furnes
+3557,Knut Skjelbred
+3558,Bjørn Albert Fossing
+3559,Otto Halvorsen
+3560,Terese Vu
+3561,Sander Freyer
+3562,Tuukka Lehtinen
+3563,Benjamin Brovold Klauset
+3564,Kristen Lyster
+3565,Tor Arne Dahl
+3566,Jørn Harald Høibø
+3567,Per Gulbrandsen
+3568,Trygve Tanberg
+3569,Tor Berner
+3570,Trond Kålås
+3571,Benjamin Brovold
+3572,Solveig Hagalien
+3573,Gisle Ellingsen
+3574,Emma Vittring
+3575,John Mckenzie
+3576,Terje Gundersen
+3577,Tor Myklebust
+3578,Leiv Myhre
+3579,Tomack Sand
+3580,Jørgen Chr. Olsen
+3581,Edle Eik Litland
+3582,Øyvind Engebretsen
+3583,Eirik Nordgård
+3584,Tobias Aarvold
+3585,Stig Henning Gillerhaugen
+3586,Roger Hermanstad
+3587,Tiril Tøien
+3588,Pål R. Seljset
+3589,Rune Askeland
+3590,Arnfinn Lien
+3591,Ole Rønning
+3592,Emil Heia
+3593,Hermund Torkildsen
+3594,Odd Johnsen
+3595,Truls Lyngås
+3596,Trygve Sunde
+3597,Torbjørn Garnes
+3598,Endre Dolata Gundersen
+3599,Alf Bekkelund
+3600,Alvin Årvik
+3601,Dag Steinar Kompelien
+3602,Harald Ness
+3603,Jarle Lysholm
+3604,Tuva Fløysvik
+3605,Matias Lie Bergum
+3606,Kjell Myrvold
+3607,Morten Olsen
+3608,Mikael Bøkestad
+3609,Tryggve Binder
+3610,Pål Seljeset
+3611,Ole Martin Sæthre Fløtre
+3612,Bendik Heder Torp
+3613,Arild Thømt
+3614,Paul Richard Gjølme
+3615,Nils Risholm
+3616,Sture Torsø
+3617,Lars Gard
+3618,Peter Vik
+3619,Torgeir Lekanger
+3620,Tommy Rønning
+3621,Torkil Selnes
+3622,Dag Siksjø
+3623,Petter Wraa
+3624,Trond Eirik Jensen
+3625,Solrun Apneseth
+3626,Tore Mellemsæther
+3627,Aleksander Bø
+3628,Arnt Einar Gjøvåg
+3629,Jan Erik Gustavsen
+3630,Jan Petter Johansen
+3631,Celine Dorothea Opdal
+3632,Erik Aarskog
+3633,Ole Nakken
+3634,Willian Starheim Wallestad
+3635,Bjørn Julseth
+3636,Andre Bjørnsen
+3637,Trude Raad
+3638,Geir Aasmundsen
+3639,Oddvar Knudsen
+3640,Ove Thevik
+3641,Hermann Wraalsen
+3642,Thor Berner
+3643,Marte Rygg Årdal
+3644,Seher Kaya
+3645,Marius Haugland
+3646,Knut Vikne
+3647,Mari Myhrer
+3648,Synne Krokstad
+3649,Roger Alstad
+3650,Thu Thi Minh Tran
+3651,Jan Ødegård
+3652,Stig Hagen
+3653,Anton Bruntland Gustavson
+3654,Håvard Tengesdal
+3655,Finn Kristoffersen
+3656,Reidar Sande
+3657,Runar Pedersen
+3658,Aage Holm
+3659,Glenn Ellingsen
+3660,Ingrid Maria Omma-Daziel
+3661,Trond Antonsen
+3662,Erika Eik Antonsdóttir
+3663,Magnus Alvestad Mikalsen
+3664,Alin Russtad
+3665,Arne Smith
+3666,Harald Bruheim
+3667,Hjalmar Lugvigsen
+3668,Håkon Kvalheim
+3669,Kåre Bertelsen
+3670,Morten Nordvik
+3671,Ronny Sæther
+3672,Tore Svennevig
+3673,Vidar Kleppe
+3674,Øystein Jensen
+3675,Jan Kenneth Ludvigsen
+3676,Nicolai Roness
+3677,Svein Tyskerud
+3678,Tom Flatmo
+3679,Ida Regine Thorstensen
+3680,Therese Vu
+3681,Erik Killi Sandberg
+3682,Martin Oksdøl
+3683,Tore Kanstad
+3684,Johannes Herrem
+3685,Arne Ask
+3686,Erik S. Meland
+3687,Jan Tore Nalum
+3688,Ståle Nordal
+3689,Knut Rake
+3690,Magnar Klausen
+3691,Magnar Pedersen
+3692,Per Olsen
+3693,Rolf Engebretsen
+3694,Nils Jensen
+3695,Ivar Nilsen
+3696,Olav Kongsvold
+3697,Sigvald Rønneid
+3698,Hallvard Haugen
+3699,Håkon Håkonsen
+3700,Andreas Reiakvam
+3701,Frank Sending
+3702,Jan-Olav Thookdee Lorentzen
+3703,Martin Gudmundsen
+3704,Hilde Svalheim Markussen
+3705,Dagfinn Natvik
+3706,Willy Aas
+3707,Oda Wiik
+3708,Ken Robin Vestreim
+3709,Celine Opdal
+3710,Vidar Martinsen
+3711,Kristoffer Øien
+3712,Uno Gisselson
+3713,Kristian Bråten
+3714,Edvin Manseterbak
+3715,Michael Pascoe
+3716,Svein Arnesen
+3717,Svein Ove Fuglestad
+3718,Ragnhild Sørensen
+3719,Roger Langeide
+3720,Jon-Marius Omberg
+3721,Ulf Johansen
+3722,Alexander Hetle
+3723,Lasse Normann
+3724,Roar Svåsand
+3725,Øyvind Bertelsen
+3726,Tristann Andri Karenarson
+3727,Heidi Olafsen
+3728,Edvard Hole
+3729,Jan Egil Larsen
+3730,Gunnar Thommesen
+3731,Hermann Wrålsen
+3732,William Starheim Vallestad
+3733,Odd Egil Samuelsen
+3734,Jørn Hansen
+3735,John Langhelle
+3736,Stuart Gibson
+3737,Morten Hovda
+3738,Bettine Carlsen
+3739,Johnny Sten
+3740,Thor Kubon
+3741,Hans Rosenfeldt
+3742,Cato Håvik
+3743,Kjell Marum
+3744,Egik Wiksøe
+3745,Thomas Firing
+3746,Lene Telle
+3747,Ole Kristian Håvardsen
+3748,Svein Giltvedt
+3749,Jan Kolnes
+3750,Kjell Arne Bø
+3751,Elias Hofstad Langseth
+3752,Gunnar Aagesen
+3753,Egil Skuvik
+3754,Kjell Kjosås
+3755,Walther Høivik
+3756,Lenvik Ronja
+3757,Arild Storsetre
+3758,Asta Rønning Fjærli
+3759,John Borge
+3760,Jannicke Aasen
+3761,Petter Wilke
+3762,Svein Kinander
+3763,Stig Laberg
+3764,Solveig Helene Smistad
+3765,Olav Øygard
+3766,Marie Haakstad
+3767,Rino Steve
+3768,Tonje Boge
+3769,Linda Kværnø
+3770,Rolf Sjølli
+3771,Robert Totland
+3772,Morten Haugnes
+3773,Morten Valseth
+3774,Martin Arnstad
+3775,Kine Krøs
+3776,Kjell Nordstrøm
+3777,Rune Johnsen
+3778,Anna Tolås Omdal
+3779,Torfinn Sandvik
+3780,Jan Jansrud
+3781,Kjetil Skatvold
+3782,Frode Strand
+3783,Astrid Sporstøl Rasmussen
+3784,Svein Tysland
+3785,Rønnevik Dag
+3786,Bjørn Lilleng
+3787,Terje Møller
+3788,Peder Yttervoll
+3789,Ragnar Willemsen
+3790,Kristian Sivertsen
+3791,Bjørnar Berli
+3792,John Skaar
+3793,Geir Eriksson
+3794,Kurt Kallhovd
+3795,Oddvar Strøm
+3796,Anton Brundtland Gustavson
+3797,Tor Olav Meråkerli
+3798,Jarle Bakken
+3799,Bjørn Hagenes
+3800,Noora Lehtonen
+3801,Shane Austbø
+3802,Gunnar Nødseth
+3803,Øyvind Heyn
+3804,Kim Andre Carlsen
+3805,Per Brovold
+3806,Svein Hjelle
+3807,Per Furuseth
+3808,Bjørn Liseth
+3809,Trond Egger
+3810,Stig Ove Dalen Selnes
+3811,Roald Skagen
+3812,Trond Jensen
+3813,Magnus Chr. Jørgensen
+3814,Rasmus H. Aune
+3815,Gunnar Tingvoll
+3816,Jan Kvamme
+3817,Jonny Sjursen
+3818,Per Roger Møllersen
+3819,Lars Joakim Mauritzen
+3820,R. Jensen
+3821,Odd Nordlund
+3822,Frode Meidel
+3823,Ernst Nilsen
+3824,Aasmund Holand
+3825,Vegard Sumstad
+3826,Jan Lervik
+3827,Jaan Evert Isaksen
+3828,Mathias Rud
+3829,Tommy Gjertås
+3830,Magnar Almankaas
+3831,Per Aandal
+3832,Maria P. Eriksen Storteig
+3833,Christian Velle
+3834,Tuva loodtz
+3835,Ragnhild Seim
+3836,Thorbjørn Ask
+3837,Odd Mathisen
+3838,Thorbjørn Pedersen
+3839,Kristian Roås
+3840,Tor Merakerli
+3841,Odd Hagen
+3842,Nils Roger Lofnes
+3843,Bjarne Skåthun
+3844,Sverre Eliassen
+3845,Magne Rogøy
+3846,Sten Rune Karlsen
+3847,Verner Jansen
+3848,Arnt Ole Kolås
+3849,Kurt Arne Tonheim
+3850,Andreas Krogstad
+3851,Dan T. Bergem
+3852,E. Sandberg
+3853,Eivind Bunkholdt
+3854,Helge Bråthen
+3855,Kjell Myhrvold
+3856,Odd Syvertsen
+3857,Vidar Thorbjørnsen
+3858,Roy Høydal
+3859,Jonas Hals
+3860,Knappen Ingrid R.
+3861,Steinar Jørgensen
+3862,Eddy Heggeli
+3863,Litland Edle E.
+3864,Bjørn, Maja
+3865,Kåre Holte
+3866,Linn Therese Dagsland
+3867,Odd Kjellevold
+3868,Rolf Sivertsen
+3869,Dag Klinkenberg
+3870,Kjell Strømsnes
+3871,Yngve Pettersen
+3872,Mikkel Slupphaug Ulvestad
+3873,Per Evjen
+3874,Thor Øivind Andersen
+3875,J.e. Bentehaugen
+3876,Jan Larsen
+3877,Trond Pettersen
+3878,Vidar Hauge Hansen
+3879,Asbjørn Kvinnesland
+3880,Ove Halvorsen
+3881,Roger Kvasnes
+3882,Bjørn Selvik
+3883,Gunder Olsen
+3884,Kurt Bøe
+3885,Tore Aasbak
+3886,Jan Bollan
+3887,Jon Bolland
+3888,Laukkarinen,emma
+3889,Odd Olav Nundal
+3890,Jan Birkeland
+3891,Henrik Malkenes
+3892,Erling Rønning
+3893,Lasse Larsen
+3894,Stian Eikefet
+3895,Øystein Dimmen
+3896,Elisabeth Settem
+3897,Reidar Vikre
+3898,Anton Bruntland
+3899,Trond Ansgar Karlsen
+3900,Thomas Eriksen
+3901,Annfinn Jacobsen
+3902,Jan Rosenvinge
+3903,Rune Falkenstein
+3904,Øyvind Hansen
+3905,Vegar Min Weiseth
+3906,Oda Helene Sunde Svendsen
+3907,Ottar Gjelsvik
+3908,Mariel Rørstadbotn
+3909,Dag Sørlie
+3910,Hjalmar Næss
+3911,Roar Selbekk
+3912,Terje Austigard
+3913,Håvard Skauen
+3914,Klauseth Benjamin
+3915,Nygård Hedda Torp
+3916,Hanne Frafjord
+3917,Arne Njåmo
+3918,Einar Langset
+3919,Rune Larsen
+3920,Even Svorkmo
+3921,Svein Heggvik
+3922,Steinar Andreassen
+3923,Alexander Apeland
+3924,Janette Ylisoini
+3925,Andreas Mistereggen
+3926,Frode Hjelde
+3927,Jan Ove Undem
+3928,Øivind Lereng
+3929,Leif J. Myhre
+3930,Geir Bruun
+3931,Loodtz Tuva
+3932,Hege Torsvik
+3933,Knut Bjune
+3934,Mørck, Ida
+3935,Thor Jørgen Berg
+3936,Oddvar Torevik
+3937,Wilfred Wollertsen
+3938,Per Håland
+3939,Einar Aalberg
+3940,Torstein N. Mellingen
+3941,Arve Keilen
+3942,Kjell Martin Wiik
+3943,Mikkel Ulvestad
+3944,Stefnisdóttir, Tinna María
+3945,Øystein Bringsli
+3946,Tore Totland
+3947,Tenho E. Olsen Ylitalo
+3948,Arild Andersen
+3949,Egil Kristensen
+3950,Anette Fredriksen Høyland
+3951,Per Møllersen
+3952,Arvis Sunde
+3953,Frode Dyrhaug
+3954,Kjell Jhonsen
+3955,Olav Hjelmeseth
+3956,Maria Johnsen Tilset
+3957,Raymond Bjørstad
+3958,Sverre Jorde
+3959,Tommy Hilstan
+3960,Dag Kristian Karlsen
+3961,Alv Olai Røyseth
+3962,A. Mostervik
+3963,Erlend Wood
+3964,Gunnar Riis
+3965,Tom Andre Nevland
+3966,Veronica Weiseth
+3967,Terje Widding
+3968,Ole Fredrik Bergan
+3969,Tor Magne Bjørnødegård
+3970,Torleif Tronsdal
+3971,Bjarne Aarre
+3972,Jan Tore Nord-varhaug
+3973,Vidar Kristoffersen
+3974,Anine Hansen
+3975,Arve Rodriguez Kristoffersen
+3976,Thomas Mathisen
+3977,Ruben Vikan Bjerkan
+3978,Per Øygard
+3979,Reidar Nikelsen
+3980,Torbjørn Ask
+3981,Birger Sundstøl
+3982,Linn Anneth Myrann
+3983,Knut Ove Westby
+3984,Einar Hollum
+3985,Vidar Bekkarik
+3986,Atle Eide
+3987,Rolf Tørmoen
+3988,Anna-Lykke Sandvik
+3989,Knut Sætre
+3990,Alexxxander Vegarud
+3991,Harry Andersen
+3992,Steinar Hoff Leirvik
+3993,Carstein Lund
+3994,Jonny Pedersen
+3995,Frida Baade
+3996,Geir Bertelsen
+3997,Ketil Wiik Johnsen
+3998,Bjarne Bonsak
+3999,Daniel Moen
+4000,Ole Clausen
+4001,Brede Lesto
+4002,Øyvind Holth Johansen
+4003,Jan Eirik Johansen
+4004,Erland Jørgensen
+4005,Jan Nilsen
+4006,Terje Elveos
+4007,Adrian Skauge
+4008,Aleksander Aniksdal
+4009,Marius Smestad
+4010,Olav Storli
+4011,Kittil Arne Skjellhaug
+4012,Svein Even Wærøy
+4013,Jørn Liaklev
+4014,Rogar Mikkelsen
+4015,Sofie Prytz Løwer
+4016,Ferdinand Lie Hestad
+4017,Jan Saksæter
+4018,Grønnestad Kamilla Storstein
+4019,Arnt Ole Midtbø Kolås
+4020,Jens Børsnes
+4021,Terje Haugstad
+4022,Truls Barhaugen
+4023,Bjørn Henden
+4024,Konrad Nordfjellmark
+4025,Kim Due Sørensen
+4026,Sigve Meling
+4027,Kato Løvseth
+4028,Arne Grøtt
+4029,Thord Nordli
+4030,Gunnar Mathisen
+4031,Johannes Johansen
+4032,Arne Thorsen
+4033,Kai Sørensen
+4034,Amalie Haugen
+4035,Arvid Johansen
+4036,Ivar Drange
+4037,Egil Tunsvold
+4038,Eivind Sæland
+4039,Svein Erik Loe
+4040,Arne Fimland
+4041,Bjørn Grove
+4042,Idar Ranby
+4043,Jan Mansverk
+4044,Jan Masland
+4045,Karstein Olsen
+4046,Edgar Bjørnseth
+4047,Morten Wang
+4048,Tom Pedersen
+4049,Tor Helland
+4050,Trygve Sæbø
+4051,Ole Myrvang
+4052,Arild Jørgensen
+4053,Arne Westrheim
+4054,Arnstein Jensen
+4055,Erling Martinsen
+4056,H. Andersen
+4057,Istvan Beck
+4058,Edmund Randers
+4059,Øystein Sæle
+4060,Emil Nygård
+4061,Odd Normann Tomassen
+4062,Tore Høyven
+4063,Sven Reme
+4064,Ove Jonassen
+4065,Øyvind Kvakkestad
+4066,Tuva Loodtz
+4067,Morten Håkonsen
+4068,Einar Ofstad
+4069,Steinar Jacobsen
+4070,Erlend Våtvik
+4071,Tor Hansen
+4072,Per Boretti
+4073,Rebecca Tiffin
+4074,Hallgeir Haver
+4075,Kjetil Guttormsen
+4076,Markus Tveit Kvam
+4077,Thor Magne Five
+4078,Tommy Viken
+4079,Guro Bjørke
+4080,Stein Roar Eriksen
+4081,Åge Madsen
+4082,Maxim Mostafa
+4083,Asbjørn Hermanstad
+4084,Anders Gustavsen
+4085,Svein Johansen
+4086,Willy Olsen
+4087,G. Olsen
+4088,J. Pedersen
+4089,Sigurd Faråsengen
+4090,Svend Soltvedt
+4091,Trond Eriksen
+4092,Asle Olsrud
+4093,Anette Ellingsberg
+4094,Bjarne Økland
+4095,Harald Karlsen
+4096,Simon Thorsell Næss
+4097,Erik Torgersen
+4098,Støle Jacobsen
+4099,Tore Uggedal
+4100,Åsmund Holand
+4101,Ole Dag Løvold
+4102,Tommy Visten
+4103,Torbjørn Ødegård
+4104,Niclas Thill
+4105,Bjørn Floor
+4106,Halvor Lavik
+4107,Sigmund Andresen
+4108,Werner Strømland
+4109,Markus Tveit
+4110,Kine Nilsen
+4111,Svein Thunes
+4112,Øyvind Gjøvåg
+4113,Kaya Synnøve Kristiansen
+4114,Jan Bolland
+4115,Egil Dregelid
+4116,Aleksander Koren
+4117,Fredrik Eidesen
+4118,Martin Gjertsen
+4119,Lars Edvard Akseth
+4120,Jon Gjesdal
+4121,Karl Vikan
+4122,Øyvind Lereng
+4123,Einar Pettersen
+4124,Jørn Mardal
+4125,Steinar Sunde
+4126,Geir Kvam
+4127,Carl Johansen
+4128,Eyvind Eriksen
+4129,Totalf Særheim
+4130,Vetle Stene
+4131,Jonny Remmereit
+4132,Roger Nordby
+4133,Tor Syvertsen
+4134,Erling Veholt
+4135,Einar Sandberg
+4136,Patrick Eide Haltland
+4137,Astrid Rasmusen
+4138,Trygg Syversen
+4139,Ernst Schjerven
+4140,Johnny Fjærevåg
+4141,Arne Haugnes
+4142,Aurora Dale
+4143,Arne Jan Nesje
+4144,Kjell Kolstad
+4145,Kjetil Gudmestad
+4146,Stein Ingebrigtsen
+4147,Olav A. Ervik
+4148,Vegard Øien
+4149,Lisbet Lervik
+4150,Theodor Bråtane
+4151,Hans Forland
+4152,Sara Broe Østvold
+4153,Mindor Småvik
+4154,Viggo Paulsen
+4155,Adrian Aalberg
+4156,Arnt Knygh
+4157,Øivind Jacobsen
+4158,Per Mikkelsen
+4159,Rono Steve
+4160,Lars Aastveit
+4161,Lars Jacobsen
+4162,Reidar Degernes
+4163,Bjørn Johansen 2
+4164,Gunnar Tingvold
+4165,Ståle Meland
+4166,Tore Bakken
+4167,Elias Grindheim
+4168,Per Åndal
+4169,Lisbeth Lervik
+4170,Kim A. Kværnø
+4171,Harald Iversen
+4172,Livar Skjørestad
+4173,Nils Atle Krokeide
+4174,Merethe Solli
+4175,Hanna Sletvold
+4176,Lise Myklebust
+4177,Leif Myhre
+4178,Åse Johanne Berge 
+4179,Lykke, Emily
+4180,Ernst Kristiansen
+4181,Betina Kingell
+4182,Are Njåstein
+4183,Arve Vang
+4184,Kjell Teigland
+4185,Knut Fauskanger
+4186,Håvard Aune
+4187,Morten Trøite Johnsen
+4188,Henning Kvame
+4189,Torbjørn Torp
+4190,Eirik Bjelde
+4191,Nils Kopperud
+4192,Tom Oftedal
+4193,William Hjelde Stormoen
+4194,Jørgen Vold
+4195,Uy Truong
+4196,Arnfinn Høigilt
+4197,Ove Hansen
+4198,Frank Hassel
+4199,Lars Hunn
+4200,Mats B. Herø
+4201,Kristín Dóra Sigurðardóttir
+4202,Tor-ole Dahlø
+4203,Kent Marius Espedal
+4204,Pål Waden
+4205,Tore Fåfeng
+4206,Roar Engebretsen
+4207,Racin Nygård
+4208,Nina Humlevik Monsen
+4209,Tormod Hellesvik
+4210,Tine Rasmussen
+4211,Jarle Nyvold
+4212,Nednad Zvanut
+4213,Lasse Vold
+4214,Ingolf Thorbjørnsen
+4215,John A. Ask
+4216,Kai Hallaren
+4217,Jon-Andreas Jostad
+4218,Alexander Steinsland
+4219,Terje Dahle
+4220,Iver Johnsen
+4221,Pål Sjølyst
+4222,Jan Arve Langørgen
+4223,Lars Tomasgård
+4224,Ole Morten Hetland
+4225,Eivind Eriksen
+4226,Svein Berg
+4227,Thomas Magnussen
+4228,K. Karlsen
+4229,Odd Haugrønning
+4230,Tom Arne Kristensen
+4231,Vegard Talmoen
+4232,Dag Abrahamsen
+4233,F.k. Svendsen
+4234,Roald Thomassen
+4235,Esben Waarhus
+4236,Cecilie Nybru
+4237,Maria Pernille Eriksen Storteig
+4238,Bjørn Onseid
+4239,Pedersen Tine
+4240,Harald Haugen
+4241,Kristian Aven
+4242,Kim Arne B. Weseth
+4243,Daniel Sandal
+4244,Stian Myrhaug
+4245,Magnar Simensen
+4246,Vår Eik Litland
+4247,Roald Aune
+4248,Alf Birkeland
+4249,Mikkel Slupphaug
+4250,Jan Egil Birkeflot
+4251,Sinisaari,marla
+4252,Ingar Singstad
+4253,Thomas Henriksen
+4254,Eirik Nordbø
+4255,Maria Tilset
+4256,Magne Negård
+4257,Hans Granerød
+4258,Leif Kristian Johannesen
+4259,Arne Stave
+4260,Lars Tettlie
+4261,Cato Tjemsland Bø
+4262,Jan Birkeflot
+4263,Nils Juel
+4264,Even Opsal
+4265,Henry Søderlund
+4266,Jan Torsvik
+4267,Sankey Kristiansen
+4268,Jan Bentehaugen
+4269,Per Stang
+4270,Serina Eikemo Kallevik
+4271,Olav Amundsen
+4272,Svein Ove Balle
+4273,Terje Kjøhl
+4274,Tor Høyven
+4275,Ulrik Nilsen
+4276,Bjørn Bakaas
+4277,Roy Inge Pedersen Odland
+4278,Gunleif Krogstad
+4279,Ole Åsen
+4280,Tore Lereng
+4281,Johnny Sandved
+4282,Bernhard M. Brekke
+4283,Per Dale
+4284,Ivar Fadnes
+4285,Jon Birger Brevik
+4286,Louisa Hjelmås
+4287,Jan Erik Johnsen
+4288,Lars Skjørlien
+4289,Bjørn Flor
+4290,Bertil Sæverhagen
+4291,Postila,saara
+4292,Joar Grimstad
+4293,Hanna Kongsvik Vihovde
+4294,Åse Johanne Berge  UK
+4295,Inge Møller
+4296,Håkon Brun Hansen
+4297,Hung Van Troung
+4298,Ivar Andersen
+4299,Pål Tørvik Pedersen
+4300,Tron Selvåg
+4301,Thorbjørn Gjersvik
+4302,Nea Kunnari
+4303,Marthe Rørvik Aarhus
+4304,Edvin Mansæterbakk
+4305,Elisabeth Kringstad
+4306,Lea Berle Horne  UK
+4307,Rune Bekken
+4308,Ivar Johansen
+4309,Magne Vik
+4310,Odd Siksjø
+4311,Aksel Sandstad
+4312,Svein Marcussen
+4313,Hans Eirik Haarberg
+4314,Tobias Litherland
+4315,Kristine Revang
+4316,Mia Tiller Mjøs
+4317,Geir Hammer
+4318,Georg Georgsen
+4319,Bjørn Moholt
+4320,Ragnar Kristvik Risholm
+4321,Øystein Østby Røskaft
+4322,Kjell Ø. Skauge
+4323,Reidar Degnes
+4324,Gent Arild Pollestad
+4325,Jostein Gunderstuen
+4326,A. Njåmo
+4327,Odd Jarl Pedersen
+4328,Harald Næss
+4329,Paal Sørhagen
+4330,Silas Spence
+4331,Nadine Ohla
+4332,Rune Danielsen
+4333,Aleksander Henriksen
+4334,Bjørn Arve Gunnes
+4335,Aksel Sørlie
+4336,Freddy Brandvald
+4337,Kåre Berthelsen
+4338,Jon Einar Haraldsvik
+4339,Ole Hansen
+4340,S. Berntzen
+4341,Svein Andersen
+4342,Finn Blinderen
+4343,Gudmund Haugstad
+4344,Roar Sandvik
+4345,Torleif Ottesen
+4346,Kristoffer Opsahl
+4347,Wallentin Wallentinsen
+4348,Rune Aalvik Lien
+4349,Leander Thorsen
+4350,Savolainen,iiris
+4351,Bjørn Lervald
+4352,Halfdan Kruge
+4353,Bjørn Erik Helgeland
+4354,Jarl Tønnesen
+4355,Nils Kristian Skaar
+4356,Erlend Våtevik
+4357,Gunnar Stenli
+4358,Magne Tjørn
+4359,Steinar Fjeldberg
+4360,Stig H. Gillerhaugen
+4361,Tormod Bergli
+4362,Erlend Ulvestad
+4363,Simon Larsen
+4364,Alexandra Pulcina
+4365,Morten Stavnesli
+4366,Odd Brovik
+4367,Åge Næss
+4368,Hans Wathne
+4369,Per Kristian Jørgensen
+4370,Hanne Andersson
+4371,Hanna Rullestad
+4372,Stig Schulman
+4373,Trond Monsen
+4374,Arne Ueland
+4375,Kristian Undhjem
+4376,Janne Grostad
+4377,Tore Trogstad
+4378,Knut Udnes
+4379,Ingrid Rommetveit Knappen
+4380,Jan Birger Brevik
+4381,Christer Brøtmet
+4382,Arne Vestrheim
+4383,Joakim Hollås
+4384,Ivar Åge Andersen
+4385,Valdimar Nilsen
+4386,Andreas Lindstrøm
+4387,Bjørn Halvosen
+4388,Svein-even Wærøy
+4389,Kjell Kristian Teigland
+4390,Øystein Eldevik
+4391,Silvano Scurti
+4392,Henning Paulsen
+4393,Morten Eriksen
+4394,Naomi Van den Broeck
+4395,Rene Myhre
+4396,Tommy Borgenhaug
+4397,Ole Jørgen Strand
+4398,Vegard Ruud
+4399,Eivind Brox
+4400,Bergrós Björnsdóttir
+4401,Martin Hagen
+4402,Knut Espen Udnæs
+4403,Svend Molland
+4404,Tommy Andre Fonnes
+4405,Iris Luna Millstein
+4406,Asbjørn Tjersmo
+4407,Kim Eirik Hagen
+4408,Nils Petter Johansen
+4409,Lars Kåre Fjellet
+4410,Sven Freberg
+4411,Mathias Larsen
+4412,Kenneth Snoen
+4413,Anders Olsen
+4414,Knut Aronsen
+4415,Lydestad, Luna Ohm
+4416,Kjell Seljeseth
+4417,Kristian Storli
+4418,Jean Henning Holmen
+4419,Thorbjørn Husby
+4420,Kjell Arne Strømsnes
+4421,Torbjørn Carlsen
+4422,Heinne Inge Graawe
+4423,Odd Ågesen
+4424,Roger Magnussen
+4425,Sigurd Farøsengen
+4426,Svein Mastervik
+4427,Tommy Hodne
+4428,Eivind Sandvik
+4429,Julie Kristine Brotangen
+4430,Tom Inge Bekkadal
+4431,Gunnar Kluksdal
+4432,Jørgen Lium
+4433,Leif Haukø
+4434,Rolf Gustad
+4435,Tommy Vinås
+4436,Øivind Bergsten
+4437,Solveig Hagelien
+4438,Erlend Brandvik
+4439,Eirik Granly Foss
+4440,Ronny Bratli
+4441,Tage Pettersen
+4442,Emma Hermine Nilsen Vittring
+4443,Carl Borchgrevink
+4444,Tom Inge Nedrebø
+4445,John Birger Brevik
+4446,Tinna Marína Jónsdóttir
+4447,Per Berg
+4448,Jan Erik Johansen
+4449,Ole Støkke
+4450,Jostein Folgerø
+4451,Rolf Sundt
+4452,Bendik Fon
+4453,Einar Gilberg
+4454,Marthe Dagsland
+4455,Einar Andersen
+4456,Lasse Myrdal
+4457,Sigurd Moss
+4458,Stein Lian
+4459,Trond Ones
+4460,Bjørn Torsen
+4461,Alf Teris
+4462,Geir Rune Schellhorn
+4463,Andreas Krokstad
+4464,Gard Sveipe Bahmanyar
+4465,Morten Stolt Nilsen
+4466,Kristoffer Agerup
+4467,Rene Djupå
+4468,Reidar Walstad
+4469,Marlene Egseth
+4470,Rolf Høyem
+4471,Tom Sorkenes
+4472,Trond Lereng
+4473,Glenn Henning Salte
+4474,Pål Thoresen
+4475,Robert Sletten
+4476,Amanda Træhus
+4477,Andre Weisten
+4478,Ove Haugland
+4479,Sebastian Salimi
+4480,Ivar Helmersen
+4481,Dag Skogli
+4482,Frode Espeland
+4483,Ingvild Prestegård
+4484,Silje Johnsrud
+4485,Ivar Martinsen
+4486,Per Wennstrøm
+4487,Sigve Muldsvor
+4488,Rune Berg
+4489,Aleksander Sunde
+4490,Jarnfris Folkestad
+4491,Stein Magne Skogstad
+4492,Bernt Lilleheim
+4493,Heiðarsdóttir, Bríet Anna
+4494,Frank Buvarp
+4495,Henrik Amundsen
+4496,Svein Thaule
+4497,Odin Celius
+4498,Mathias Heggestad
+4499,Fariwar Hajipouri
+4500,Kjell Ingvar Aniksdal
+4501,Alf Andersen
+4502,Halvard Rasmussen
+4503,Petter Døler
+4504,Raymond Herredsvela
+4505,Geir Sivertsvik
+4506,Karoline Merli
+4507,Ingar Øvstetun
+4508,Christopher Skrondal Engan
+4509,Kai Erik Ekstrøm
+4510,Asbjørn Nore
+4511,Jan Kvæstad
+4512,Stian Molstadkroken
+4513,Marius Mikkelsen
+4514,Vidar Teigen
+4515,Jan Ødegaard
+4516,Jørn Lorås
+4517,Espen Ellefsen
+4518,Sander Norheim
+4519,Alexander Yttervik
+4520,Bård Wanvik
+4521,Hans Eikland Lunde
+4522,Sturle Nilsen
+4523,Peter Østergaard
+4524,Remi Bjørge
+4525,Kristine Skogen Revang
+4526,Roy Refstad
+4527,Linn Christina Larssen
+4528,Kristian Stavik
+4529,Sofie Solli Løseth
+4530,Bengt Veseth Rivenes
+4531,Henrik Madsen
+4532,Hanna Jørstad
+4533,Marianne Erdal Holm
+4534,Sondre Hammer
+4535,Maria Storteig
+4536,Stig Karlsen
+4537,Margrete Sæter
+4538,Birgitte Lund Fredriksen
+4539,Isak Mosand
+4540,Jan Olav T. Lorentzen
+4541,Frode Vihovde
+4542,Odd Arne Carlsen
+4543,Robin Kaviyami
+4544,Sunniva Dale
+4545,Torgeir Holm
+4546,Dagfin Ertveit
+4547,Anders Gjervan
+4548,Jan Didriksen
+4549,Lars Nordbotn
+4550,Ove Bendiksen
+4551,Olav Fanebust
+4552,Magnus Aune
+4553,Geir Svendsbraaten
+4554,Jostein Espetvedt
+4555,Odd Berg
+4556,Rino Hansen
+4557,Per Kristian Sørensen
+4558,Robert Nergård
+4559,Linn Christina Larssn
+4560,Christer Engebretsen
+4561,Joakim Haugen
+4562,Elisabeth Benedicte Settem
+4563,Andreas Beck
+4564,Heine Sør-reime
+4565,Håkon Storrønningen
+4566,Bernt Lillestrøm
+4567,Erik Jensen
+4568,Johnny Remmereit
+4569,Per Bjørvik
+4570,Roy Gulbrandsen
+4571,Marthe Knutsen
+4572,Janne Naomi Rørvik
+4573,Dag V. Syre
+4574,Dag-christian Karlsen
+4575,Torbjørn Bomann
+4576,Tomas Spence
+4577,Anine Keen Hansen
+4578,Jan Ingvaldsen
+4579,Julie Klæboe
+4580,Janne Knudsen
+4581,Odd Samuelsen
+4582,Tore Samuelsen
+4583,Trond V. Pettersen
+4584,Fredrik Solem
+4585,Kyrre Heggdal
+4586,Sten Ronny Hauge
+4587,Martine Jakobsen
+4588,Sanni Pietarinen
+4589,Jon Barmen
+4590,Rolf Søtorp
+4591,Ole Jostein Torsvik
+4592,Johannes Myhre
+4593,Jon Haraldstad
+4594,Olivia Kononen
+4595,Jan Johennessen
+4596,Joachim Emilsen
+4597,Sara Dårstad Jacobsen
+4598,Ingar Hansen
+4599,Jon Anderseen
+4600,Roger Skogstrand
+4601,Torbjørn Andreassen
+4602,Lars Christian Wold
+4603,Benjamin Pedersen
+4604,Ketil Johansen
+4605,Kurt Skinstad
+4606,Vegar Neshaug
+4607,Stian Håland
+4608,Hallvor Lavik
+4609,Klaus Ulseth
+4610,Lars Jørgen Sørfonn
+4611,Rolf Myrvoll
+4612,Terje Joensen
+4613,Sverre Marceliussen
+4614,Julie Kristine Botangen
+4615,Aksel Strand
+4616,Johan Skaterud
+4617,Th. Andreassen
+4618,Roar Kråkenes
+4619,Roald Størmer
+4620,Robin Sandal
+4621,Andreas Hagen
+4622,Henrik Gundersen
+4623,Jo Even Linnerud
+4624,Stig Rune Slupphaug
+4625,W. Wallentinsen
+4626,Roger Heier
+4627,Trond E. Jensen
+4628,Martin Hjelmeland
+4629,Karl-magnar Waksvik
+4630,Sigvart Steinsli
+4631,Viggo Evjen
+4632,Rolf Haugsbak
+4633,Magne Tvedt
+4634,Odd Erik Jensen
+4635,Hans Førland
+4636,Odd Sjøblom
+4637,Roar Hassel
+4638,Anne Knarvik
+4639,Vidar Larneng
+4640,Arvid Sunde
+4641,Helge Johansen
+4642,Roland Tørrhaug
+4643,Sigmund Martinsen
+4644,Jacob B. Sønstrud
+4645,Knut Berg
+4646,Arvid Høien
+4647,Kjetil Langerud
+4648,Frode Krogen
+4649,Hilja Marie Korsnes
+4650,Bjørn Eldevik
+4651,Egil Prestegård
+4652,Knut Nylund
+4653,Runar Bjørntvedt
+4654,Nikolaj Bache Ruud
+4655,Anders Marum
+4656,Erik B.Eriksen
+4657,Normann Hagen
+4658,Jørgen W. Olsen
+4659,Tollef Jensen
+4660,Tom Slungård
+4661,Zekiye Nyland
+4662,Bjørn Ullereng
+4663,John Roger Olsen
+4664,Kristian Aksnes
+4665,O.j. Engebretsen
+4666,Tommy Aanensen
+4667,Øyvind Brathetland
+4668,Ida Regine Thorsteinsen
+4669,Julie Brotangen
+4670,Sigurd Vedøy
+4671,Tom Stian Høiland
+4672,Johnny Torkelsen
+4673,Aria Senemar
+4674,Harald Meland
+4675,Rolf Haugsbakk
+4676,Rune Harald Tunestvedt
+4677,Ole Jarstad
+4678,Rørvik Janne Naomi
+4679,Thorleif Ahlgren
+4680,Tom Arild Langestrand
+4681,Kristian Antonsen
+4682,Lars Napstad
+4683,Kristian Eide
+4684,Lasse Tollefsen
+4685,Kornelia Sunde Flo
+4686,Magnus K. Jensen
+4687,Sven Harald Jaunn
+4688,Willy Jensen
+4689,Per Kristoffersen
+4690,Alf Kjevik
+4691,Geir Amund Olsen
+4692,Mikal Souka
+4693,Ole Ingvar Engebretsen
+4694,Mats Gundseth
+4695,Arne Sandvik
+4696,Kai Kristiansen
+4697,Hanna K Vihovde
+4698,Torkel Berli
+4699,Mats Holm
+4700,Andreas Stene Krokstad
+4701,Geir Lilleeng
+4702,Thomas Hernes
+4703,Jim Andre Sørå
+4704,Lone Elise Kalland
+4705,Helene Angelica Markhus
+4706,John Skarås
+4707,Karl Hansen
+4708,Arve Gunnes
+4709,Kornelius Skrettingland
+4710,Petter Lingås
+4711,Cato Hammervold
+4712,Martin Sør-reime
+4713,Helge Sævik
+4714,Kai Olshausen
+4715,Kato Chen
+4716,Vegard Åsen
+4717,Bjørn Bjørnholt
+4718,Bjørn Børke
+4719,T. Sanden
+4720,Rolf Gunnar Størseth
+4721,Vidar Stokka
+4722,Hallvard Edvardsdal
+4723,Lars Løkkevik
+4724,Stig Arne Tronsgård
+4725,Iris Lune Millstein
+4726,Oddbjørn Bjunes
+4727,Vilde Elisabeth Davidsen
+4728,Atle Hagen
+4729,Paul A. Endresen
+4730,Kaya Kristiansen
+4731,Jon Tørseth
+4732,Britt Viljugrein
+4733,Steffen R. Halvorsen
+4734,William S. Vallestad
+4735,Serine Bucher
+4736,Daniel Skogstad
+4737,Lawrence Nilsson
+4738,Willy Hoddevik
+4739,Rullestad Hanna
+4740,Svein Aksel Jørgensen
+4741,Oda Marie Myklebust
+4742,Frikk Alexander P. Oldollen
+4743,Lasse Balstad
+4744,Tor Håkon Haug
+4745,Emelie Førstemann Nilsen
+4746,Geir Elde
+4747,Kåre Rogne
+4748,Knut Espen Udnes
+4749,Jon Erik Andersen
+4750,Per Helge Eikeland
+4751,Jon Andreas Myklebust
+4752,Øyvind Holm
+4753,Tom Gregersen
+4754,Anders Knutsen
+4755,Signe Høstmark
+4756,Thomas Spence
+4757,Asbjørn Lavik
+4758,Birger Rønning
+4759,Jan Hektoen
+4760,Kåre Pynten
+4761,Stig Rønne
+4762,Svein Rønhovde
+4763,Asbjørn Lauritsen
+4764,Robert Finnanger
+4765,Sara D. Jacobsen
+4766,Bjørn Lien
+4767,Jonny Lund
+4768,Kristian Lomeland
+4769,Brede Tengsol Lesto
+4770,Omar Mekki
+4771,Evelina Galaibo
+4772,Ingeborg Endresen
+4773,Felix Blomkvist
+4774,Ole Christian Asphaug
+4775,Idar Sæther
+4776,Kjell Sommerud
+4777,Ole Stefseng
+4778,Þórðardóttir, Sólveig
+4779,Loisia Hjelmås
+4780,Haakon H. Rød
+4781,Boguslaw Debek
+4782,Lene Garvik
+4783,Robert Rygge
+4784,Bjørn Soma
+4785,Roy Johnsen
+4786,Magne Lien
+4787,John Dagsland
+4788,Eva Kristin K. Erikson
+4789,Jostein Strømmen
+4790,Erik Iversen
+4791,Marius Brekstad
+4792,Tor Håvard Nilsen
+4793,Sigmund Raaen
+4794,Sverre Sivertsvik
+4795,Jarle Løken
+4796,Bent Larsen
+4797,Frank Olsen
+4798,Linda Kolobekken
+4799,Halvard Huuse
+4800,Bjarne Øverås
+4801,Jamal Jamniri
+4802,Jonas Nøkleby
+4803,Ulf Dæhlen
+4804,Kåre Pettersen
+4805,Joakim Grønsdal
+4806,Lene Riksfjord
+4807,Atle Pedersen
+4808,Espen Isaksen
+4809,Stein Stamnes
+4810,Orri Filippusson
+4811,Frank Stig Halvorsen
+4812,My An Dinh
+4813,Carsten Cleve-Hansen
+4814,Jon Asle Sjøli
+4815,Espen Eilertsen
+4816,Odin Håskjold
+4817,Arnt Høiseth Gullikstad
+4818,Anita Kristoffersen
+4819,Eline Vassbrekke
+4820,Christian Olsen
+4821,Andreas lian
+4822,Hallgeir Kleppe
+4823,Jørgen Olsen
+4824,Råger Skogstrand
+4825,Svend Berg
+4826,Roy Francke
+4827,Oscar Wiggen
+4828,Arnleif Skei
+4829,Tom Ronny Sorknes
+4830,Tor André Bjørnsen
+4831,Synne S. Rogstad
+4832,Terje Lindstrøm
+4833,Caroline Røsbø
+4834,Line Giertsen
+4835,Geir Nilsen
+4836,Kornelia Flo
+4837,Jan Michael Hals
+4838,Niklas Skyberg
+4839,Trond Ove Monsen
+4840,Mats Larsen Marøen
+4841,Eilef Lundevold
+4842,Pooya Naemi
+4843,Erlend Søvik
+4844,Ivar Tollefsrud
+4845,Stein Wilson
+4846,Tor Erik Espeland
+4847,Jarnfrid Folkestad
+4848,Svein Solheim
+4849,Stefan Glasø
+4850,Line Gjertsen
+4851,Erland Olsen
+4852,Maren Vestre Fosse
+4853,Even Simensen
+4854,Torleif Rognsøy
+4855,Are Leland
+4856,Martin Johannesen
+4857,Sondre Enlid
+4858,Alexander Koren
+4859,Håvard Andre Slørdal
+4860,Linn Christina Larsen
+4861,Odd Lundhaug
+4862,Øystein Skauge
+4863,Erik Utheim
+4864,Thore Thoresen
+4865,Kristian Strand
+4866,Trond Ove Madsen
+4867,Thomas Pedersen
+4868,Gjert Gundersen
+4869,Christer- Andre Larsen
+4870,Camilla Simonsen Brustad
+4871,Torbjørn Haugland
+4872,Torstein Monsløp
+4873,Geir Heglund
+4874,Svein Jensvold
+4875,Kjell Kalvaa
+4876,Samuel Rafteseth
+4877,Joachim Graven
+4878,Per Skogstad
+4879,Roger Johansen
+4880,Sven Jaren
+4881,Terje Skaalvik
+4882,Torbjørn Vold
+4883,Jan Erik Andersen
+4884,Robert Negård
+4885,Tenhu E. Olsen Ylitalo
+4886,Bjørn Leirvold
+4887,Stein Holter
+4888,Martin Ramm
+4889,Agnar Svendsen
+4890,Kenneth Aaland
+4891,Andreas Askerud
+4892,John Waagan
+4893,Tina Husebø
+4894,Bård Olsen
+4895,Jørn Eriksen
+4896,Arne Bakke
+4897,Kenneth Smebøle
+4898,Ruben Dalsbø
+4899,Ole Petter Øvretveit
+4900,Tordis Kristin Bjorland
+4901,Jørgen Solheim
+4902,Sara Jacobsen
+4903,Lise Bruland
+4904,Sturla Tømmerås
+4905,Carl Andersen
+4906,Odd Nilsen
+4907,Ingrid Elise Nilsen
+4908,Rune Anvik
+4909,Thomas Brynjulfsen
+4910,Trond Arild Engen
+4911,Torgeir Sanden
+4912,Bjarne Berentsen
+4913,Kjell Mundheim
+4914,Stig Bosch Johansen
+4915,Torstein Skjærvold
+4916,Fern Carver
+4917,Eirik Paulsen
+4918,Henrik Frøyen
+4919,Trond Martin Gilleshammer
+4920,Olav Telneset
+4921,Dagmar Hansen
+4922,Nils Jan Jensen
+4923,Nils Skaar
+4924,Lars Wold
+4925,Dag Nordstrand
+4926,Arvid Andersen
+4927,Rune Kjeldsen
+4928,Thor Flathe
+4929,Anita Skimten Monsen
+4930,Vilde Davidsen
+4931,Bård Tore Rogstad
+4932,Ove Drægli
+4933,Magnus Nordmo
+4934,Ole Anderssen
+4935,Even Andersen
+4936,Leif Christian Larsen
+4937,Marius Egseth
+4938,Oluf Magnussen
+4939,Sverre Sundset
+4940,Monica Hansen
+4941,Laila Bjørnarheim
+4942,Roy Einarsen
+4943,Rune Åbø
+4944,Lars Morten Johansen
+4945,Stian Vik Birkestrand
+4946,G. Eriksen
+4947,Geir Johnsen
+4948,Geir Krogstad
+4949,John Søtorp
+4950,Terje Fjærestad
+4951,Rolf Skår
+4952,Vihovde Hanna K.
+4953,Ole Nordvik
+4954,Arnt Ole Mitbø Kolås
+4955,Leif Dalåmomo
+4956,Tom Lauritsen
+4957,Roger Njåstad
+4958,Asbjørn Hildrum
+4959,Stine Grønning Finserås
+4960,Randulf Sundfør
+4961,Arne Rio Vestrheim
+4962,Jan Svendsen
+4963,Janicke Waale Jensen
+4964,Ole Sandvik
+4965,Iren Neståker Aastad
+4966,Roger Pettersen
+4967,Trond Andre Vedvik
+4968,Bjørnvik, Maya
+4969,Thu Tran
+4970,Tinna Marina Jonsdottir
+4971,Jon Mathisen
+4972,Tor Modahl
+4973,Frank Hessevik
+4974,Anton B. Gustavson
+4975,Egil Sørvær
+4976,Erik Havenstrøm
+4977,Odd Eiken
+4978,Johan Skatrud
+4979,Trond Floan
+4980,Willy Hosødegård
+4981,Kristina Støfring
+4982,Isabell Thorberg
+4983,Lisa Tvedt
+4984,Lars Andresen
+4985,Torgeir Farsund Thorrud
+4986,Reidar Nickelsen
+4987,Stein Bjellerås
+4988,Jäppinen,iina
+4989,Oddvar Skeimo
+4990,Trond Berget
+4991,Per Schrøder
+4992,Trond Malmo
+4993,Inger Kristin Wiik
+4994,Andrine Sandved Hestenes
+4995,Atle Bjerke
+4996,Bjørn Relling
+4997,Rolf Dahlseng
+4998,Stig Frode Lehre
+4999,Hans Berg
+5000,Jonas Helgheim
+5001,Olav Moxness
+5002,Finn Hugo Rasmussen
+5003,Tore Toresen
+5004,Nikolai Gram
+5005,Vegard Mjelva Bråten
+5006,Gisle Hidle
+5007,Jon Olsen
+5008,Kjell Fjellvær
+5009,John Henry Martinsen
+5010,Andre Gåsemyr
+5011,Fredrik Gram
+5012,Ketil Andersen
+5013,Aril Torheim
+5014,Niclas Till
+5015,Agniwszka Brannsether
+5016,Ronny Olsen
+5017,Susanne Linnea Leer
+5018,Knut Udnæs
+5019,Runa A. Skarbø
+5020,Jonny Nilsen
+5021,Ove Mellingen
+5022,Eivind Kjenes
+5023,Helle Henriksen
+5024,Jan Brekke
+5025,Simen Trosterud
+5026,Stian Vinny Koløen Varne
+5027,Helge Vevle
+5028,Trond Levang
+5029,Evelina Galaido
+5030,Njål Sunde
+5031,Anders Sele
+5032,Jan A. Lykseth
+5033,Synne Netland
+5034,Remi Andre Onarheim
+5035,Camilla Brustad
+5036,Julie Alexandra Klæboe
+5037,Knut Steinar Syversen
+5038,Are Bjørnerud
+5039,Kenneth Hovd
+5040,Frank Hovland
+5041,Daniel Nedrevåge
+5042,Sturle Myrmel
+5043,Anton Damm
+5044,Finn Hoem
+5045,Knut Skullestad
+5046,Frode Hadland
+5047,Tron Ove Monsen
+5048,Sunniva Bruland
+5049,Astor Larsen
+5050,Geir Kristiansen
+5051,Thorbjørn Andreassen
+5052,Ingvild Skoe
+5053,Kim Andre Nilsen
+5054,Kjell Arne Strømsnæs
+5055,Kaspar Moulin
+5056,Alex Ek
+5057,Arvid Næss
+5058,Helge Hegreberg
+5059,Kato Hammervold
+5060,Sverre Halvorsen
+5061,Stig Rolstadås
+5062,Ingeborg Bern Egeland
+5063,Vidar Vedaa
+5064,Olav Galteland
+5065,Ruben Vikan
+5066,Andreas Røhjell
+5067,Gunther Meyer
+5068,Hermod Wågan
+5069,Simen Sætre
+5070,Runar Hansen
+5071,Anders Svenskerud Bækkedal
+5072,Maria Lavelle
+5073,Knut Johansen
+5074,Tinna Marína Jónsdóttir⁠
+5075,Bjørn Are Olsberg
+5076,Karoline Kroken
+5077,Cornelius Wiedswang
+5078,Pål Aunvåg
+5079,Svein Myklebust
+5080,Andreas Lossius Ask
+5081,Marco Pedersen
+5082,Thore Fåfeng
+5083,Elisabeth Sletten
+5084,Arild Dalhaug
+5085,Ivar Hansen
+5086,Per Anders Wennstrøm
+5087,Svein Fjeld
+5088,Kåre Amundsen
+5089,Erik Årsbog
+5090,Henry Nilsen
+5091,Jarle Sætran
+5092,Ole Johan Johnsen
+5093,Wenche Michelsen
+5094,Arnt-ole Midtbø Kolås
+5095,Mari Elisabeth Hobrad
+5096,Jørn Pettersen
+5097,Jørn Madsen
+5098,Hansen, Tilde Grandorf
+5099,Bjørn Arild Bjørnholt
+5100,Joachim Derås
+5101,Martin Gudheim
+5102,John Albertsen
+5103,Tommy Nordhagen
+5104,Erik Westby
+5105,Sara Bø
+5106,Mari Waagan
+5107,Torgeir B. Kaspersen
+5108,Dag Austad
+5109,Olav Fredriksen
+5110,Rune Kongshaug
+5111,Svein Tore Jensvold
+5112,Mats Hansen
+5113,Terje Øyangen
+5114,Magnus Hauge
+5115,Ørjan Stubhaug
+5116,Dag Morten Karlsen
+5117,Jan Østenstad
+5118,Emil Grove Dyrvik
+5119,Morten Andreassen
+5120,Erlend Bakken
+5121,Even Ring
+5122,Sven Thaule
+5123,Jon Runar Ekeli
+5124,Eva Kristin Erikson
+5125,Kjetil Follesø
+5126,Lukas Kompelien
+5127,Prit Singh
+5128,Kurt Hobberstad
+5129,Jørn Loraas
+5130,Svein Skogstad
+5131,Julie Klæbo
+5132,Mariell Morken
+5133,Kevin Ørnholt
+5134,Andreas Olesen
+5135,Simen Kristoffer Frogner
+5136,Arthur Nilsen
+5137,Ketil Jonstad
+5138,Roy Johansen
+5139,Andreas R. Lian
+5140,Francis Elias Voie
+5141,Fredrik Grønlund
+5142,Olav Holst Skrede
+5143,Bjørn Halvorsen
+5144,Espen Osen
+5145,Kai Birger Kristiansen
+5146,Andrine Hestenes
+5147,Laila Therese Bjørnarheim
+5148,André Friestad
+5149,Else-Mari Rygg Lind
+5150,Morten Uv
+5151,Wiggo Lyngstad
+5152,Katerina Øye
+5153,Eivind Jahr
+5154,Bernt Inge Berg
+5155,Jasper Westhof
+5156,Emil H. Karlsen
+5157,Hans Hellesø
+5158,Geir Olav Klausen
+5159,Tommy Johansen
+5160,Øyvind Støle Jacobsen
+5161,Sverre Woldseth
+5162,Tina Marita Kværnø
+5163,Linda Kolbekken
+5164,Gunnar Husebø
+5165,Martin Instefjord
+5166,John Sjursø
+5167,Kurt Stenstad
+5168,Leif Bjøndal
+5169,Per Blichfeldt
+5170,Oddbjørn Solberg
+5171,Tom Fjærestad
+5172,Audun Eik
+5173,Celina Ramstad
+5174,Marthe Korsvold
+5175,Christian Wevle
+5176,Pål Angvoll
+5177,Arne Morsund
+5178,Marte Walseth
+5179,Jan Christian Nystrøm
+5180,John Sivertsvik
+5181,Helge Johannessen
+5182,Stein Søyland
+5183,Anna Tumova
+5184,Bjørn Wahl
+5185,Anne Knavik
+5186,Carl Fuglevik
+5187,Fred Ivar Haugen
+5188,Per Arve Steri
+5189,Jonas Olsen
+5190,Tore M. Bjørnødegård
+5191,Rolf Øidvin
+5192,Rune Blinderen
+5193,Karluf Sørenes
+5194,Oddmar Drage
+5195,Inga Medbø
+5196,Ben Arve Hopland
+5197,Steinar Olsen
+5198,Oda Helen Sunde Svendsen
+5199,Øistein Unnerud
+5200,Heine Kristiansen
+5201,Mia Iden Hellesen
+5202,Odd Sand
+5203,Daniel Bøhme
+5204,Vegard Sælen
+5205,Bjarte Bjørndal
+5206,Robert Finnamger
+5207,Andrea Dolonen
+5208,Anna Szigeti
+5209,Bjørn Grepstad
+5210,Bernt Petter Tennstrand
+5211,Ole Halvorsen
+5212,Hans Petter Hassel
+5213,John Fosse
+5214,Bjørn Terje Hansen
+5215,K. Pettersen
+5216,Tommy Hjertås
+5217,Siren Loy
+5218,Trond Arve Sætre
+5219,Torstein Olsen
+5220,Frank Wie
+5221,Terje Gjøvåg
+5222,Mats Larsen
+5223,Endresen Ingeborg
+5224,Trine Endestad Hellevang
+5225,Faryad Nadri
+5226,Lene Østvik
+5227,Bjørn Gulbrandsen
+5228,Dag Antonsen
+5229,Kine M. Stensrud
+5230,Mari Henrikke Pedersen
+5231,Lars Olav Andersen
+5232,Harald Hjelleset
+5233,Sondre Vervik
+5234,Tor Herman Bjørk
+5235,Kjell Sormerud
+5236,Kjell Ervik
+5237,Vidar Sørensen
+5238,Frode Kyllingstad
+5239,Arnt Espås
+5240,Helena Boye
+5241,Anja Rostad
+5242,Kjartan Furnes
+5243,Håvard Vedeler Nilsen
+5244,Knut Langeng
+5245,R. Nilsen
+5246,Eskil Nystad
+5247,Bjørn Ødelund
+5248,Victoria Ulsund
+5249,Geir Harald Langeland
+5250,Lars Berg
+5251,Arthur Svenning
+5252,Frode Arnevik
+5253,Morten Østergaard
+5254,Tor Åkvik
+5255,Ketil W. Thomsen
+5256,Hans Sørensen
+5257,Glenn Haugstad
+5258,Lars Bjerke
+5259,Magne Hoem
+5260,Olaf Magnussen
+5261,Ronny Angel Løvstad
+5262,Tommy Ruud
+5263,Dan Nordstrand
+5264,Magnus Kringstad Olsen
+5265,Ole Havik
+5266,Ole Stafseng
+5267,Kjell Hallmann
+5268,Sigmund Marthinsen
+5269,Tor Frøyland
+5270,Birger Sørensen
+5271,Morten Hansen
+5272,Øyvind Voie
+5273,Bjørnar Ervik
+5274,Øyvind Udnes
+5275,Steinar Hansen
+5276,Helge Svarstad
+5277,Kjell Svartsund
+5278,Per Fossum
+5279,Nicolai Fasting
+5280,Rino Holm
+5281,Kine Marie Pettersen
+5282,Marte Alvsåker Walseth
+5283,Einar Lode
+5284,Rune Solberg
+5285,Katharina Øye
+5286,Arild Kristensen
+5287,Steinar Sølversen
+5288,Roar Johansen
+5289,Carmen Grimseth
+5290,Bengt Bjørsvik
+5291,Atle Berle
+5292,Rfank Johnsen
+5293,Henning Joa
+5294,Ole Amundsen
+5295,Reidar Merli
+5296,Vidar Fløde
+5297,Martin Fagervold
+5298,Aron Fauske
+5299,Tore Stedal
+5300,Truls Bruflodt
+5301,Andreas Reiakvam Lindstrøm
+5302,Alf Kenneth Haugstad
+5303,Trygve Håve
+5304,Bjørn Olav Espe
+5305,Christer Endregaard
+5306,Tore Amundsen
+5307,Boye Helena
+5308,Kjartan Habbestad
+5309,Øyvind Setvik
+5310,Mentz Johan Strand
+5311,Per Arne Severinsen
+5312,Steinar Pedersen
+5313,Arve Larsen
+5314,Kassandra Schønberg
+5315,Jauhojärvi,matilda
+5316,Sven Molland
+5317,Finn Tore Svendsen
+5318,Siri Henriksen Vik
+5319,Marthe Korsvoll
+5320,Shora Rezaie
+5321,Arne Leif Skei
+5322,Trond Hansen
+5323,Odd Eivind Mellingen
+5324,Arnt Herman Nodeland
+5325,John Barmen
+5326,Mari Kogstad Finnestad
+5327,Ivar Stensrud
+5328,Magnar Almankås
+5329,Kåre Lundby
+5330,Jørund Gundersen
+5331,Sivert Stenersen
+5332,Morten Nilsen
+5333,Terje Furberg
+5334,Jan Daniel Nedrevåge
+5335,Aksel Ivar Sørlie
+5336,Alf Limm
+5337,Arne Ulrik Nilsen
+5338,Geir Inge Lilleng
+5339,Thom-Eirik Wangsvik
+5340,Joaquin A. C. Pernigotti
+5341,Helge Hammer
+5342,Elise Sandhaug
+5343,Lars Krogsund
+5344,Simen Martinussen
+5345,Saara Postila
+5346,Odd Hagengen
+5347,Roger Nilsen
+5348,Jon H. Ludvigsen
+5349,Kristian Stenkløv
+5350,Nicolai Berthelsen
+5351,Robert Høgelid
+5352,Odin Munkhaugen
+5353,Roman Nogueron
+5354,Anette Vårvik
+5355,Jonny Gamme
+5356,Anita Monsen
+5357,Larisa Izumrudova
+5358,Sara Olavesen
+5359,Madeleine Olaussen
+5360,Arvid Gisvold
+5361,Svein Dahl
+5362,Eva Kristin Knutsdottir Erikson
+5363,Jonny Sønsterudbråten
+5364,Bjørn Brøtmet
+5365,Jim David Huse
+5366,Leiv Arne Sårheim
+5367,Kine Sofie Ofte Grimeland
+5368,Arvid Andresen
+5369,Jan Kvatningen
+5370,Ingmar Haraldseid Søvik
+5371,Kevin Solbakken
+5372,Fredrik Von Schlanbusch
+5373,Anne Waage
+5374,Monica Bakkevik
+5375,Dawid Zakrzewski
+5376,Emily Ellefsen
+5377,Dag Lyngstad
+5378,Glen Hauge
+5379,Hans Høiseth
+5380,Arne Kvinnesland
+5381,Erik Bjørlien
+5382,Rolf Halvorsen
+5383,Eirik Nilsen
+5384,Selma Høegh-larsen
+5385,Jonny Skjerping
+5386,Jakub Kubyda
+5387,Ari Hansen
+5388,Petter Piil
+5389,Randulf Sudfær
+5390,Lars Dehli
+5391,Runar Saxegård
+5392,Odin Strandkleiv Thorsrud
+5393,Birgitte Bremnes
+5394,Øistein Wærnes
+5395,Jan Andre Hennes
+5396,Halvard Edvardsdal
+5397,Richard Bergmann
+5398,Jan Sigve Helgeland
+5399,Trond Sjøli
+5400,Tao Sitthiphon Botree
+5401,Eirin Nygren
+5402,Eirik Berg Nordheim
+5403,Vebjørn Nyhammer Hansen
+5404,Lisa Laumann
+5405,Alice Bråtveit Kirketeig
+5406,Geir Håkon Jom
+5407,Helge Fjærestad
+5408,John Rolland
+5409,Kjell Solstad
+5410,Ole Brenntrø
+5411,Evina Güley Ucar
+5412,Tor Slundgård
+5413,Hallvard Schjetne
+5414,Helle Hvidsten
+5415,Hans Tore Stensen
+5416,Ina-kristin Aasvang
+5417,Karoline Linge
+5418,Paal Solberg
+5419,A. Lunde
+5420,Bjørn Andersen
+5421,Even Kongsvik Lien
+5422,Karl Kristensen
+5423,Øystein Udnes
+5424,Conrad Mikelsen
+5425,Cathrine Waberg Martinsen
+5426,Jon Petter Frimann
+5427,Ida Vaka
+5428,Linda På Kroken
+5429,Erika Jellestad
+5430,Leif Otto Bjøndal
+5431,Tor Egil Strandenes
+5432,Kai Børre Gundersen
+5433,Stian V. Svedenborg
+5434,Ole Rypestøl
+5435,Viggo Olsen
+5436,Eirik Holst
+5437,Stian Gjersvik
+5438,Lena Mari Nystad Hanssen
+5439,Sigrid Bye Skille
+5440,Karsten Olsen
+5441,Håvard Wilson
+5442,Dagfinn Gåserud
+5443,Tom Grimstad
+5444,Lars K. Bekker
+5445,Cornelius Wiedwang
+5446,Synne Rogstad
+5447,John Tørset
+5448,Hogne Eidsvaag Tørre
+5449,Aron Nyland Stava
+5450,Trym Ripe
+5451,Pål Sveum
+5452,Biger Sørensen
+5453,Morten Holseter
+5454,Camilla Reboli Kløvstad
+5455,Jonny Bergesen
+5456,Frank Johnsen
+5457,Gylfi Frostason
+5458,Jorunn Debess
+5459,Eir Sørfjordmo
+5460,Chandre Iversen
+5461,Renate Loraas
+5462,Falilou M´bow
+5463,Gunnstein Nyvold
+5464,Sverre Sunnseth
+5465,Thomas Paulsen
+5466,Kristian Holm
+5467,Anette Holmedal
+5468,Per Kristian Dokseter
+5469,Karl Oskar Sletten
+5470,Erik Dalin
+5471,Ivar Grostad
+5472,Claus Dahm
+5473,Petter Kristoffersen
+5474,Rune Øritsland
+5475,Sveinung Drivenes
+5476,Terje Aadne
+5477,Tom Lian
+5478,Øyvind Asphaug
+5479,Emma Reiakvam
+5480,Svein Jensen
+5481,Henrik Kjeldsberg
+5482,Kim Sellevoll
+5483,Ronny Henning
+5484,Aron Jensen Fauske
+5485,Hans Jørgen Eriksen
+5486,Inge Huseby Aas
+5487,Rune Seim
+5488,Jørn Hausgaard
+5489,Jakob Slåtten
+5490,Jan Torgersen
+5491,Arnfinn Myre
+5492,Stian Aniksdal
+5493,Ronald Carlsen
+5494,Erling Christensen
+5495,Roger Øverby
+5496,Sebastian Dalseid
+5497,Trond Eikesdal
+5498,Robbin Hatlemark
+5499,Roald Hårr
+5500,Tormod Lie
+5501,Rita Marhaug
+5502,Thomas B. Lysholm
+5503,Thor Frøyland
+5504,Marius Løge
+5505,Ingunn Selvåg
+5506,Rune Anders Sandvik
+5507,Jimmy Glørstad
+5508,Kenneth Ludvigsen
+5509,Per Egil Sunde
+5510,Finn Erik Johansen
+5511,Hans Amundsen
+5512,Nicolai Aasvang
+5513,Arild Johansen
+5514,Per Ove Hansen
+5515,Geir Arne Eriksen
+5516,Tomas Vinsnes
+5517,Cathrine Horneland
+5518,Kine Nesheim
+5519,Heidi Skog
+5520,Ingvald Hesja
+5521,Karl Kristiansen
+5522,Morten Ludvigsen
+5523,Ove Nese
+5524,Erlen Vinje
+5525,Ketil Bodvin
+5526,Stephan Nilsen
+5527,Torstein Kind
+5528,Anna Rød Nyland
+5529,Marius Stene Johansen
+5530,Janne Antonsen
+5531,Torgeir Hanvik
+5532,Arild Ree
+5533,Hans Granly
+5534,Ola Hunstad Ask
+5535,Robert Solberg
+5536,Hansen Monica
+5537,Snorre Aven
+5538,Dag Kristiansen
+5539,Magnar Berge
+5540,Steinar Ingebretsen
+5541,Tor Sletten
+5542,Øyvind Sæther
+5543,Nicole Asmann
+5544,Harald Næs
+5545,Odin Stangvik
+5546,Nicole Assmann
+5547,Håvard A. Slørdahl
+5548,Rolf Slogvik
+5549,Karl Forsberg
+5550,Morten Osen
+5551,Tommy Berg
+5552,Roald Skjoldheim
+5553,Lasse Hauan
+5554,Sven Otto Omland
+5555,Alfred Øfsthus
+5556,Torgeir Slettum
+5557,Snorre Husby
+5558,Per Moen
+5559,Trond Røed
+5560,Wilhelm Hagen
+5561,Roald Gulbrandsen
+5562,Per Arne Jakobsen
+5563,Trond Kilvær
+5564,Kjell Kjennerud
+5565,Sverre William Stenvaag
+5566,John Brevik
+5567,Antony Antolia
+5568,Christian Grimeland
+5569,Kjell Sørgård
+5570,Victoria Bolstad
+5571,Tom Knutsen
+5572,Halfred Høyem
+5573,Inge Solberg
+5574,Kjell Thore Andersen
+5575,Terje Brunstad
+5576,Nils Olav Kongsvik
+5577,Eline Høien
+5578,Jan Willie Holbu
+5579,Morten Soma
+5580,Nikolai Aasvang
+5581,Olav Werner Nilsen
+5582,Roy Eide
+5583,Kine Pettersen
+5584,Odin Thorsrud
+5585,Espen Myhrer
+5586,Peder Lillebostad
+5587,Fredrik Von Shlanbusch
+5588,Roald Stensen
+5589,Marius Lillengen
+5590,Oliver Pettersen
+5591,Ketil Fredriksen
+5592,Hedda Hauge Aasgård
+5593,Jan Arve Andersen
+5594,Kjell Øivind Skauge
+5595,Mona Hetland
+5596,Trude Kristiansen
+5597,Sondre Hafnor
+5598,Bjarte Johanessen
+5599,Mari Eide
+5600,Sergio Bochicchio
+5601,Tore Lund
+5602,Erik Thon
+5603,Tine R. Pedersen
+5604,Bjørn Tore Suhr
+5605,Hans Meyer
+5606,Jan Roger Olsen
+5607,Jean Martin Monclair
+5608,Lars Aron Hjelleset
+5609,Arne Grimstad
+5610,Gorm Hage
+5611,Trine Endestad
+5612,Lise Indrehus
+5613,John Einar Dagsland
+5614,Edvard Hamre
+5615,Odd Arild Vold
+5616,Henrik Herikstad
+5617,Trond Sætre
+5618,Sondre Eidspjeld
+5619,Rolf Bårnes
+5620,Ingar Pettersen
+5621,Tom Egil Olsen
+5622,Kåre Werner R. Lauritsen
+5623,Pål Rognøy
+5624,Frank Klæboe
+5625,Sander Tangmyr
+5626,Thor Nilsen
+5627,Marit B. Nilsen
+5628,Malin Alise Forberg
+5629,Gunstein Aaring
+5630,Terje Stavnem
+5631,Kristian Håkonsen
+5632,Ulrik B. Steinseth
+5633,Erland Hovde
+5634,Frank Hjelmeland
+5635,Sindre Stensland
+5636,Hans Urdal
+5637,Vihovde Hanna Kongsvik
+5638,Svein Inge Svela
+5639,Torgeir Glørstad
+5640,Hege Kristiansen
+5641,Martine W.Hasseløy
+5642,Stig Lillevik Mittet
+5643,Beate G. Jaccobsen
+5644,Roger Robertsen
+5645,Philip Kruse
+5646,Ben Sundt
+5647,Vu N. Andersen
+5648,Andreas Øren
+5649,Jan Hagesell
+5650,Per Aspelien
+5651,Jon Andreas Kornberg
+5652,Ole Bernhard Moe Halvorsen
+5653,Petter Hovemoen
+5654,Vidar Olsen
+5655,Arnfinn Andersen
+5656,Anders Fosse
+5657,Kenneth Hverven
+5658,Michael Shuldman
+5659,Heidi Lan Skog
+5660,Marianne Fossli Hekkilæ
+5661,Christer Panisales Åhlander
+5662,Eirin Cathrine Nygren
+5663,Trine Hellvang
+5664,Olav Solem
+5665,Hans Ivar Nyvoll
+5666,Kåre Bergheim
+5667,Fredrik Kjøstad
+5668,Anders Raastad Elgen
+5669,Geir Svensbråten
+5670,Arie Hagen
+5671,Espen Udnæs
+5672,Oliver Buvarp Pettersen
+5673,Roger Langård
+5674,Svein Rugland
+5675,Tom Slundgård
+5676,Lars Hovind
+5677,Tommy Karlsen
+5678,Tor Bjørk
+5679,Thomas Brekke
+5680,Simen Frogner
+5681,Steffen Sæle
+5682,Marta Josefine Skretting
+5683,Arthur Mjelde Halvorsen
+5684,Christine Pedersen
+5685,Kjersti Skarvang Olsen
+5686,John Lund
+5687,Helge Dagsland
+5688,Joakim Hallanger
+5689,Bjørn Vidar Olsrud
+5690,Steinar Breivik
+5691,Frank Høgmo
+5692,Øyvind Kristiansen
+5693,Mikkel Helle Sørum
+5694,Vegard Rasdal
+5695,Camilla Pedersen
+5696,Stian Jenssen
+5697,Runar Mathisen
+5698,Aksel Ulvedal Strand
+5699,Knur Espen Udnes
+5700,Viggo Ask
+5701,Ole Jonny Jensen
+5702,Øystein Nordstrand
+5703,Magnus Hauge Skeide
+5704,Einar Håland
+5705,Marte Korsvoll
+5706,Johnny Eriksen
+5707,Kåre Sognnes
+5708,Morten Haugland
+5709,Christoffer Masters
+5710,Vilde Sårheim
+5711,Bertine Fretheim Neverdal
+5712,Lars Johansen
+5713,Ove Glenjen
+5714,Øystein Meling
+5715,Merete Ree
+5716,Line Rossvoll
+5717,Anh Hoang
+5718,Elisabeth Larsen
+5719,Linda Paa Kroken
+5720,Sondre Friestad
+5721,Rudi Nilsen
+5722,Leif Tore Antoniussen
+5723,Maria Aukan
+5724,Even Espenes
+5725,Knut Osland
+5726,Torleif Ahlgren
+5727,Henrik Kjelsberg
+5728,Simen Dale
+5729,Bård Eliassen
+5730,Mathilde Hauger
+5731,Terje Borgenvik
+5732,Trine Hellevang
+5733,Jardar Jacobsen
+5734,Raymond Myhre
+5735,Eivind Marceliussen
+5736,Odin Martinsen
+5737,Arya Bastiko
+5738,Ingrid Moen
+5739,Jarle Nyvoll
+5740,Nili Eslah
+5741,Norvald Dalsbø
+5742,Lars Vidar Karlsen
+5743,Egil Koch
+5744,Rune Skjaanes
+5745,Marianne F. Hækkile
+5746,Loy Siren
+5747,Alexandra Säldebring
+5748,Toralf Hamstad
+5749,Trym Are Sivertsen
+5750,Johanna Solli
+5751,Finn Ole Tømmervik
+5752,Klaus Dahm
+5753,Per Gjengård
+5754,Trond Breibyhaugen
+5755,Bjarte Haugsdal
+5756,Madelen O. Løkkemyr
+5757,Ronny Johansen
+5758,Aage Magnussen
+5759,Beate Nyhammer Hansen
+5760,Ruben Herland
+5761,Tor Nybø
+5762,Odd Bøe
+5763,Bjørn Eltvik
+5764,Are Jespersen
+5765,Gøran Grenasberg
+5766,Marius Ellingsen
+5767,Ragnar Olsen
+5768,Roy Inge Stegane
+5769,P. A. Raab
+5770,Jan Eddy Ottem
+5771,Vegard Østhus
+5772,Ørjan Martinsen
+5773,Rune Tørseth
+5774,Tom Magnussen
+5775,Adrian Hafeld
+5776,Bent Henni
+5777,Jørgen Flood
+5778,Sven Haugvik
+5779,Hanna Økland
+5780,Beatrice Husebø
+5781,Lars Pladsen
+5782,Nicole Aßmann
+5783,Robert Fauske
+5784,Jakub Kudyba
+5785,Håkon Arnesen
+5786,Rune Godtland
+5787,Lehto,tuuliina
+5788,Sveinung Wathne
+5789,Jan Jansen
+5790,Daniel Haltbrekke
+5791,Svein Larsen
+5792,Sverre Winnberg
+5793,Arne Berg
+5794,Gunnar Thommasen
+5795,Anders Kjøllesdal
+5796,Egil Bugge
+5797,Tommy Hansen
+5798,Var Ovsthus Jepsen
+5799,Lars Aalmo
+5800,Ronnie A. J. Dahl
+5801,Espen Nygård
+5802,Harald Ambjørnsen
+5803,Hannah Økland
+5804,Ismail Haddouche
+5805,Tom Hansen
+5806,Ghulam Mustafa
+5807,John Arne Glørstad
+5808,Finn Thor Svendsen
+5809,Ole Johnny Nilsen
+5810,Svein Hjorteland
+5811,Harry Skaland
+5812,Trond Paulsen
+5813,Jørn Vold
+5814,Runa Skarbø
+5815,Stein Gunnar Johnsen
+5816,Sverre Jensen
+5817,Vidar Hansen
+5818,Jan Grankvist
+5819,Jan Otto Hansen
+5820,Jon Tørset
+5821,Line Søfteland
+5822,Nicky Gargano
+5823,Per Slettvik
+5824,Ragnar Skjeggestad
+5825,Frode Thorvaldsen
+5826,Jan Kristian Nystrøm
+5827,Asle Strønen
+5828,Alexander Tronsgård
+5829,Hilde Meinert Odland
+5830,Emilian Våpenstad Roulet-dubonnet
+5831,Maja Bjørnstad
+5832,Jan Steinar Wold
+5833,Truls Jønvik
+5834,Ingve Sæland
+5835,Anders Vikane
+5836,Tore Nesset
+5837,Endre Wangen
+5838,Jo Leirvik
+5839,Håvard Jørstad
+5840,Else Mari Rygg Lind
+5841,Roland Hårr
+5842,Kjell Solås
+5843,Lucie Larsen
+5844,Aage Aasbø
+5845,Atle Gjønnes
+5846,Reimund Vindvik
+5847,Magnus Grinna Norman
+5848,Rune Wee
+5849,Roy Halvorsen
+5850,Izumrudova Larisa
+5851,Bjørn Ivar Ulgenes
+5852,Geir Gudevold
+5853,Pål Asp
+5854,Espen Udnes
+5855,Kåre Fagerheim
+5856,Hogne Lindtjørn
+5857,Aaron Johnsen
+5858,Renate Carrera
+5859,Asle Hermansen
+5860,Gunnar Rolland
+5861,Martin Valseth
+5862,Rolf Olsen
+5863,Oda Sunde Svendsen
+5864,Lars E. Fånes
+5865,Preben Senland
+5866,Frode Henriksen
+5867,Marte Eirin Stenvaag
+5868,Jon Steinar Voll
+5869,Oliver Digernes
+5870,Jon Myklebost
+5871,Frode Meek
+5872,Arnstein Johansen
+5873,Knut Strømmen
+5874,Arnkjell Ring
+5875,Silje Johansen
+5876,Max Wilson
+5877,Lise Ovidia Bruland
+5878,Richard Vassliås
+5879,Sverre Jonas Sand Pettersen
+5880,Øyvind Pedersen
+5881,Christian Odberg
+5882,Margrete Jonstad
+5883,Jon Sigmund Martinsen
+5884,John Steinskog
+5885,Arild Nyvoll
+5886,Christian Hellum
+5887,Einar Hesja
+5888,Janne Skorpen
+5889,Marek Partyka
+5890,Atthur Svenning
+5891,Thomas Andersen
+5892,Joakim Aniksdal
+5893,Sten Roger Søbstad
+5894,Tollak Hetland Mong
+5895,Jan Hatlestad
+5896,Sandra Daniella Aas
+5897,Bruse Kverneland
+5898,Bjørn Sandvik
+5899,Ingjerd Pytte
+5900,Thomas Rastad
+5901,Mona Hetleflåt
+5902,Sondre Fjælberg
+5903,Ronny Andersen
+5904,Nanna W. Christensen
+5905,Lars Veum Vikse
+5906,Svein Ove Rønhovde
+5907,Nhu Thran
+5908,Sara Stebbings
+5909,Jarle Karlsen
+5910,Stine Hoøy
+5911,Bjørn Sørensen
+5912,Steinar Ingebrigtsen
+5913,Frank Gjersvik
+5914,Ida Sofie Langestrand
+5915,Øyvind Aase
+5916,Mariell Endestad Hellevang
+5917,Sindre Weber
+5918,Arild Bjørkelo
+5919,Vår Øvsthus Jepsen
+5920,Marthon Hausnes
+5921,Oliver Bramark Sæther
+5922,Kristina Skotteberg
+5923,John Mørken
+5924,Jan Kåre Krokeide
+5925,Knut Skovereng
+5926,Trond Gåsøy
+5927,Tom Knudsen
+5928,Bjørn Olsen
+5929,Borghild Moe
+5930,Ørjan Røthe
+5931,Jan Henrik Brudal
+5932,Thomas Skjerping
+5933,Svein Hauge
+5934,Victor Husby Pettersen
+5935,Rolf Lukkedahl
+5936,Tor Petter Johnsen
+5937,Eline Beate Sandvik
+5938,Eva Bjørkeng
+5939,Ingebrigt Hovind
+5940,Sturla Tømmereås
+5941,Linda Q. Halvorsen
+5942,Harry Westavik
+5943,Terje Haga Stavnheim
+5944,Linda Engeskaug
+5945,Tormod Thorp
+5946,Esteban Lopez
+5947,Lars Forum Skaara
+5948,Fredrik Mellemsæther
+5949,Pål Hovstad
+5950,Joakim Torsvik
+5951,Roy Flademoen
+5952,Magnar Waage
+5953,Anette Vårvik Eide
+5954,Rune Schellhorn
+5955,Sigurd Myksvoll
+5956,Helge Johnsen
+5957,Mats Emil Buhaug
+5958,Sara Østvold
+5959,Christine Gudmundsen
+5960,Marius Beyer
+5961,Hedin Gibbons
+5962,Mari Kogstad
+5963,Therese Stork Høiem
+5964,Aage Olsen
+5965,Knut Waagan
+5966,Abdul Razag
+5967,Atle Tuft
+5968,Magnar Almanskaas
+5969,Per Christian Røed
+5970,Siri H. Walaker
+5971,Synne Lien
+5972,Arne Myklebust
+5973,Tronn Eriksen
+5974,Lars Ole Reve
+5975,Terje Westberg
+5976,Cecilie Endresen
+5977,Katrine Øye
+5978,Erling Danielsen
+5979,Mathias Myrhe
+5980,Øtvind Hetland
+5981,Egil Nygård Jr
+5982,Jan Hegelstad
+5983,Johanna Wasjø
+5984,Dag Øverland
+5985,Trond Nesse
+5986,Geir Tore Sveva
+5987,Henrik Heienberg
+5988,Eline De Leeuw
+5989,Lennart Ellefsen
+5990,Tom Andre B. Rossvoll
+5991,Jakob A.Wijata
+5992,Kari Nødland
+5993,Jon Skjøli
+5994,Arnt Helge Espås
+5995,Åge Sørhus
+5996,Hjørdis M. Bjerkholt
+5997,Jan Arve Ræder
+5998,Jan Erik Løland
+5999,Torkil Hope
+6000,Odd Erling Sjøblom
+6001,Stian Andre Sundvold
+6002,Maria Sandvik
+6003,Marius Hvidsten
+6004,Stein Roger Søbstad
+6005,Daniel Skadal
+6006,Eigil Sikveland
+6007,Frida Lydia Hansen
+6008,Fredrik Kolsgaard
+6009,Bjørn Reklev
+6010,Filip Sundal
+6011,Ivar Borthen
+6012,Jan Oddvar Gunnerud
+6013,Karsten Nilsen
+6014,Gisle Frantzen
+6015,Jan Erik Tønnesland
+6016,Tor Egil Ingebrigtsen
+6017,Frank Haver
+6018,Geir Holden
+6019,Katharina Uthus
+6020,Asgeir Tvinnereim
+6021,Remi Håland
+6022,Irene Slettebø Austnaberg
+6023,Hege Paulsen
+6024,Josephine Ponce De Leon
+6025,Cato Abrahamsen
+6026,Eirik Spissøy
+6027,Roger Antonsen
+6028,Ståle Røyseth
+6029,Torstein Rossvik
+6030,Kristin Evensen
+6031,Anders Mandal
+6032,Ståle Gismarvik
+6033,Sanjin Elkasevic
+6034,Ragnhild Degvold
+6035,Ida Eikeng
+6036,Oliver Alexander Digernes
+6037,Grete Torvik Nygård
+6038,Gunnar Nygård
+6039,Kristin Johnsen
+6040,Alf Kjetil Flatøy
+6041,Harald Hellem
+6042,Frode Bødtker
+6043,Stig Aflekt
+6044,Bjørn Ove
+6045,Åge Hansen
+6046,Steinar Jakobsen
+6047,Tron Nesse
+6048,Trine E. Hellevang
+6049,Bror Erling Finnanger
+6050,Leif Grødem
+6051,Hooman Rostamalipour
+6052,Jan Birger Georgsen
+6053,Bodhi Sørskår
+6054,Fred Ove Østhus
+6055,Inge Kristiansen
+6056,Abdul Wahed
+6057,Dagfinn Ertveit
+6058,Ronny Pettersen
+6059,Frode Rugås
+6060,Jan Gunnar Gåserød
+6061,Stein Westlie
+6062,Atle Johannessen
+6063,Ove Monsen
+6064,June Hansen
+6065,Maren Andresen
+6066,Fredrik Underhaug
+6067,Hewar Sobhy
+6068,Erik Årli
+6069,Carina Hella
+6070,Marton Hansen
+6071,Karl-Erik Espenes
+6072,Sarah Mari Sande
+6073,Tore Pedersen
+6074,Atle Hansen
+6075,Tuva Nordal Skjerve
+6076,Elisabeth Paus
+6077,Eirik Skoglund
+6078,Erlend Kvarme
+6079,Bjørn Solli
+6080,Dan Thorland
+6081,Tormod Øen
+6082,Vik Siri
+6083,Roger Løvik
+6084,Alice Bråtveit Veim
+6085,Frank Johansen
+6086,Nils Hovemoen
+6087,Ole J Skagen
+6088,Synne Gains Rogstad
+6089,Ketil Johannesen
+6090,Ingvild Bang
+6091,Arne Mork
+6092,Knut Hjelseth
+6093,Renè Mikalsen
+6094,Ingeborg Gullikstad Hem
+6095,Kristjan Gudmundsson
+6096,Jo Idar Kristiansen
+6097,Martin Marcus Andersen
+6098,Inge Fløttum
+6099,Tian Olsen
+6100,Stian Nicolas Maxwell
+6101,Roar Sæther
+6102,Odd Hernes
+6103,Kyrre Kroken Vereide
+6104,Trond Viggo Pettersen
+6105,Andreas Schønning
+6106,Rune Kristianslund
+6107,Helge Urdal
+6108,Harald Askeland
+6109,Preben Solheim
+6110,Thomas Rønningen
+6111,Torfinn Hansen
+6112,Lasse Haug
+6113,Tora Julie Slørdal
+6114,Synne Frydenlund
+6115,Ylva Schjetne
+6116,Ola Kræmer
+6117,Per Arne Jacobsen
+6118,Kevin Aursland Miljeteig
+6119,Axel Johannessen
+6120,Jonas Jørpeland
+6121,Amalie Austgarden
+6122,Frank Hansen
+6123,Morten Larsen
+6124,Jarko Häkkilä
+6125,Bård Arve Vøssås
+6126,Olaf Martinsen
+6127,Svein Pande
+6128,Eirik Håvik Hafsmo
+6129,Hilde Kaland
+6130,Terje Skaar
+6131,Rino Olsen
+6132,Kine Waskaas
+6133,Lasse Paulsen
+6134,Arnstein Joleik
+6135,Julie Dahle
+6136,Samson Vonen
+6137,Jan Henning Nilsen
+6138,Bjørnar Drøsdal
+6139,Andreas Hall
+6140,Helge Dahl
+6141,Christer Løvmo
+6142,Einar Loktu
+6143,Johan Furan
+6144,Per Gengår
+6145,Trine Munkvold Lindset
+6146,Trygve Simonsen
+6147,Jon Erik Ullvang
+6148,Siv Andrine Berntsen
+6149,Rolf Mortensen
+6150,Synne Kleppe Nord
+6151,Gry Sunniva Olsen
+6152,Sven Idar Gravdal
+6153,Emil B. Iversen
+6154,Johanna M. Solli
+6155,Linn Karoline Brynildsen
+6156,Rebekka Solberg
+6157,Håvard Slørdal
+6158,Toralf Steinsland
+6159,Jan Inge Tangen
+6160,Gunnar Bærland
+6161,Oliver Børmark Sæther
+6162,Eirik Hafsmo
+6163,Lasse Hansen
+6164,Ingelin Hansen
+6165,Kjell Werner Digre
+6166,Jørgen Andersen
+6167,Sigve Monsen
+6168,Fredrik Kokås
+6169,Monica Dahle
+6170,Rune Iversen
+6171,Thomas Maudal Gilje
+6172,Lloyd Gunleifstøl
+6173,Thor Dahlberg
+6174,Johanna Ridder
+6175,Geir Åmund Svan Hasle
+6176,Morten Høien
+6177,Oda Nordhagen Vang
+6178,Pål Nergård
+6179,Tom Andre Birkelid Rossvoll
+6180,Gina Relevo Uthaug
+6181,Erik Orasmäe
+6182,Karl Rosenberger
+6183,Runar Førde
+6184,Sven Jansen
+6185,Olav Andresen
+6186,Tom Kristensen
+6187,Ida-Sofie Langstrand
+6188,Jan Ove Ege
+6189,Magnus Ask
+6190,Ole Aniksdal
+6191,Carlos Rød
+6192,Claus Ulseth
+6193,Bjørn Emil Christoffersen
+6194,Erik Stålesen Høyland
+6195,Hans Mikalsen
+6196,Line Haakonsen
+6197,Erlend Gjestrum
+6198,Per Alexander Røren
+6199,Alf Ove Sør-reime
+6200,Kjetil Jonstad
+6201,Knut Erik Severinsen
+6202,Morten Aniksdal
+6203,Alexander Roll
+6204,Anniken Augustsen
+6205,Hanna Vihovde
+6206,Olai Aamot
+6207,Maren Grøndahl
+6208,Gunder Eliassen
+6209,Kjell Rsmussen
+6210,Bjørn Helge Ueland
+6211,Kasper Hjelm
+6212,Henning Halleland
+6213,Tommy Kallevik
+6214,Vidar Svendsen
+6215,Tarjei Berulfsen
+6216,Alexander Borgen
+6217,Knut Nesse
+6218,Thor Knudsen
+6219,Ronny Olaisen
+6220,Per Finnsveen
+6221,Kristian Grimeland
+6222,Nils Refve
+6223,Mariell Hellvang
+6224,Kjell Henrik Helliesen
+6225,Rolf Gunnar Husvegg
+6226,Martin Gzela
+6227,Thor Arne Andersen
+6228,Hege Høiland
+6229,Ole Fugleberg
+6230,Kjell Eltvik
+6231,Yvonne Holm
+6232,Geir Hoem
+6233,Christine Arnesen
+6234,Gunnlaug Munkhus
+6235,Håvard Vefring
+6236,Arne Turmo
+6237,Roy Falkeid
+6238,Gina Uthaug
+6239,Kjell Stangeland
+6240,Lars Øyvind Syvertsen
+6241,Rune Hoddevik
+6242,Vetle Veholt Reiersen
+6243,Trond Mjønes
+6244,Svein Kåre Guttormsen
+6245,Sven Ove Berg
+6246,Jørgen Alsaker
+6247,Hans Nordnes
+6248,Ketil Dahl
+6249,Sladjan Sojkovic
+6250,Tor Ole Dahlø
+6251,Rolf Terje Tveiten
+6252,Jonathan Helland Gustavsen
+6253,Line Markhus
+6254,Knut Ronny Bjerke
+6255,Espen Ilstad
+6256,Terje Dammerud
+6257,Trond Runar Rasmussen
+6258,Magnus Bodvin
+6259,Kåre Bakken
+6260,Tiril Andrea Skeie Sætran
+6261,Renathe Vik
+6262,Jon Arve Hult
+6263,Thor-Ivar H. Vassmo
+6264,Kjell Stokke
+6265,Reidar Vaarvik
+6266,Ole Johan Larsen
+6267,Arild Romarheim
+6268,Lars Kvåle
+6269,Maria Botten
+6270,Petter Kirkeholmen
+6271,Amanda Bergsvik
+6272,Tom Berntsen
+6273,Hedda Øverli
+6274,Jarle Berge
+6275,Leif Georgsen
+6276,Ole Horsevik
+6277,Jan Håvard Nyborg
+6278,Christin Pedersen
+6279,Live Steinnes Luteberget
+6280,Kristin Vagstad
+6281,Joar Olsen
+6282,Christer Eriksen
+6283,Ask Krogstad
+6284,Magnar Sveinsvoll
+6285,Ann Kristin Skinlo
+6286,Nora Liknes
+6287,Kai Sigvardsen
+6288,Neil Varhaug
+6289,Roar Torsand
+6290,Hans Arvid Bådsvik
+6291,Erlend Mosling
+6292,Maren Matsson
+6293,Matti Haug
+6294,Svein Hinderlid
+6295,Stein Ivar Gundersen
+6296,Uy Nguyen
+6297,Jan Tore Sunde
+6298,Jostein Væge
+6299,Ole-Bernhard Moe Halvorsen
+6300,Joel Christensen
+6301,Ronald Hansen
+6302,Lina Teigen
+6303,Marthe Andrea Eklund
+6304,Alf Rolfsen
+6305,Bjørn Erik Jørgensen
+6306,Per Kvinge
+6307,Frida Thorås
+6308,Trine Endestad Hellvang
+6309,Sverre J.S.Pettersen
+6310,Terje Ree Jr
+6311,Jørn Helgheim
+6312,Årne Skrettingland
+6313,Bjørn Olsrud
+6314,Iben Bergstrøm
+6315,Linda C. Larsgård
+6316,Mariell Hellevang
+6317,Geir Nyland
+6318,Brynjulf Nesje
+6319,Rolf Øyvind Sætre Hauge
+6320,Caroline Richelsen
+6321,Ali Soltani
+6322,Kirsti Selstad
+6323,Nora Ferkingstad Liknes
+6324,Patric Haltland
+6325,Thor Badsky
+6326,Ole Rummelhoff
+6327,Erik Schløsser Møller
+6328,Thomas Vold
+6329,Cahrine Flåtene Horneland
+6330,Martin Moe
+6331,Mats Næss
+6332,Madeleine Aaslund Jenack
+6333,Morgan Håland
+6334,Jan Bergstrøm
+6335,Roar Breidablikk
+6336,Jelmer Kuitert
+6337,Mats Kvamsø
+6338,Stig Andre Pettersen
+6339,Tor Hekge Dueland
+6340,Ole Johnny Jensen
+6341,Terje Herfjord
+6342,Ingeborg Hem
+6343,Arnt Rune Lillejord
+6344,Sunniva Block
+6345,Tormod Øyen
+6346,Tor Espen Kristensen
+6347,Øystein Bruce
+6348,Ann Elin Venås Villa
+6349,Fredrik Havnør Paulsen
+6350,Asgeir Årsland
+6351,Frode Løvås
+6352,Sissel Nystad
+6353,Alice Fosen
+6354,Mariell E Hellevang
+6355,Victoria Christiansen
+6356,Roger Isaksen
+6357,Reidar Jakobsen
+6358,Sandra Munkhaugen
+6359,Morten Christensen
+6360,Geir Godtland
+6361,Vidar Huth
+6362,John Lysø
+6363,Ola Midttun
+6364,Ingvild Arnfinsen
+6365,Marthe Myklatun
+6366,Tommy Syvertsen
+6367,Audun Zinke
+6368,Charlotte Hagen
+6369,Ann Cecilie Viken
+6370,Erling Molt Korsnes
+6371,Trond Helleren
+6372,Stian Lilleskog
+6373,Sverre Bergh
+6374,Rino Smeby
+6375,Bjørnar Sørensen
+6376,Inge Hansen
+6377,Kristian Wevle
+6378,Sunniva Nordskog
+6379,Per-Kristian Sørensen
+6380,Ina Kristine Talmo
+6381,Nikola Bouvier
+6382,Roger Tellefsen
+6383,Bjarne Faksvåg
+6384,Steinar M. Erikstad
+6385,Jan Horsfjord
+6386,Rolf Hausbakk
+6387,Jarle Reime
+6388,Pål Hamilton
+6389,Kamilla Wisth
+6390,Cecilie Rise
+6391,Espen Berg 2
+6392,Øyvind Christiansen
+6393,Anna Lill Gjerdrum Sigvad
+6394,Trond Valdersnes
+6395,Tom Robert Nilsen
+6396,Raymond Tveiten
+6397,Helle Henriksen Hvidsten
+6398,Morten Sund
+6399,Jan Selbekk
+6400,Knut Bratsberg
+6401,Bente Finsrud
+6402,Maren Fagervik
+6403,Morten Høgås
+6404,Jacob S. Elveli
+6405,Erik Aarum
+6406,Elin Trosten
+6407,Erik Berg Nordheim
+6408,Torbjørn Gullachsen
+6409,Trym Bjørsvik
+6410,Arild Valderhaug Linde
+6411,Malin Amundsen
+6412,Eivind Pedersen
+6413,John Kenneth Hetland
+6414,Pål Kristiansen
+6415,Elise Øygard
+6416,Eirik Håvik
+6417,Bjørn Meek
+6418,Kjell Arne Jansen
+6419,Bjørn Langli
+6420,Trond V. Lihaug
+6421,Cia Severinsen
+6422,Siv A. Berntsen
+6423,Hektor Fosse
+6424,Kjetil Ramsdalen
+6425,Dag Davik
+6426,Johnnie Johansen
+6427,Linda Strøm Nilsen
+6428,Geir Kjelsrud
+6429,Helge Gunnulfsen
+6430,Espen Lønningen
+6431,Mads Håland
+6432,Thomas Ulvestad
+6433,Aina Pedersen
+6434,Håkon Postholm Lie
+6435,Alexander Raad Hunnestad
+6436,Espen Visnes
+6437,Trond Lyngstad
+6438,Birger Bratvold
+6439,Aaron Fauske
+6440,Noah S. Eriksen
+6441,Ole Todnem
+6442,Kaia Arnøy Høyheim
+6443,Lars Frøyd
+6444,Halvor Hodne
+6445,Marte Stenvaag
+6446,Farhoud Amini
+6447,Frank Mønster Nielsen
+6448,Kristoffer Antonsen
+6449,Ole-Magnus Strand
+6450,Kjell Ovtun
+6451,Svein Almelid
+6452,Leif Arne Bjerkan
+6453,Leonard Veseli
+6454,Preben Jørgensen
+6455,Tina Nyhammer
+6456,Sunniva Jystad
+6457,Irmelin Rubbås Stokkan
+6458,Torgny Albertsen
+6459,Hans Meier
+6460,Olai Åmot
+6461,Edvin Fonn Sårheim
+6462,William Sedlak
+6463,Bess Aadland
+6464,Arnstein Wangsmo
+6465,Geir Vestvik
+6466,Knut Landhaug
+6467,Roar Endresen
+6468,Tom Andre Birkelid Rosevoll
+6469,William Oksdøl
+6470,Ivar K. Gjuvsland
+6471,Halvor Fjermeros
+6472,Ingvild Bjerke
+6473,Per Finsveen
+6474,Arild Schellhorn
+6475,Elias K.Haugen
+6476,Øyvind Skogli
+6477,Bjørn Fossing
+6478,Per Hove
+6479,Svein Erik Ferstad
+6480,Tommy Anderson
+6481,Roger Lefstad
+6482,Jan Rune Trosterud
+6483,Kjell Solaas
+6484,Kristine Tjønsvoll Veim
+6485,Glenn Tore Ueland
+6486,Lill-Marit Fallrø
+6487,Hans Michalsen
+6488,Odd Marius Steen
+6489,Kjell Arne Lie
+6490,Robert Sørensen
+6491,Selina Fredsvik Hillestad
+6492,Terje Gaasholt
+6493,Marthe Antonsen Kjos
+6494,Robert Tørrhaug
+6495,Torbjørn Eriksen
+6496,Ingunn Justlar
+6497,Tore Nedrebø
+6498,Morten Hatledal
+6499,Jo Magne Rønning Elden
+6500,Raymond Wold
+6501,Rune Tvedt
+6502,Kristian Hellum
+6503,Yvonne Mjell
+6504,Ingrid Hjulstad
+6505,Joachim Meling Monsen
+6506,Jan Asle Sjøli
+6507,Inga Marie Soteland
+6508,Arne Nyquist
+6509,Jonas Olafsen
+6510,Irja Storteig
+6511,John Magne Kaasen
+6512,Sara Persson
+6513,Mari Forås
+6514,Knut Ellefsen
+6515,Sveinung Helle
+6516,Arne Helle
+6517,Roger Jordet
+6518,Helge Kydland
+6519,John Tørseth
+6520,Eline Mundal Melle
+6521,Torfin Skretting
+6522,Johan Vevatne
+6523,Oddleiv Vårland
+6524,Kai Erik Herlovsen
+6525,Leif Kristiansen
+6526,Sverre Oma Rognehaug
+6527,Anders Eriksen
+6528,Edd Wikhaug
+6529,Simen Sæter
+6530,John Andren
+6531,Marthe Olsen
+6532,Johnny Hansen
+6533,Fridtjof Haaland
+6534,Tommy Halvorsen
+6535,Mikael Fjelde Gjedrem
+6536,Øivind Seeberg
+6537,Kurt Tommy Aga
+6538,Synneva Aarekol Johannessen
+6539,Tom Christensen
+6540,Andreas Stene Knardal
+6541,Erik Kroken
+6542,Bjørn Bach
+6543,Svein Åge Elstrøm
+6544,John Schellhorn
+6545,Kamilla Kolvig
+6546,Per Gunnar Sjåstad
+6547,Kjell Lie
+6548,Bård Schjetne
+6549,Emilie Sandvik
+6550,Roland Tørhaug
+6551,Mina Murud Haugen
+6552,Arild Borgundvåg
+6553,Ivar Endresen
+6554,Einar Haahr
+6555,Egil Engelsgjerd
+6556,Ida Gabrielsen
+6557,Ragnar Skjetne
+6558,Morten Håland
+6559,Tom Christian Fagernes
+6560,Ingrid Hauge Aurland
+6561,Nils Petter Hovemoen
+6562,Svein Walstad
+6563,Ole Johnny Espevold
+6564,Terje Riise
+6565,Magnar Sørhaug
+6566,Gustavson Anton Brundtland
+6567,Lasse Karlsen
+6568,Johan Nereng
+6569,Fredrik Møller
+6570,Fredrik Vold
+6571,Siri Mortensen
+6572,Harald Kvalvik
+6573,Roland Torhog
+6574,Rune Hansen 1
+6575,Benny Hagen
+6576,John Ivar Sinnes
+6577,Elias Sørensen
+6578,Kaja Sæther
+6579,Thomas Frost
+6580,Steinar Sperrvik
+6581,Inge Aarrestad
+6582,Rune Folstad
+6583,Silje Robak
+6584,Tom Jensen
+6585,Emil Gautesen
+6586,Vidar Bauge
+6587,Christian Andre Nystrøm
+6588,Jonathan Helland
+6589,Arild Venæs
+6590,Øyvind Nordbø
+6591,Tor Erik Larsen
+6592,Kristoffer P. Vikse
+6593,Shahrzad Shariloo
+6594,Jarle Dyngeland
+6595,Joel Christiansen
+6596,Daniel Ryazanov
+6597,Gunnar Rannestad
+6598,Jon Mattis Børven
+6599,Espen Saatvedt
+6600,Ingrid Horten
+6601,Patric Johansen
+6602,Kjell Bø
+6603,Øystein Bakkehaug
+6604,Bertin Pettersen
+6605,Øyvind Lyngaas
+6606,Arle Farsund Solheim
+6607,Mariell Thorbjørnsen Brinch
+6608,Terje Strømdal
+6609,Tor Steinar Pedersen
+6610,Olav Roger Laugen
+6611,Frode Pedersen
+6612,Ole Kristian Solheim
+6613,Eleonor Jønsson
+6614,Marita Strømmen
+6615,Jan Martinussen
+6616,Jon Inge Magnussen
+6617,Joar Holen
+6618,Alf Kåre Birkeland
+6619,Ole Jensen
+6620,Roy Sollie
+6621,Håvard Midtgaard
+6622,Trond-ansgar Karlsen
+6623,Erik Orsmäe
+6624,Andrea Hatløy Kvilhaug
+6625,Arne Skrettingland
+6626,Fredrik Vangsal
+6627,Håkon Torjuul
+6628,Johnny Hennum
+6629,Vemund Sæterdal
+6630,Anders Mæland
+6631,Tone-lill Reitan
+6632,Mia Olea Monahan Andersen
+6633,Tiril Sævran
+6634,Magnus Thrane
+6635,Sol Larsen
+6636,Asbjørn Løvsland
+6637,Bernt Marius Molnes
+6638,Geir Sveum
+6639,Jan Ove Lie
+6640,Espen Walle
+6641,Ingrid Nevland
+6642,Ellen Rolijordet
+6643,Eirik Haavik
+6644,Jens Petter Vassmoen
+6645,Petter Wassmoen
+6646,Gunnar Soland
+6647,Julie Margaretha Dahle
+6648,Kjell Dalsbø
+6649,Kristin Rogstad Karlsen
+6650,Rune Evensen
+6651,Jarle Utnes
+6652,Johnny Bergesen
+6653,Hilde Næss
+6654,Niclas Rygh Kjelsli
+6655,Frode Øie
+6656,Søfteland Line
+6657,Espen Eriksen
+6658,Martin Kaardal
+6659,Karoline Skare
+6660,Niklas Andre Nordbotten
+6661,Amalie Straume
+6662,Roger Arefjord
+6663,Bjørn Ulgenes
+6664,Geir Høgmo
+6665,Tuva Skjerve
+6666,Hans Øiseth
+6667,Per Ivar Nikolaisen
+6668,Stein Gundersen
+6669,Torfinn Johansen
+6670,Sergei Buividovich
+6671,Lea J. Berge
+6672,Maria Seglem Jensen
+6673,Vårvik Reidar
+6674,Linn Therese Solend
+6675,Henrik Vold
+6676,Christian Johansen
+6677,Emilie Sofie Sandvik
+6678,Juni Marie Jensen
+6679,Rene A. Myhre
+6680,Per Solheimsnes
+6681,Anders Fosså
+6682,Gunnar Graver
+6683,Øyvind Nordtveit
+6684,Christian Kleppe
+6685,Jarl Henning Pedersen
+6686,Vidar Bakke
+6687,Frida Granås
+6688,Line Sfteland
+6689,Frank S. Branvik
+6690,Olav Aniksdal
+6691,Frode Weseth
+6692,Ingelin Bareksten
+6693,Tore Halvorsen
+6694,Sara Vestvik
+6695,Asbjørn Jørgensen
+6696,Ådne Ovesen
+6697,Oscar Otterbekk Myrvang
+6698,Bernt Kristian Lund
+6699,Kim Ronny Otterstad
+6700,Tim Jakobsen
+6701,Finn Herlufsen
+6702,Marius Wågan
+6703,Christopher Rosenvinge
+6704,Ingvil Sofie Bjerke
+6705,Egil Nygård Jr.
+6706,Sigve Drange
+6707,Kristin Rogstad-karlsen
+6708,Mariel Hellevang
+6709,Charlotte Marthinsen
+6710,Mohamed M`Bow
+6711,Madeleine Aaslund
+6712,Marie Web Hansen
+6713,Live Luteberget
+6714,Eirik Dahl Eide
+6715,Elisabeth Kristiansen
+6716,Øistein Bruse
+6717,Sunniva Sjåfjell Jystad
+6718,Eirin Yttereng
+6719,Arne Strand
+6720,Robin Henriksen
+6721,Jonny Melgaard
+6722,Tom Andre Birkelid Rosvoll
+6723,Arild Iversen
+6724,Atle Brevik
+6725,Cato Lunde
+6726,Angelicka Fimland
+6727,Hallgeir Kalland
+6728,Ole Jonny Nilsen
+6729,Siv Leversen
+6730,Ivar Eliassen
+6731,Kaci Lund Kristensen
+6732,Kent Espedal
+6733,Tore Høien
+6734,Patrik Hals
+6735,Thor Birger Eriksen
+6736,Raymond Sture
+6737,Sigurd Eckhoff
+6738,Anna Wiik
+6739,Jon Håvard Nyborg
+6740,Tone Lill Reitan
+6741,Steinar Kleiv
+6742,Kjell Rune Kittelsen
+6743,Thorvald Jacobsen
+6744,Frank Klingeland
+6745,Magne Frøholm
+6746,Ola Varhaug
+6747,Håvard Ripe
+6748,Joe Even Linnerud
+6749,Arnfinn Hamstad
+6750,Silje Westby
+6751,André Torsvik
+6752,Ivar Larsen
+6753,Julie Solberg Knutsen
+6754,Kathrine B. Michelsen
+6755,Åsmund Sælen
+6756,Einar Kristensen
+6757,Ronald Haaland
+6758,Geir Skyrud
+6759,Hans Hartmann
+6760,Suzanne Svanevik
+6761,Martine Dyring Hansen
+6762,Anna Elisabeth Røgenes
+6763,Pål Gunnar Lønvik
+6764,Erik Orasmae
+6765,Oda S.Leiknes
+6766,Adrian Kvinge
+6767,Morten Røvik
+6768,Sarai Folkestad
+6769,Geir Wevle
+6770,Filip Bø Guldbransen
+6771,Kim Nergaard
+6772,Olaf Gundersen
+6773,Eivind Toft
+6774,Ingvild Solberg Hansen
+6775,Roger Johannesen
+6776,Eline Svendsen
+6777,Sean Elliot Rafols Paudel
+6778,Arild Sivertsen
+6779,Jan Erik Borgersen
+6780,Svein Jansen
+6781,Odd Kenneth Bohlin
+6782,Kjell Ove Hjemdal
+6783,Kim Andre Åndalen
+6784,Pål Øyvind Pedersen
+6785,Asle Bøkle
+6786,Jarle Bøckmann
+6787,Kjell Jansen
+6788,Lars Kleppe
+6789,Per Morten Dale
+6790,Paul Storø
+6791,Øystein Løvli
+6792,Hans Magnus Larsen
+6793,Linda Samuelson
+6794,Svein Endre Viste Flem
+6795,Henriette Tønnessen
+6796,Geir Johnny Solvang
+6797,Ina Furustad
+6798,Margit Skjervheim
+6799,Arnt Nodeland
+6800,Endre Digernes
+6801,Stein Arne Berland
+6802,Eystein Aase
+6803,Maria Wågan
+6804,Magni Rødder
+6805,Angelika Fimland
+6806,Ingrid Ledoux
+6807,Silje Almås
+6808,Ole Morten Høiland
+6809,Nikolai Aadland
+6810,Arne Hugo Berg
+6811,Christian Nystrøm
+6812,Kjærand Iversen
+6813,Per Joger Karlsbakk
+6814,Rolf Nilsen
+6815,Hans Ulvund
+6816,Even Ediassen
+6817,Arvid Jensen
+6818,Mikael Heyn
+6819,Johnny Helle
+6820,Kjell-reidar Hansen
+6821,Øyvind Berg
+6822,Arthur Pettersen
+6823,Thorleif Myhre
+6824,Atle Nilsen
+6825,Leif Lefstad
+6826,Ove Knutshaug
+6827,Tormod Jensen
+6828,Albert Ruszo
+6829,Tor Arne Jacobsen
+6830,Siv-helene Haaland
+6831,Carstein Dahl
+6832,Ove Hernes
+6833,Sveinung Pedersen
+6834,Sven Erling Sivle
+6835,Thorbjørn Olsen
+6836,Dan Saarinen
+6837,Lea Berge Jensen
+6838,Jeanette Elvebakk Børsheim
+6839,Erlend Arvesen
+6840,Guro Storkås
+6841,Paul O. Amdal
+6842,Svein Asbjørnsen
+6843,Roar Sundt
+6844,Atle Rognerud
+6845,Frode Johnsen
+6846,Henrik Kongsvik Lien
+6847,Jørgen Tiller
+6848,Jan Egil Myklebust
+6849,Marianne Stuevold
+6850,Kartarina Uthus
+6851,Morten Junge
+6852,Vebjørn Lie Bergum
+6853,Rene Alejandro Myhre
+6854,Nicholas Broen Waage
+6855,Petter Nilsen
+6856,Viggo Røst
+6857,Øivind Haugen
+6858,Harald Brekke
+6859,Terje Marken
+6860,Alf Magnar Slettebø
+6861,David Berset
+6862,Kai Roger Jørgensen
+6863,Jim André Gundersen
+6864,Benjamin Rastum
+6865,Per Gunnar Økland
+6866,Roger Haver
+6867,Anna Lill Gjerdrum Sigvald
+6868,Kim Andre Skorstad
+6869,Anette Skjerli
+6870,Oddvar Grinland
+6871,Even Flekke
+6872,Kristian Hammersgård
+6873,Kim Jacobsen
+6874,Ove Borge
+6875,William Wågan
+6876,Jostein Vaka
+6877,Stig Berntsen
+6878,Øyvind Johansen
+6879,Jan Mørk
+6880,Ole Bjørn Giske
+6881,Cecilie Høiem Rabben
+6882,Torben Pedersen
+6883,Karl Atle Roth
+6884,Vidar Hatlem
+6885,Arild Jacobsen
+6886,Geir Søderlund
+6887,Randulf Sundfær
+6888,Svein Atle Steine
+6889,Henning Bognø
+6890,Hans Breivik
+6891,Ben Otto Berntsen
+6892,Helene Sofie Ingvaldsen
+6893,Tomas Hansen
+6894,Astrid Andersen
+6895,Lone Austerheim
+6896,Gard Eirik Ege
+6897,Gunnar Gravdal
+6898,Håvard Meland
+6899,Stina Grinde
+6900,Jan Kenneth Skjærdal
+6901,Aurora Foss
+6902,Marcus Nybakken
+6903,Therese Fjeldvær
+6904,Daniel Freyr Albertsson
+6905,Kjell Erik Rossing
+6906,Terje Norberg
+6907,Simon Ranum
+6908,Caroline Stene Jansen
+6909,Monica Smedhaug
+6910,Karsten Nielsen
+6911,Ståle Steffensen
+6912,Magnus Storsveen
+6913,Anne Kristin Jonassen
+6914,Leif Gunnar Søvik
+6915,Sunniva Nyheim
+6916,Martin Bjørvig
+6917,Mats Nicolaysen
+6918,Mikael Bringedal
+6919,Jonny Hansen
+6920,Torleif Lode
+6921,Amalie Melin
+6922,Sebastian Thorsen
+6923,Arild Johnsen
+6924,Magnus Eick
+6925,Jan Haaland
+6926,Svein-ove Valdersnes Hamre
+6927,Marit Jørgenrud
+6928,Torleif Hjermann
+6929,Raymond Daae
+6930,Lene Sjøbakk
+6931,Leif Leknes
+6932,Per Mogstad
+6933,Magnus Johansen
+6934,Live Skaar Hatleskog
+6935,Bjørnar Oliversen
+6936,Sylwester Mazur
+6937,Tore Førde
+6938,Frode Aschim
+6939,Hilde Paulsen
+6940,Ingvild Bratterud
+6941,Kjartan Solheim
+6942,Daniel Eriksen
+6943,Torgeir Sæther
+6944,Kristin Graabak
+6945,Tor Vordahl
+6946,Per Arnold Roberg
+6947,Julie Kristin Skjerdal
+6948,Fredrik Mellemsæter
+6949,Olive Millie Holcroft
+6950,Jonathan Gustavsen
+6951,Odd Steinar Harkestad
+6952,Morten F. Johansen
+6953,Henrik Gran
+6954,Knut Hjertås
+6955,Steffen Martinsen
+6956,Krish Nagelis
+6957,Ellen Sofie Pete
+6958,Marius Olsen
+6959,Brekkhus Iselin Mehl
+6960,Arnt Ove Honningsvåg
+6961,Ingolf Salte
+6962,Andreas Eide
+6963,Henk Samnøy
+6964,Trygve Husveg
+6965,Jørgen Bjelland
+6966,Karina Løwe
+6967,Ove Andreas Knutshaug
+6968,Helene R. Uthaug
+6969,Iselin Mehl Brekkhus
+6970,Ole Martin Hagen
+6971,Tor Morten Nedrevåge
+6972,Eline Hæien
+6973,Torild Bøe
+6974,Yttereng Eirin
+6975,Alexander L. Tronsgåd
+6976,Freddy Voldstad
+6977,Frank Joreid
+6978,Johnny Karlsen
+6979,Jarle Gustavsen
+6980,Inge Morten Hermanstad
+6981,Isabel Haugstvedt
+6982,Robin Lending
+6983,Mathias Andreas Reksten Dale
+6984,Linda Johansen
+6985,Johan Jakobsen
+6986,Marianne Hekkilæ
+6987,Reidar Haraldseid
+6988,Ingrid Teeuwen Ledoux
+6989,Benjamin Bekkevold
+6990,Simen Tandberg
+6991,Ken Ove Hilstad
+6992,Hilde Johnsen
+6993,Jan Birger Nervik
+6994,Bjørn Idar Gjøvik
+6995,Håvar Hole
+6996,Tormod Torp
+6997,Hanne Haakonsen
+6998,Thea Worum Thomassen
+6999,Helge Ervik
+7000,John Floan
+7001,Olav Bendiksby
+7002,Arne Johannessen
+7003,Johnny Guldbrandsen
+7004,Rune Hagen
+7005,Patrick Johansen
+7006,Åshild Berdal
+7007,Geir Torstensen
+7008,Vibeke Østensvik
+7009,Barbro Hansen
+7010,Alexandra Dobrina Milkow
+7011,Siw Line Solheim Grønstøl
+7012,Thor Erik Veseth
+7013,Bård Arne Jøssås
+7014,Jan Nervik
+7015,Line Forbord
+7016,Thomas Sandveen
+7017,Thea Andersen Larsen
+7018,Anne Hummelsund Gung
+7019,Harald Langeland
+7020,Oskar Otterbekk Myrvang
+7021,Ron Michael Friberg
+7022,Silje Rygnestad Nesvaag
+7023,Ina K. Talmo
+7024,Arild Udseth
+7025,Tore Gaustad
+7026,Leidulf Borgundvåg
+7027,Kristina Brend
+7028,Ove Larsen
+7029,Madeleine Jenack
+7030,Johnny Aunvik
+7031,Tom A. Tefre Birkeland
+7032,Thea Emilie Innset Esbensen
+7033,Johanna Marie Solli
+7034,Siv Berntsen
+7035,Anders Hangård
+7036,Bjørn Kvernmo
+7037,Joakim Meling Monsen
+7038,Aleksander Låte Svendsbøe
+7039,Knut Severinsen
+7040,Nils Tore Bålsrød
+7041,Pål Gunnulfsen
+7042,Roy Yven
+7043,Per Grøtte
+7044,Maria Dageid
+7045,Monika Zakrzewska
+7046,Andreas Pansegrau
+7047,Asgeir Leivdal
+7048,Rune Tangen
+7049,Werner Johannessen
+7050,Sven Wiik
+7051,Thomas Buxrud
+7052,Elly Samuelsen
+7053,Frode Karm
+7054,Espen Berg
+7055,Johnny Sætre
+7056,Agathe Skuggedal
+7057,Emelie Nilsen
+7058,Stein Morten Kjær
+7059,Cato Johannessen
+7060,Roy Bjørnsen
+7061,Tuva Hynne
+7062,Anne Kari Dørheim
+7063,Tran Van Vu
+7064,Geir Meland
+7065,Jens Christian Ulrich
+7066,Kåre Eide
+7067,Kristina Lavik
+7068,Hans Hassel
+7069,Mailen Karlsen
+7070,Alf Ivar Bruseth
+7071,Kolbjørn Jensen
+7072,Reinhart Nordli
+7073,Steffen H. Jansen
+7074,Iselin M. Brekkhus
+7075,Helene Uthaug
+7076,Simon Hotvedt
+7077,Harald Stener
+7078,Bjørn Inge Eek
+7079,Thomas Skattum
+7080,Ivar Soma
+7081,Tollef Gimse
+7082,Alexander Langtind Tronsgård
+7083,Emilie Kolset Jensen
+7084,Oskar Nonstad
+7085,Agnete Johansen
+7086,Bjørn Eikesdal
+7087,Morten Tyborgnes
+7088,Ina Brendø
+7089,John Philip Floan
+7090,Anne Hummelsund Grung
+7091,Caroline Aar
+7092,Trond Gossmand
+7093,Bent Tveten
+7094,Karianne Hagerupsen
+7095,Linda Grøtåsen
+7096,Håkon Lygre
+7097,Ove Grindheim
+7098,Iva Rosic
+7099,Roar Vik
+7100,Thea Worum Tomassen
+7101,Bernt Mellemstrand
+7102,Morten Venås
+7103,Jørgen Papp
+7104,Livar Haugland
+7105,Maria Emilie Iversen
+7106,Tom Martin Stensrud
+7107,Brede T Lesto
+7108,Markus Hansen
+7109,Sigurd Emil Helgesen
+7110,Ragnar Seljeskog
+7111,Bjarte Johnsen
+7112,Johan Slåttsveen
+7113,Alexandra Milkow
+7114,Geir Skadberg
+7115,Lars A. Kristiansen
+7116,Malin Østberg
+7117,Natassja Alexandra Motalev
+7118,Vidar Eriksen
+7119,Victoria Dreyer
+7120,Andreas Lie
+7121,Tore Helland
+7122,Terje Pettersen
+7123,Jan Werner Holm
+7124,Jan Egil Pettersen
+7125,Magne Schanke
+7126,Karoly F. Greff
+7127,Markus Guldbrandsen
+7128,Odd Inge Rønning
+7129,Pål Eriksen
+7130,Olaus Vagle
+7131,Lasse Johannesen
+7132,Per Leitet
+7133,Bjørn Torvanger
+7134,Svein Johnny Sjåstad
+7135,Emilie Kolseth Jensen
+7136,Tale Bakken Ulfsby
+7137,Tobias Vagle
+7138,Helene Døscher
+7139,Lars Mattis Andresen
+7140,Anette Skjærli
+7141,Andrea Szöcz
+7142,Carl Gotaas
+7143,Egil Årsland
+7144,Elisabeth Lønning
+7145,Nils Petter Håmoen
+7146,Kåre Iversen
+7147,Vien Thanh Troung
+7148,Vegard Strandos
+7149,Erik Waustdal
+7150,Jens Chr. Ulrich
+7151,Terje Schei
+7152,Amilie Straume
+7153,Cornelius Hetland
+7154,Helene Relevo Uthaug
+7155,Odin Røstvik Martinsen
+7156,Siv-Helene Haaland
+7157,Jørgen Bjørnholdt
+7158,Benjamin Bruflot Teigen
+7159,Trond Ivar Nicolaisen
+7160,Jøran Solheim
+7161,Lise Stokke
+7162,Amalie Falk
+7163,Oda Birkeland Vee
+7164,Lillian Løkvik
+7165,Charlotte Martinsen
+7166,Lene Rasmussen
+7167,Ronny Bay
+7168,Charlotte Loa
+7169,Erik Tangen
+7170,Rolf Hole
+7171,Sigurd Sørli
+7172,Hallgeir F. Jensen
+7173,Jostein Tveiten
+7174,Chris Eriksen
+7175,Kari Kirkeby
+7176,Karoline Reksen Furre
+7177,Jonatan Gustavsen
+7178,Harry Waage
+7179,Dag Svingen
+7180,Laila Klungvik
+7181,Anne Kristin Stokkedal
+7182,Robin Ingemann Hansen
+7183,Bård Nilsen
+7184,Eirik Berg
+7185,Erling Kasper Korneliussen
+7186,Camilla Olsen
+7187,Marius Øien
+7188,Mariell Rørstadbotn
+7189,Arild Udset
+7190,Jack Klepsvik
+7191,Tom Janke Kleven
+7192,Rune Martin Apneseth
+7193,Mosin Mostafaei
+7194,Helene Trones Førsvoll
+7195,Stig Røberg
+7196,Mariell E. Hellevang
+7197,Andreas Kvamsås Savland
+7198,Lena Sinnes
+7199,Nikoline Reiakvam
+7200,Edvin Bjørnsen
+7201,Marte Sjøblom
+7202,Egil Jørgensen
+7203,Lyder Aasbø
+7204,Stig Atle Lervåg
+7205,Ragnhild Størseth Hakkebo
+7206,Erik Parmann
+7207,Bent Apneseth
+7208,Sindre Guldbrandsen
+7209,Kristoffer Gullbekkhei
+7210,Skjervheim Margit
+7211,Andrine Myrengen
+7212,Madeleine Janeck
+7213,Egil Urstein
+7214,Marte Styrvold
+7215,Arve Johannessen
+7216,Ketil Dybvik
+7217,Per Ivar Iversen
+7218,Roger Pedersen
+7219,Egil Hegglund
+7220,Ina Sandven
+7221,Tale Ulfsby Bakken
+7222,Trond Westby
+7223,Linda Aune-lundberg
+7224,Gunnar Plym
+7225,Harald Espetvedt
+7226,Arne Duun
+7227,Espen Gjersvik
+7228,Arild Håland
+7229,Julie Kristiun Skjerdal
+7230,Liv Kari Lindhjem
+7231,Jørn Aasland
+7232,Espen Eckholm
+7233,Astrid Marie Barrusten
+7234,Jakob Moen
+7235,Rita Mai Sørgård
+7236,Tom Raaen
+7237,Trond Skyseth
+7238,Ina Martine Brendø
+7239,Roy Olsen
+7240,Svend Ivar Kristiansen
+7241,Mats Bye
+7242,Mette Moen
+7243,Jan Egil Stølsvik
+7244,Joakim Tjensvold
+7245,Ludvig Davidsen
+7246,Julie Kristin Skjærdal
+7247,Nils Arne Savjord
+7248,Ole Magnus Åsen
+7249,Røgenes Anna Elisabeth
+7250,Bjørn Sundt
+7251,Maiken Gattermann
+7252,Lars Christiansen
+7253,Virinaya Shetelig
+7254,Erik Hauge
+7255,Mads Enæs
+7256,Josten Oma
+7257,Sivert Bruland
+7258,Våge Christine
+7259,Simen Nygaard
+7260,Mathias Hakkale
+7261,Thomas Hansen
+7262,Jan Lie
+7263,Thorildur Erikssdottir
+7264,Jan Erik Olden
+7265,Rune Syvertsen
+7266,Øyvind Juvik
+7267,Trond Hamre
+7268,Frank Johannesen
+7269,Jonny Hennum
+7270,Rolf Åsvoll
+7271,Terje Knutsen
+7272,Per Tore Bore
+7273,Ole Jørgen Grytten
+7274,Cecilie Sørensen
+7275,Marit Søvik
+7276,Martin Eriksen
+7277,Kjell Roar Sæther
+7278,Jarle Bergheim
+7279,Atle Rolstadaas
+7280,Siv Helene Haaland
+7281,Erlend-johan Lian
+7282,Knut Arild Østhus
+7283,John Ivar Iversen
+7284,Jørgen Helgestad
+7285,Markus Sandvik
+7286,Arild Solibakke
+7287,Tore E. Åmot
+7288,Heidi Hille Arnesen
+7289,Arild Nilsen
+7290,Birk Grimseth
+7291,Karl Grønhaug
+7292,Hanne Nilsen
+7293,Ruth Vidvei
+7294,Bjørn Slåttsveen
+7295,Knut Eknes
+7296,Roy Kristian Larsen
+7297,Åsmund Karlsen
+7298,Beate Henriksen
+7299,Marthe Tefre
+7300,Christian Carson
+7301,Svein Erik Nilsen
+7302,Terje Vinje
+7303,Michelle Neren
+7304,Elias Holm Nilsen
+7305,Jostein Reiestad
+7306,Håvard Nilsen
+7307,Austerheim Lone
+7308,Anne Merete Ringdal
+7309,Una Othelie Hanssen
+7310,Anders Eggan
+7311,Markus Åsnes
+7312,Hege C. Johnsen
+7313,Morten Nordby
+7314,Kjersti Eknes
+7315,Bendik Plesner
+7316,John H. Ødeverp
+7317,Per Grasmo
+7318,Victor Garpestad
+7319,Christine Våge
+7320,Thor Willy Reiersen
+7321,Marta Eklo
+7322,Helge Odland
+7323,Tord Størkersen
+7324,Håvard Lillegaard
+7325,Olius Øie
+7326,Svein Vold
+7327,Sofie Løwer
+7328,Bjørn Grande
+7329,Thor Andre Fladmark
+7330,Margrethe Schønhardt
+7331,Per Johann Aasen
+7332,Roald Arntsen
+7333,Terje Løkke
+7334,Jan Andersen
+7335,Kristina Aas
+7336,Håkon Halvorsen
+7337,Synnøve Wingan
+7338,Mathias Houlberg
+7339,Arve Steene Warholm
+7340,Sander Stokkeland
+7341,Ragnhild Hanch-Hansen
+7342,Ingrid Lande
+7343,Andrea Szocs
+7344,Phraiwan Champasuk
+7345,Berit Bruvik
+7346,Kristine F. Nymo
+7347,Nora K. Haugloand
+7348,David Zakrzewska
+7349,Olav Kristiansen
+7350,Silje Syversen
+7351,Håkon Kværnø
+7352,Sara Roaldsand
+7353,Tuva Sørdal
+7354,Anne Lill Sigvad
+7355,Karsten Tangstad
+7356,Øyvind Johannesen
+7357,Stian Hugnastad
+7358,Ernst Albert Heggås
+7359,Morten Fagerli
+7360,Steffen Lærum
+7361,Andrè Stene Johnsen
+7362,Kjell Roger Solstad
+7363,Kristian Lyckander
+7364,Viktoria Norbeck
+7365,Anstein Hagen
+7366,Glenn Strandos
+7367,Benedikte S. Larsen
+7368,Henrik Berg-Johansen
+7369,William Sæthre
+7370,Anders Kjær
+7371,Michelle Irgens
+7372,Sebastian Amundsen Haukøya
+7373,Marie Antonsen
+7374,Guro Svendsen
+7375,Regine Kaland
+7376,Solveig Jørgensen
+7377,Fredrik Nilsen
+7378,Frode Grønning
+7379,John Louis Øverås
+7380,Sindre Snær Markusson
+7381,Christian Roxmann
+7382,Trond Birkeland
+7383,Andreas Buhaug
+7384,Andreas Waardal
+7385,Caroline Mone
+7386,Geir Langeland
+7387,Marius Simonsen
+7388,Jøran Larsen
+7389,Johnny Pedersen
+7390,Frank Tømmerås
+7391,Henriette Lind
+7392,Evja Melissa
+7393,Torstein Bjørgan
+7394,Jon Hadland
+7395,Runar Farsund
+7396,Åge Sjåstad
+7397,Hanne Eike
+7398,Olav Berg
+7399,Martin Johansen
+7400,Ane Christine Kanestrøm
+7401,Julie Løwer
+7402,Thomas Haugland
+7403,Morten Bjørnbet
+7404,David Garcia Polo
+7405,Ida Christine Moe
+7406,Christense Våge
+7407,Ronny Norvik
+7408,Magnar Høydalsnes
+7409,Roger Mathisen
+7410,Christopher Sundvor
+7411,Terje Termann
+7412,Karl-georg Gjervik
+7413,Anne Line Stensjøen
+7414,Sigurd Koran
+7415,Sverre Bjørkelo
+7416,Aleksander Osland
+7417,Janniken Karlsen
+7418,Asbjørn Kottum
+7419,Kristian Udseth
+7420,Raymond Åsmul
+7421,Hans Petter Jensen
+7422,Roar Sørensen
+7423,Tuva Frafjord
+7424,Sara Okavesen
+7425,Endre Frøiland
+7426,David Mellum
+7427,Kjetil Dypvik
+7428,Mathea Liv Kvamme
+7429,Kjell Jønland
+7430,Jeanette Myrvold
+7431,Tonny Osen
+7432,Tonje Heitmann
+7433,Mads Bye
+7434,Raul Cristopher Garza
+7435,Anders Farsund
+7436,Jørn Krognes
+7437,Oliver Reiakvam
+7438,Magne Skimmeland
+7439,Evelyn Severinsen
+7440,Hanne Synnøve Totland
+7441,Alexander Pettersen
+7442,Geir Erik Reinertsen
+7443,Per Arne Haugan
+7444,Mille Dekke
+7445,Per Kristian Lerbak
+7446,John Tangvik
+7447,Lars Rune Halleland
+7448,Silje S. Syversen
+7449,Tom Kristian Engelsøy
+7450,Mathilde Loy Enger
+7451,Harald Hetland
+7452,Jorunn Dyngen
+7453,Benedicte Jørgensen
+7454,Tove Haakonsen
+7455,Jon Helge Tafjord
+7456,Maria Fjerdingstad
+7457,Andreas Nitter
+7458,Gabriel Ramirez Stordal
+7459,Leif Arne Gjøsæten
+7460,Marius Stubberud
+7461,Caroline Aar Jakobsen
+7462,Roar Eide
+7463,Solveig Løken
+7464,Ingvild Pettersen-Ervik
+7465,Nicklas Kjelsli
+7466,Harald Pøsinger
+7467,Martin Wåge
+7468,Aidan Stautland
+7469,Arve Madsen
+7470,Kolbein Espeset
+7471,Erik Holm
+7472,Eirik Haugnes
+7473,Terje Bueide
+7474,Roar Gundersen
+7475,Jonathan Gustafsen
+7476,Kjell M. Pettersen
+7477,Kira Ingelsrudøyen
+7478,Arne Osnes Devik
+7479,Britt Kjersti H. Østhus
+7480,Harald Hansen
+7481,Jesper Kvaale
+7482,Lene T. Isaksen
+7483,Torry Hauge
+7484,Anne Kvam
+7485,Frida Ulvan Erlandsen
+7486,Jeanete Gabrielsen
+7487,Marianne Lund
+7488,Per Haugan
+7489,Henrik Firmino Kjeldsberg
+7490,Norvald Håland
+7491,Lise Østby
+7492,Olav Nesbø
+7493,Steffen Sæther
+7494,Freddy Volstad
+7495,Arvid Hamstad
+7496,Hege Grønland
+7497,Håkon Høyland
+7498,Bjørn Furulund
+7499,Tia Loftsgård
+7500,Daniel Samnøy
+7501,Hedda P. Berg
+7502,Jan Kenneth Øksenvåg
+7503,Jon Sommerbakk
+7504,Arild Storøy
+7505,Satu Vänskä-westgarth
+7506,Silje Lund Sørland
+7507,Robert Ask
+7508,Øyvind Nordmo
+7509,Monica Helen Sæle Kårstad
+7510,Kristine Stokkaune
+7511,Anna Cathrine Monge
+7512,Ove Madsen
+7513,Elfrid Tørset
+7514,Morten Walle
+7515,Jan Egil Jørgensen
+7516,Jonny Rømmesmo
+7517,Halvard Tore Skorpnes
+7518,Lars Henrik Gjesdal
+7519,Kim Larsen
+7520,Marthe Dahl
+7521,Karl Kirkeby
+7522,Lars Erik Flønes
+7523,Dima Olsen
+7524,Le Viet Qui Hieu
+7525,Joachim Monsen
+7526,Kine Meland
+7527,Aleksander Åse
+7528,Stig Kvarsnes
+7529,Bjørnar Toftøy
+7530,Ben Ole Hunnestad
+7531,Johannes Kraggerud
+7532,Vegard Rehaug
+7533,Ingri Bøthun-Leganger
+7534,Stine Forås
+7535,Mads Tadesse
+7536,Liv-hege Olsen
+7537,Hanne Fadum
+7538,Annhild Furfjord
+7539,Kjell Sæther
+7540,Kenneth Davidsen
+7541,Elina Ramstad
+7542,Rune Hettervik
+7543,Rune Langaard
+7544,Maithe Eilander
+7545,Petter Bendiksen
+7546,Jon Inge Pettersen
+7547,Wilfred Solberg
+7548,Alexander Hagenes
+7549,Anett Horstad
+7550,Magnar Breidablik
+7551,Kjell Bakke
+7552,Connie As
+7553,Bjørn Ch. Nordberg
+7554,Sondre Silderen Hammer
+7555,Lena Jensen
+7556,Kurt Honningsvåg
+7557,Stian Halleland
+7558,Geir Inge Dolve
+7559,Kari Unneland
+7560,Jon Louis Eltvik
+7561,Trygve Andersen
+7562,Sara Mari Sande
+7563,Per Arvid Jensen
+7564,Erlend Bollandsås
+7565,Karsten Kaspersen
+7566,Tore Nilsen
+7567,Torbjørn Andersen
+7568,Kåre Magnus Herikstad
+7569,Frode Telstø
+7570,John Lois Eltvik
+7571,Ane Otterlei
+7572,Preben Nyvold
+7573,Jacob Thijn Sverdrup
+7574,Kristine Eliasen
+7575,Ronny Solberg
+7576,Kjetil Haugen
+7577,Jan Erik Stølsvik
+7578,Jeanette Støvset Gulliksrud
+7579,Marthe Enlid
+7580,Terje Klungland
+7581,Melissa Evja
+7582,Gaute Fagerheim
+7583,Håvard Einum
+7584,Olav Ersland
+7585,Tone M. Kjærmann
+7586,Kai Larsen
+7587,Birgitte Refsand
+7588,Camilla Strand
+7589,Karoline Brynildsen
+7590,Andreas Bratland
+7591,Mathias Johan Grandrubakken
+7592,Morten Andrassen
+7593,Hans Kristian Hartmann
+7594,André Tvedt
+7595,Roy Vuyk
+7596,Thomas Nybråten
+7597,Jenny Hustad
+7598,Tom Erik Vold
+7599,Charlotte Solheim
+7600,Geir Moen
+7601,Geir Øyen
+7602,Roger Årvik
+7603,Åse Mattson
+7604,Sturle Skage
+7605,Joni Johnsen
+7606,Ove Ytredal
+7607,Morten Tjensvoll
+7608,Aleksander Tvedt Langkås
+7609,Mari-anne Gravdahl
+7610,Jan Marcus Olsen
+7611,Terje Økland
+7612,Lovise Molund
+7613,Ørjan Franzen
+7614,Linnea Johanssen
+7615,Tom Andre Birkelid
+7616,Fredrik Ahlfors
+7617,Rune Bådsvik
+7618,Ruben Skjørestad
+7619,Finn Berntzen
+7620,Markus Leth-Olsen
+7621,Arne Meland
+7622,Lise Talge
+7623,Geir Johnny Nyhus
+7624,Harald Berntsen
+7625,Marita Veiesund
+7626,Bård Inge Stamnes
+7627,Anders Tyborgnes
+7628,Frank E. Aniksdal
+7629,Elin Haakonsen
+7630,Rita Johnsrud
+7631,Nils Martinus Fjeldstad
+7632,Stine Dahl
+7633,Thea Moen
+7634,Lene Kvålseth
+7635,Wiliam Wågan
+7636,Helene Angelika Sirnes
+7637,Aksel Stenkløv Hagen
+7638,Brynjar Fyhn
+7639,Kjetil Felde
+7640,Anne Cathrine Monge
+7641,Karoline Vollen
+7642,Peter Larsen
+7643,Heidi S. Hauge
+7644,Tonje Vatslag
+7645,Øystein Soligard
+7646,Isak Bye
+7647,Magnus Molander
+7648,Johannes Solvåg-hellevang
+7649,Matthias Häkkilä
+7650,Jakub Mariusz Nastaly
+7651,William Kyvik
+7652,Magnus Teigland
+7653,Rune Våbenø
+7654,Emma Andersson
+7655,Signe Meland
+7656,Siv Malin Nesje
+7657,Roar Rasmussen
+7658,Ingrid Hjelle Roset
+7659,Lene Wikdahl
+7660,Michael Christophersen
+7661,Gina Marie Wavold
+7662,Kåre Strømmen
+7663,Malin Kallekleiv
+7664,Kjell Arild Ueland
+7665,Svein Høyvik
+7666,Anastasia Avetisova
+7667,Kjetil Linchausen
+7668,Morgan Vikne
+7669,Ragnehild Hakkebo
+7670,Frode Olufsen
+7671,Celine Christoffersen
+7672,Sebastian A. Haukøya
+7673,Camilla Eie
+7674,Eirik Ingebrigtsen
+7675,Øyvind Oftedal
+7676,T. Kolstad
+7677,Vegard Karlsen
+7678,Jon Magnus Momrak Haug
+7679,Johannes Havmo
+7680,Marthe Frantzen
+7681,Ole Jørgen Bjørnebakk
+7682,Leonardo Løvenfalck
+7683,Knut M. Villum
+7684,Thomas B. Hansen
+7685,Emil A. Omsland
+7686,Johnny Vik
+7687,Marius Øyen
+7688,Mathias Hækkliæ
+7689,Friestad Sondre
+7690,Kim Ingvaldsen
+7691,Nora Kristine Haugland
+7692,Satu Westgarth
+7693,Salma Rørvig
+7694,Henning Vatle
+7695,Cecilie Zalo
+7696,Martin Nilsen
+7697,Eirik Høyland
+7698,Kans Hassel
+7699,Thomas H. Fredriksen
+7700,Ragnhild Hartviksen
+7701,Andreas Eggan Jansen
+7702,Odd Fossum
+7703,Andreas Savland
+7704,Brit Andenes
+7705,Doris Løining
+7706,Per Arne Fossum
+7707,Trygve Heigre
+7708,Ådne Ånensen
+7709,Ellen M Gjærde
+7710,Jan Åge Waldeland
+7711,Sigurd Savland
+7712,Christinse Våge
+7713,Janicke Berthelsen
+7714,Erik Rønning
+7715,Håvard Benjaminsen
+7716,Merethe Heggset
+7717,Tom Egil Hansen
+7718,Jonathan Gustavesen
+7719,Gudrun Sigfusdottir
+7720,Maria Israelsson
+7721,Jørand Larsen
+7722,Kristian Skaflestad
+7723,Hanne Stensrød
+7724,Ronny Henne
+7725,Hans Petter Fjelstad
+7726,John Svendsen
+7727,Mia Mobæk
+7728,Svein Eide
+7729,Børge Strøm
+7730,Henning Kafle
+7731,Lasse Gulbrandsen
+7732,Milio Erga Nyland
+7733,Cecilie Hannevold
+7734,Veronica Skulstad
+7735,Silje Sletten
+7736,Georg Ekremseter
+7737,Erna Sletvold
+7738,Ole Marius Kristensen
+7739,Thomas Rosenlund
+7740,Bjørn Oddvar Søbstad
+7741,Fred-ole Bellingsund
+7742,Henriette Kvamme
+7743,Jo Schjetne
+7744,Oskar Grønning
+7745,Renate Overholdt
+7746,Katrine Madsen
+7747,Finn A. Falkenberg
+7748,Pål Wåden
+7749,Terje Brønn
+7750,Maithe Rixt Eilander
+7751,Anne-Grethe Jakobsen
+7752,Ingvild Øvermo
+7753,Christopher Wilde
+7754,Hege Norman
+7755,Jenny Elvenes
+7756,Kenneth Vaag
+7757,Eirik Amdal
+7758,Hege Engebakken Grønland
+7759,Ida Tangstad
+7760,Lene Dæhlin
+7761,Arne Sharma
+7762,Per Johan Hopstad
+7763,Børre Thoresen
+7764,Veronica Friis Frydenlund
+7765,Espen Kjeksrud
+7766,Jan Sjøgren
+7767,Anita Hansen
+7768,Karoline Vassdal Skare
+7769,Ronnie Nebelung
+7770,Michelle Nilsen
+7771,Lars Grindheim
+7772,Martine Skaara
+7773,William Vågan
+7774,Anne-kristine Meland
+7775,Malin Thomassen
+7776,Jørn-gunnar Nystad
+7777,Brita Loftås
+7778,Rumar Hjelleøstrem
+7779,Krystian Buczynski
+7780,Trond Atle Sandve
+7781,Sander Mikkelsen Nordvik
+7782,Signe Kristoffersen
+7783,Iselin Gjøringbø
+7784,Espen Solberg
+7785,Einar Stølsvik
+7786,Tore Svendsen
+7787,Christian Sande
+7788,Karen Amdym
+7789,Ove Bjørhovd
+7790,Hilde Bolland
+7791,Stine Moen
+7792,Kristine Strøm
+7793,Stina Eriksson
+7794,Martin Anfinsen
+7795,Petter Stavnheim Refsland
+7796,Siri Stolanowski
+7797,Joakim Syrrist
+7798,Nina Monsen
+7799,Owe André Askeland
+7800,Alexander L. Tronsgård
+7801,Karoline Vollan
+7802,Kjersti Hjelle Eide
+7803,Bjørn Martin Hestnes
+7804,Camilla Olsson
+7805,Tommy Larsen
+7806,Jan Olav Hagen
+7807,Einar Lund
+7808,Elisabeth Klima Olsen
+7809,Børge Hellebust
+7810,Kristine Venseth
+7811,Johannes Solvåg Hellevang
+7812,Reidar Storler
+7813,Preben Flygansvær
+7814,Sverre Sandvik
+7815,Roger Kaas
+7816,Sara Nassolo
+7817,Reinert Dirdal
+7818,Torstein Forberg
+7819,Sara Emelie Winås
+7820,Heide Nævdal
+7821,Christer Iversen
+7822,Eva Grøndahl Lundberg
+7823,Kim Rune Vold
+7824,Rune Raabye
+7825,Marius Johansen
+7826,Martin Akervold
+7827,William Alexander Christiansen
+7828,Yasmina Igoba
+7829,Marianne Hagfors
+7830,Vanessa Lopez
+7831,Cecilie Heidenstrøm
+7832,Cato Torkelsen
+7833,Jeanette Gulliksrud
+7834,Mia Frøitland
+7835,Roger H. Eriksen
+7836,Heidi Nævdal
+7837,Bjørn Rasmussen
+7838,Kai Rune Larsen
+7839,Cornelia Nordvall
+7840,Emilie Søgnesand
+7841,Celine Olsen
+7842,Steffen Gustavsen
+7843,Mia Eidsvåg
+7844,Vegard Jensås Andersen
+7845,Susanna Vold
+7846,Anja Carolina Beijar
+7847,Brit Jorun Løvereide
+7848,Liridon Shabi
+7849,Nina Bull Engelstad
+7850,Sindre Nordeide
+7851,Jakob Sandvik
+7852,Susanne Eide
+7853,Roger Løkke
+7854,Johan Harranes
+7855,Rune Kverhellen
+7856,Christina Emilie Kittelsen
+7857,Eskil Fjærn
+7858,Gro Marie Selstad
+7859,Cathrine Foss
+7860,Ane Wilhelmsen
+7861,Angelica E.Myrholt
+7862,Raymond Fagerli
+7863,Therese Edvardsen
+7864,Anne Karin Haver
+7865,Bjørnar Misund Hernes
+7866,Erlend Grøttebø
+7867,Stephen Horne Sæter
+7868,Ingolf Høvik
+7869,Oda Stensvold
+7870,Tor Henrik Sømme
+7871,Øystein Lie Sæther
+7872,Frode Nilsen
+7873,Ingrid Vold
+7874,Kristoffer Marius Jørgensen
+7875,Ana Carolina Hausvik
+7876,Maiken Sylthe
+7877,Mathias Flotve
+7878,Sigrid Melkvik
+7879,Kristine Skjold
+7880,Julianne Bjørnøe
+7881,Jacob Thjin Sverdrup
+7882,Julie Hole
+7883,Bendik Hamar
+7884,Jonas Paulen
+7885,Raymond Kleiveland
+7886,Sondre Kyoo Næss
+7887,Brian Wilson
+7888,Guro Ask
+7889,Jorunn Meling
+7890,Martin Fuglehaug Strandbakken
+7891,Bente Jakobsen
+7892,Louise Ehrenberg
+7893,Linda Magnúsdóttir
+7894,Maja Fosse
+7895,John Olav Storler
+7896,Caroline Moen
+7897,Ane Frogner Risan
+7898,Christin Waardal
+7899,Hedda Hammervold
+7900,Mari Hoem
+7901,Ove Trond Aniksdal
+7902,Raymond Meland
+7903,Siv Aarthun
+7904,Geir Dalve
+7905,Pål Sola
+7906,Andreas Hetle
+7907,Karianne Vangen
+7908,Duyen Tran
+7909,Anne Hovland
+7910,Jørn Johnsen
+7911,Hallvard S. Sommer
+7912,Otto Fjeldstad
+7913,Odd-Henrik Hermanrud
+7914,Karl Georg Gjervik
+7915,Jan Terje Heksem
+7916,Mads Mossige
+7917,Lill Beate Søttar Unhjem
+7918,Lisa-Kristina Kolvik Larsen
+7919,Marte Dahl
+7920,O. Berg
+7921,Eva Etterlid
+7922,Hanne Undseth
+7923,Fredrik Paulsen
+7924,Trine Ryen
+7925,Berit Kristin Opheim
+7926,Marius Gripp
+7927,Arve Tonning
+7928,Marithe Kleiva
+7929,Cathrine Jensen
+7930,Anders Moen Ueland
+7931,Balder Tvedt Eidsheim
+7932,Rune Nilsen
+7933,Trym Hovde
+7934,Iben Karate Karlsen
+7935,Atle Aasberg
+7936,Hege Herikstad
+7937,Ragnhild Hals
+7938,Henning Bjørvik
+7939,Hanna Gabriella Heier
+7940,Thomas F. Haugland
+7941,Julie B Simonsen
+7942,Astrid Bye
+7943,Erlend Nordeide
+7944,Harald Ekremseter
+7945,Paul Steiro
+7946,Ida Forthun
+7947,Renate Bolland
+7948,Arne Tjemsland
+7949,Øystein Stokke
+7950,Harald Johannes Røyseth
+7951,Christian Hagen
+7952,Hans Kåre Ødeverp
+7953,Sara Helene Nassolo
+7954,Hans Martin Moe Halvorsen
+7955,Ada Wiik
+7956,Gunn Lindanger
+7957,Aron Johnsen
+7958,Linda Sanden
+7959,Rune Heggem
+7960,Thea Emilie Hansen Gjørts
+7961,Marcella Masonic
+7962,Kristin Nymann
+7963,Bertram Melum
+7964,Karen Magnussen
+7965,Michael Vasshus
+7966,Andreas Aasom Brandsnes
+7967,Amalie Helleberg Rovik
+7968,Kim Robin Jakobsen
+7969,Jørgen Wiken Furnes
+7970,Ken Roar Kristiansen
+7971,Nils Iver Stølen
+7972,Sebastian Årdal Kongsvoll
+7973,Svein Surdal
+7974,Ingrid Høvik
+7975,Tara Müller
+7976,Berntsen Ine-sofie
+7977,Are Moen Birkeland
+7978,Stein Dale
+7979,Halvard Liland
+7980,Svein Arne Amundsen
+7981,Trond Ludvigsen
+7982,Marius Olsvik
+7983,Thomas Lavik Lie
+7984,Klaus Aspli
+7985,Lars Otto Grindheim
+7986,Renate Kristiansen
+7987,Oscar Bergheim
+7988,Bina Sylte
+7989,Kristine Berdal
+7990,Helene Schefte
+7991,Irene Kjetland
+7992,Leif Ivar Gunnes
+7993,Elise N. Fitje
+7994,Kjetil Hovda Skåren
+7995,Espen Melheim
+7996,Pia Etim
+7997,Tille Karlsen
+7998,Ask Espensønn Øren
+7999,Thomas Bøe
+8000,Mo Jønvik
+8001,Monica Skogly
+8002,Nicholas Haver Øen
+8003,Sigve Slettvold
+8004,Tor Egil Thorland
+8005,Ingvil Stautland
+8006,Eivind Johannessen
+8007,Tommy Skaten
+8008,Ingvild Stautland
+8009,Gunnar Halvorsen
+8010,Susanna Kolåsæter
+8011,Anders Gåsemyr
+8012,Nina Therese Storstein
+8013,Linn Rosa Knudsen
+8014,Nojus Ulida
+8015,Kjell Oskar Fiskebekk
+8016,Ruth Rabbe
+8017,Isak Pedersen
+8018,Markus Engevik
+8019,Tor Sømme
+8020,Stig Førland
+8021,Tone Alise Karlsen
+8022,Bjørn Åge Sæther
+8023,Petter Nyheim Larsen
+8024,Ole Christian Halvorsen
+8025,Mona Skauge
+8026,Kristoffer Gjervik
+8027,Kajsa Kristensen
+8028,Bjørn Arve Ødeverp
+8029,Victoria Skog
+8030,Mari Storli
+8031,Rune Kvernberg
+8032,Marina Hole
+8033,Ole Andre Husveg
+8034,Erling Grønhaug
+8035,Magnus Wisth
+8036,Henrik Lund Einteig
+8037,Stig Nesheim
+8038,Stian Tangedal Lien
+8039,Jan Erik Gregersen
+8040,Bjørn Mikal Espedal
+8041,Lise Askeland
+8042,Merete Viken
+8043,Odd Sandvik
+8044,Ida Kristine Severinsen
+8045,Jørn Lund Olsen
+8046,Marit Myhrer
+8047,Mi Jønvik
+8048,Marion Hellesund
+8049,Petter Elvesveen
+8050,Rannveig Mellemsæther
+8051,Atle Rasle
+8052,Terje Ekberg
+8053,Odd Steinar Aasen Torgersen
+8054,Helene Sellesbakk Bjerke
+8055,Heidi Wolff Gravermoen
+8056,Nora Barstad
+8057,Trond Nordvik
+8058,Kristin Jørgensen
+8059,Maren Boge
+8060,Endre Brevik
+8061,Bjarte Røyseth
+8062,Vlora Ajvazi
+8063,Anette Kalland
+8064,Nils Chr. Bull Melsom
+8065,Ingeborg Martinsen Berglund
+8066,Kari Johnsrud
+8067,Alexander Nilsen
+8068,Kai Karlsen
+8069,Inga Østby
+8070,Tom Arne Kristoffersen
+8071,Margunn Søvik
+8072,Kristian Kampenhøy
+8073,Vida Meosli
+8074,Frida N. Fitje
+8075,Lasse Solberg
+8076,Vilde Gjevstad
+8077,Endre Kalland
+8078,Susann Skagseth
+8079,Irene Jensen
+8080,Embla Frydenlund
+8081,Arild Høien
+8082,Geir Reinertsen
+8083,Odd Emil Ulvan
+8084,Øivind Antonsen
+8085,Ingrid Skag Skjefstad
+8086,Luna Anette Løndal
+8087,Fillip Alexander Grini Hjellesett
+8088,Ingvild Pettersen-ervik
+8089,Daniel Sørgulen
+8090,Cathrine Vollevik
+8091,Elin Holm
+8092,Jannicke Lavik
+8093,John Børge Søvik
+8094,Torben Vold
+8095,Håvard Dolven
+8096,Ronny Dale
+8097,Karoline Guldbrandsen
+8098,Anita Andersen
+8099,Anna Hedevig Endresen
+8100,Oliver Standal
+8101,Jan Egil Harranes
+8102,Mari Osnes
+8103,Jorunn M. Monsen
+8104,Lilli Knutsen
+8105,Charlotte Helleland
+8106,Marius Thunestvedt
+8107,Karen Amdam
+8108,Terese Sandvik
+8109,Torstein Siegel
+8110,Guro Kristine Skogli
+8111,Ingeborg Raftevild
+8112,Jan Helland
+8113,Endre Holm Vassenden
+8114,Liam Nes
+8115,Vilde Skinlo
+8116,Stine A. Moen
+8117,Tuva Sægrov Øygard
+8118,Hedda Berentzen
+8119,Ingvild Myhre
+8120,Stine Grønnhaug
+8121,Kjell Nytrø
+8122,Atle Kristiansen
+8123,Sigmund Hårrig
+8124,Morten Løvneseth
+8125,Per Reidar Leite
+8126,Lisa Knudsen
+8127,Kennet Jacobsen
+8128,Kristian Selboe
+8129,Svein Inge V. Tonning
+8130,Una Otelie
+8131,Hege Bolland
+8132,Vibeke Engedal
+8133,Vegard H. Håland
+8134,Bjørn R. Magnusen
+8135,Nina Markhus
+8136,Nora Bjørklund
+8137,Iren Vatne
+8138,Mia Stein
+8139,Knut Arne Lyngstad
+8140,Kjetil Envik
+8141,Elizabeth Waldemarsen
+8142,Martine Vonen Kvaal
+8143,Magnus Sørum
+8144,Henrik S . Svorstøl
+8145,Helene Pettersen
+8146,Mathias Larsen Sandvik
+8147,Maria Therese Wallèn
+8148,Hege Johnsen
+8149,Gørild Klungvik
+8150,Selma Victoria Simensen
+8151,Ronny Albrigtsen
+8152,Aase Vilde Follinglo
+8153,Lene Myklebust
+8154,Hans Drage
+8155,Jens Erik Fjellbraaten
+8156,Morten Woldseth
+8157,Dyre Imerslund
+8158,Johan Magnus Lauten
+8159,Filip K. G. Sætre
+8160,Håvard Kollbotn
+8161,Oscar Husby
+8162,Jørgen Skjærstad
+8163,Anne Lise Rygg
+8164,Mariell Helleren
+8165,Dennis Fossen
+8166,Iben Karete Karlsen
+8167,Widar Fuglestad
+8168,Renate Skagseth
+8169,Kari Zahl Nævdal
+8170,Magnus F. Grøtan
+8171,Thea Malen Fuglestrand
+8172,Alexander Ørndal
+8173,Tore Åsbak
+8174,Torbjørn Siegel
+8175,Kristin Skorge
+8176,Eline Randulff Hillestad
+8177,Karen Haugum
+8178,Vibeke Aune
+8179,Ina Hillestad
+8180,Ravn Digre
+8181,Anna Igland
+8182,Egil Madland
+8183,Eifrid Tørset
+8184,Mikael Støvland Skaara
+8185,Martine Terese Flatby
+8186,Dag Eivind Noreid
+8187,Lillian Ellingsen
+8188,Håkon Berg
+8189,Pål Reinskaug
+8190,Marius Karagiannis
+8191,Benedicte Engen
+8192,Marthe Eklund
+8193,Bjørn Inge Fløto Kleppe
+8194,Synøve Jakobsen
+8195,Kristoffer Kydland
+8196,Trond Ansgåad Karlsen
+8197,Siv Vittring
+8198,Ina Viberg
+8199,Julie Eriksen
+8200,Eldbjørg Stenrud Nilsen
+8201,Marit Linn
+8202,Gardar Stikholmen
+8203,Hege Torgersen
+8204,Astrid Marie Erdal
+8205,Vanja Flademoen
+8206,Erwin Wedel
+8207,Christian Meyer
+8208,Daniell Ravndal
+8209,Gry Wroldsen
+8210,Kristine Hjelle
+8211,Per Hopstad
+8212,Sigrid Jakobsen
+8213,Pernille Vestre
+8214,Martina Ruszova
+8215,Ketil Olav Envik
+8216,Wibecke Paulsen
+8217,Marte Tuft
+8218,Ingeborg B. Martinsen
+8219,Stine Anita Gundersen
+8220,Magnus Kallekleiv
+8221,Anja Ueland
+8222,Hallvard Sommer
+8223,Tor Fredrik Lindmann
+8224,Philip Celep
+8225,Atle Sandvold
+8226,Sandra Amundsen
+8227,Ketil Envik
+8228,Kristoffer Bogen
+8229,Lise Romstad
+8230,Tiril Heløe Wiig
+8231,Sivert Brusland
+8232,Preben Kirketeig
+8233,Kristin Nore
+8234,Helene Lund
+8235,Lill-beate Søttar Unhjem
+8236,Helene Fromreide Nesheim
+8237,Hallvard Stølsvik
+8238,Jan Malcholm Andersen
+8239,Bjørn Arne Bergan
+8240,Jørgen Korshaugen
+8241,Aslaug Mosebø
+8242,Signe Skjelbreid Myklebust
+8243,Kristian Egeland
+8244,Josefine Lien
+8245,Stian A. Wahl
+8246,Bjørn Erik Fløtre
+8247,Maksymillan Nyk
+8248,Vilde Emilie Ingvaldsen
+8249,Maria Angeleena Kristensen
+8250,Johannes Hellevang
+8251,Tuva Dybedokken
+8252,Glenn Andre Johansen
+8253,Therese Opskar
+8254,Eirik Orasmae
+8255,Jens Nicolaysen
+8256,Rønnaug Næss
+8257,Tor Magne Dahlen
+8258,Ole Jånni Hagen
+8259,Maria Johnsen
+8260,David Davitian
+8261,Kristian Hattmyr
+8262,Anne Haugan
+8263,Maria Salvesen
+8264,Harald Aasbø
+8265,Patricia Tvete
+8266,Ingvild Helle Nysæther
+8267,Hanne Jørgensen
+8268,Mari Letnes
+8269,Mona Helen Farstad
+8270,Helene Iversen Solstad
+8271,Inger Laila Eikeland
+8272,Morten Husby
+8273,Isak Andersen
+8274,Morten Viken
+8275,Olina Teistedal Vikre
+8276,Priscilla Miranda
+8277,Dan Monclair
+8278,Mia Søndergaard Mobæk
+8279,Julie Sundt
+8280,Haddy Cham
+8281,Margrethe Jonstad
+8282,Høien Eline
+8283,Petter Hassel
+8284,Kenneth R. Larson
+8285,Ludvig Aarstad
+8286,Roger Berg
+8287,Natalia Ersland
+8288,Hanne Hatle
+8289,Andre Grepstad
+8290,Simen Wangberg
+8291,Vilde Gjevestad
+8292,William André Knudsen
+8293,Christian J Thorvaldsen
+8294,Nathaliie Gunnarsberg
+8295,Ida Børøsund
+8296,Otto Fjellstad
+8297,Tonje Stava
+8298,Karoline Pedersen
+8299,Jan Arve Lykseth
+8300,Teodor Strand Johansen
+8301,Marta Osland Lavik
+8302,Edel M. Johansen
+8303,Tuva S. Øygard
+8304,Trude Johansen
+8305,Sandra Pedersen
+8306,Lena Kristine Bjørklund
+8307,Cecilie Marie Hedenstrøm
+8308,Silje Brøyn
+8309,Christian Virtanen
+8310,Tobias Mastad Nordbotn
+8311,Sindre Svorkås
+8312,Henril Lien
+8313,Kristoffer Bruflot
+8314,Teodor Nicolaisen
+8315,Askild Husdal Øye
+8316,Eskild Fjeldstad
+8317,Even Konsvik
+8318,Nathalia B. Nilsen
+8319,Mari Annlaug Mikkelsen
+8320,Murali Premkumar
+8321,Kristoffer Lindhjem
+8322,Ingrid Indreeide
+8323,Vegard Saltveit
+8324,Therio Sinnarajah
+8325,Kim Rudi Eker
+8326,Embla Kirkemoen
+8327,Johanne Løwe
+8328,Nojus Ulidas
+8329,Veronica Rønning
+8330,Mats Veien Karlsen
+8331,Windir Svingen
+8332,Bjørn Serkved
+8333,Silje Borgen
+8334,Daniel Heide
+8335,Mikkel Lynnum Refsdal
+8336,Marianne Hauge
+8337,Trang Dang
+8338,Eirik Rimehaug
+8339,Loke Olsen Frogner
+8340,Joakim H. Snildal
+8341,Jonas Sårheim
+8342,Lisa Siqveland
+8343,Jan Markus Olsen
+8344,Trine Nøstmo
+8345,Helene Leithe
+8346,Thomas Bjørstad
+8347,Helene Hvaal
+8348,Jorunn Monsen
+8349,Mads Høien
+8350,Birk Stevne Grimseth
+8351,Christian Thorvaldsen
+8352,Alf Inge Utset
+8353,Mats Selven
+8354,Ylva Skag
+8355,Amanda Olaisen
+8356,Stine Døsevik
+8357,Erik Fjellås
+8358,Tilde Enger Hansen
+8359,Nara Therese Lervik
+8360,Rebekka Solhaug
+8361,Marthe Furuhaug
+8362,Fredrik Yndestad
+8363,Emilie Skjærbekk Lindborg
+8364,Rina Tysse
+8365,Mina Aarseth
+8366,John I. Stenssletten
+8367,Mali Svinvik
+8368,Thea Eline Amundsen
+8369,Alex Dalgård
+8370,Joachim Olseth
+8371,Ingvild Frøyen
+8372,Ivar Aasheim
+8373,Stian Gjerald
+8374,Leo Fejzi
+8375,Anita Espevik
+8376,John Aune
+8377,Dina Moe
+8378,Julie Instad Hole
+8379,Niels Snorre Svensson
+8380,Ingrid Tømmerhoel
+8381,Mona Waldemarsen
+8382,Kristian Høibø
+8383,Ole Andre Vold
+8384,Morten André Tvedt Anfindsen
+8385,Lars Berntzen
+8386,Roy Larsen
+8387,Sunniva Indrehus
+8388,Einar Undheim
+8389,Mikkel Lynum Refsdal
+8390,Håkon Hermansen
+8391,Arne Grinde
+8392,Magnus Holm
+8393,Tommas Ringdal
+8394,Haaland Siv Helene
+8395,Øivind Bremnes
+8396,Raymond Førland
+8397,Mille Aurora Karlsen
+8398,Ragnhild Nilsen
+8399,Per Erik Gjøvåg
+8400,Solveig Karin Brekke
+8401,Maria Hauge Blindheim
+8402,Margrethe W. Pedersen
+8403,Martine Hvaara
+8404,Hanne Løwe
+8405,Lasse Kårstad
+8406,Hilde Katrin Kvernevik
+8407,Merethe Lilan
+8408,Anders Lysø Sletvold
+8409,Thor Martin Solheim
+8410,Øyvind Gartland
+8411,Simen Jetmundsen
+8412,Charlotte Tollaksen
+8413,Ingrid B. Tømmerhoel
+8414,Tomas Zahumansky
+8415,Hilde Martinsen
+8416,Frida A. Stang
+8417,Stian Steffensen
+8418,Mathias Holberg
+8419,Viggo Krisiansen
+8420,Arin Djupvik
+8421,Jorunn M Monsen
+8422,Emil Engø
+8423,Snorre D. Fønne
+8424,Tobias M. Nordbotn
+8425,Amanda Kvello
+8426,Helene Hammer
+8427,Julian Seines Thanem
+8428,Maria Rønnevik
+8429,Mona Tahani
+8430,Liam Sæther
+8431,Amalie Kristiansen
+8432,Joakim Kjeøy
+8433,Katinka Kolaas Ekmann
+8434,Kaja Wiik
+8435,Iren Meinnes
+8436,Patric Nordbø
+8437,Martine Alvestad
+8438,Bjørn Olav Setane
+8439,Adrian Langkås
+8440,Morten Kjøren
+8441,Ida Hepsø
+8442,Karoline Sørensen
+8443,Louisa Hjelås
+8444,Kristian Larsen
+8445,Lea Søttar-unhjem
+8446,Katrine Tømmervik
+8447,Wenche Søvik
+8448,Veronica Holm
+8449,Helene Møller
+8450,Ann Cathrine Johnsen
+8451,Madicken Rognes
+8452,Ann Kristin Kvæstad
+8453,Marthe Bjerke Karling
+8454,Simone M. Simensen
+8455,Johnny Førre
+8456,Maja Fuglestrand Baade
+8457,Gustav Larsen
+8458,Trine Tømmervik
+8459,John Arne Gregersen
+8460,Maja Jaakson
+8461,Karina Elvestad
+8462,Ann Cathrine Monge
+8463,Sofie Neverdal
+8464,Benjamin Gonzalez
+8465,Vilde Iversen
+8466,Christian Andre Jetmundsen
+8467,Kristian Haukeland
+8468,Kjell Arne Larsen
+8469,Einar Magne Undheim
+8470,Mille Svensen
+8471,Mats Johanson
+8472,Rune Aniksdal
+8473,Tom Andre Birkelid Rosvolld
+8474,Martin Eikesdal
+8475,Trond E. Wassæther
+8476,Torjus Ødelien
+8477,Andrea Høyvik
+8478,Lillian Stenhaug
+8479,Sigrid Bogstad
+8480,Kay F. Hofstad
+8481,Kaija Irgens
+8482,Mathias Lode Engelsgjerd
+8483,Brit Elise Rasmussen
+8484,Joakim Duun Skauge
+8485,Else Berit Skagen
+8486,Hanna Solum
+8487,Malene Svidal
+8488,Marianne Stalheim Bergli
+8489,Martine Wang
+8490,Natalie Åmot Herland
+8491,Kine Røed
+8492,Quan Tran Bao
+8493,Tom Richard Selven
+8494,Marie Nagell Alne
+8495,Olga Askelund
+8496,Ole Andre Rekkedal
+8497,Emma Flesland
+8498,Bjørn Arve Kjelsnes
+8499,Petter Lindager
+8500,Bjørn Gunnar Gravdal
+8501,Sina Johannessen
+8502,Rajan K. Kolnes
+8503,Erik Vold
+8504,Sissel Holen
+8505,Nasrin Nia
+8506,Frida Charlotte Rasmussen
+8507,Andre Monsen
+8508,Karoline Gulbrandsen
+8509,Emily Bjerkholt
+8510,Andrea Sneve
+8511,Endre Fjeldsbø
+8512,Frida Sårheim
+8513,Petter Hermansen
+8514,Julie Vigrestad
+8515,Elmedina Aburamani
+8516,Elise Vegrim
+8517,Edvard Johan Goto Lange
+8518,Marthe Smistad
+8519,Ingrid Krokan Storrø
+8520,Joheannes S Hellevang
+8521,Live Lowzow Plahte
+8522,Christian Wedø
+8523,Karianne Eliasen
+8524,Sebastian Bekkelund
+8525,Frida Pettersen
+8526,Lars Børø
+8527,Ingeborg N. Mellingen
+8528,Robert Arefjord
+8529,Steffen Grytten
+8530,Camilla Handeland
+8531,Willy Andre Knutsen
+8532,Marius Bøckman
+8533,Henrik Svorstøl
+8534,Sindre Vold
+8535,Sondre Elias Fredriksen
+8536,Juni Rati Aas Torp
+8537,Magnus Skjemstad
+8538,Marthe Bø
+8539,Ragnhild Hakkebo
+8540,Henrik Fjæren
+8541,Katrine Harestad
+8542,Ingvild Lohne Frøyen
+8543,Ane Elvemo
+8544,Robin Berg Myklebust
+8545,Kristine Thonerud
+8546,Camilla Bjørgan
+8547,Petter Dalslåen
+8548,Eva Lundberg
+8549,Robin Storevik
+8550,Vilde E. Dale
+8551,Kristin Aune
+8552,Rikke Breivik Sund
+8553,Malene Vedvik
+8554,Bjørg Rasmussen
+8555,Anders Lysø Slettvold
+8556,Tron Wedø
+8557,Andrea Greaker
+8558,Andrea Håkonsen
+8559,Marius Skorstad
+8560,Phong Duy Tong
+8561,Vincent C. Kleppenes
+8562,Roy Bekkelund
+8563,Jenny Flølo Kleppe
+8564,Dennis Strandersnes
+8565,Silje Hoel Fossen
+8566,Torin Røed
+8567,Siv Line Solheim Grønstøl
+8568,Eirin Aune
+8569,Jone Andreassen
+8570,Torgeir Fiske
+8571,Malin Bergstrøm
+8572,Kristian Bjerklund
+8573,Marit Stølsvik
+8574,Eirin Edvardsen
+8575,Simen Titlestad
+8576,Ingar Opstad
+8577,Kurt Inge Mitbø
+8578,Stine Osnes
+8579,Ine-sofie Berntsen
+8580,Stian Almås Wahl
+8581,Dorothea Dvergsdal
+8582,Dalia Hawdeany
+8583,Karen Klungerbo
+8584,Robert Selnes
+8585,Anders Wick
+8586,Ida Hoff
+8587,Olav E. Osnes
+8588,Ulrik Wallervand Ofte
+8589,Fredrik Mellomsæther
+8590,Anita Nordby
+8591,Mille Krøs
+8592,Kaia Wiik
+8593,Sondre Heteløen
+8594,Christoffer Dale
+8595,Henrik Nas
+8596,Iben Karlsen
+8597,Elice Vegrim
+8598,Helene Mølner Olsen
+8599,Daniel Valle Hansen
+8600,Noah Gimmestad Støyva
+8601,Liva Austerheim
+8602,Nathalie Endestad
+8603,Steffen Aas Grytten
+8604,Joakim Aase
+8605,Kjartan Enerhaug
+8606,Oliver Håland Stokkeland
+8607,Ingrid Emilie Haugland
+8608,Amalie Bjerke
+8609,Ida Vold
+8610,Marianne Grinde
+8611,Matias Karlsen
+8612,Sofia Berntsen
+8613,Steinar Bergstøl
+8614,Lise-mari Tvedt
+8615,Kine Hetland
+8616,Sigrund Drivenes
+8617,Magnus Skjermstad
+8618,Marit Haug
+8619,Kristina Hjelle
+8620,Markus V. Rosseland
+8621,Carmen Solheim
+8622,Even Loy Enger
+8623,Torgeir Samdal
+8624,Hussam Salah Abu-Alrub
+8625,Martin Reitan
+8626,Laila T Bjørnarheim
+8627,Emil Mathias Horne
+8628,Rebekka Fjeld
+8629,June Pedersen
+8630,Kristine Ullaland
+8631,Tilde Sæthre
+8632,Neftali Sofie Tambo
+8633,Aurora Ulrikke Hellem
+8634,Malin Stolpestad
+8635,Are Neven
+8636,Veronica Jensen
+8637,Adrian Aaland
+8638,Morten Solbu
+8639,Eirik Solgård
+8640,Malin Thomesen
+8641,Maximilian Riisem
+8642,Lea Nystrand
+8643,Alexander Aandalen
+8644,Tina Bjarke
+8645,Henrik Kvame
+8646,Lea Emilie Nystrand
+8647,Maximillian Riisem
+8648,Karoline Thonerud
+8649,Sarah Etim
+8650,Lene Vågenes
+8651,Andreas Vold
+8652,Ona Myrvold
+8653,Millian Mikkelsen Nordvik
+8654,Bente Løyning Vigrestad
+8655,Linnea Midtun
+8656,Marius Myklebust
+8657,Ona Myrvold Norseth
+8658,Adrian Vatnamo
+8659,Anna Gil
+8660,Anna Siqveland
+8661,Emmelin Kleppenes-rygg
+8662,Emil Sekse-laursen
+8663,Fira Wakshum Bacha
+8664,Malin Grov Solheim
+8665,Kristine Eide
+8666,Ann Maren Velo
+8667,Oliver A. H. Stokkeland
+8668,Håkon Thonerud
+8669,Aleksander Runne
+8670,Fakey
+8671,Aage Pedersen
+8672,Algot Olander
+8673,Arne Bruun
+8674,Arne Grøtte
+8675,Arne Jan Bjermeland
+8676,Arne Willumsen
+8677,Arnulf Risan
+8678,Asbjørn Sæther
+8679,Bernt Madsen
+8680,Bjarne Oster
+8681,Bjørn Arne Friis
+8682,Bjørn Helgesen
+8683,Bjørn Holm
+8684,Bård Inge Larsen
+8685,Børre Eskedahl
+8686,Dag Iversen
+8687,Dag Nordtvedt
+8688,Dagfin Hagelin
+8689,E. Egeland
+8690,Edward Monkvold
+8691,Erik Nodeland
+8692,Finn Kristian Svendsen
+8693,Frosti Gylfason
+8694,Geir Rune Schellhom
+8695,Gunnar Johan Lundal
+8696,Hans Olsen
+8697,Harald Johannesen
+8698,Helge Fjeld
+8699,Håkon Johannesen
+8700,Håkon Nordbo
+8701,Ivar Ulgenæs
+8702,J. Bentehaugen
+8703,J. Skjærpe
+8704,Jan Egil Hansen
+8705,Jan Erik Trøan
+8706,Jomar Finnseth
+8707,Jon Erik Larsen
+8708,Jon Roger Olsen
+8709,Jon Sten
+8710,Jonny Tesvik
+8711,June Engeland
+8712,Jørgen Wold
+8713,Jørn Hansgaard
+8714,Karstein Karlsen
+8715,Ketil Hjort
+8716,Kjell Furnes
+8717,Kjetil Kristiansen
+8718,Kåre Foss
+8719,Kåre Syvertsen
+8720,Lasse Løberg
+8721,Leila Shojaae Nasab
+8722,Magnus Haave
+8723,Magnus Tausvik
+8724,Marie Hauge Trengereid
+8725,Mathew Artis
+8726,Oddvar Lampe
+8727,Ole Almo
+8728,Ole Petter Torevik
+8729,Ove Reinholtsen
+8730,Per Aundal
+8731,Per Erik Karlsen
+8732,Per Åge Madsen
+8733,Pål Lillefjære
+8734,R. Gustad
+8735,Rasin Nygård
+8736,Rikke Waal
+8737,Rino Sten Hansen
+8738,Roa Lindbeck
+8739,Roger Røvik
+8740,Rolf Haldorsen
+8741,Rolf Kristian Bolling
+8742,Ronald Hamarsland
+8743,Ronny Urhaug
+8744,Roy Bolstad
+8745,Rune Lie
+8746,Stein Okstad
+8747,Stein Thure Nilsen
+8748,Svein Mostervik
+8749,Svein Skarding
+8750,Sven Erik Strøm
+8751,Sven Faye Knudsen
+8752,Terje Elna
+8753,Thomas Gunnar Øye
+8754,Thor Bjarne Nilsen
+8755,Thor Håland
+8756,Thor Tunheim
+8757,Thorkild Stray
+8758,Tom Olsen
+8759,Tom Ulriksen
+8760,Tor Inge Fimreite
+8761,Tor Masch
+8762,Torbjørn Brauer
+8763,Tore Asbak
+8764,Torvald Jacobsen
+8765,Trond Johansen
+8766,Willy Thommasrud
+8767,Øystein Aasebø
+8768,Øystein Johnsen
+8769,Øyvind Mæland
+8770,Håkon Lorentsen
+8771,Vihantola Emilia
+8772,Løvind Amalie Årsten
+8773,Aradottir Inga
+8774,Rezazadeh Rebin
+8775,Heikkinen Jani Petteri
+8776,Ingrid Eriksen Bru
+8777,William Buvik
+8778,Eva Kristin Knutsdóttir Erikson
+8779,Elin Støyva Torheim
+8780,Jan Olav Nystrøm
+8781,Marius Meek Mikkelsen
+8782,Patrik Ravn
+8783,Sakari Pietarinen
+8784,Anni Seppänen
+8785,Henrik Helkelä
+8786,Bent Andre Mitbø
+8787,Heine Martin Hauge
+8788,Magnus Germann Hove
+8789,Andersson, Jennifer
+8790,Sarah Marie Sande
+8791,Bengt William Bokn
+8792,Aleksander Sveholt
+8793,Hiwa Rehmami
+8794,Lars Rudi
