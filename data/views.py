@@ -1,5 +1,4 @@
 from django.shortcuts import render, redirect
-from .check_duplicates import run_check
 from .models import Data
 import plotly.express as px
 from plotly.offline import plot
