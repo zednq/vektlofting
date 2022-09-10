@@ -76,7 +76,7 @@
             });
 
         </script>
-        <span class="text-center mt-3"><i>(Klikk på navn for mer info)</i></span>
+        <span class="text-center mt-3"><i>(Klikk på rad for mer info)</i></span>
         <div class="card-body p-4">
             <table id="example" class="table table-striped table-hover table-responsive" style="width:100%">
                 <thead>
@@ -96,8 +96,8 @@
                 </thead>
                 <tbody class="table-group-divider">
                     {% for data in data_set %}
-                    <tr>
-                        <td class="clickable" onclick="location.href='/lofter/{{data.lofter}}'">{{ data.lofter }}</td>
+                    <tr class="clickable" onclick="location.href='/lofter/{{data.lofter}}'">
+                        <td>{{ data.lofter }}</td>
                         <td>{{ data.fodt }}</td>
                         <td>{{ data.vekt }}</td>
                         <td>{{ data.kat }}</td>
