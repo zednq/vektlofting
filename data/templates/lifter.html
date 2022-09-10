@@ -1,0 +1,137 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    {% load static %}
+    <script type="text/javascript" src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+    <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" type="text/css">
+    <title></title>
+</head>
+<body>
+    <h3 class="text-center mt-5"><strong>{{navn|upper}}</strong></h3>
+    <div class="card text-center col-xxl-6 shadow p-0 mx-auto">
+        <div class="card-header">
+            <a href="/"><img src="{% static 'icons/home.png' %}" width="35" height="35" class="m-3"></a>
+            <div class="d-flex">
+
+                <img src="{% static 'img/workout_datalookup.png' %}" class="img position-absolute mt-4 ms-1 w-90" height="120" />
+
+
+                <div class="container d-flex justify-content-end">
+
+
+                    <div class="card col-xl-4 col-md-5 my-3 text-start">
+                        <table class="m-3 p-3">
+                            <tr>
+                                <td><p class="fst-italic h5">Beste resultater:</p></td>
+                            </tr>
+                            <tr>
+                                <td>Rykk:</td>
+                                <td class="text-end">{{ beste.rykk }}</td>
+                            </tr>
+                            <tr>
+                                <td>St&oslash;t:</td>
+                                <td class="text-end">{{ beste.stot }}</td>
+                            </tr>
+                            <tr>
+                                <td>Sammenlagt:</td>
+                                <td class="text-end">{{ beste.sml }}</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <p class="container w-75 text-start">
+
+                {{navn|title}} (f&oslash;dt {{person.fodt}}) l&oslash;ftet sist {{person.stevnedato}} p&aring; {{person.stevne}} for {{person.stevneklubb}}. {{person.fornavn|title}}s tyngste l&oslash;ft
+                er p&aring; <strong>{{beste.rykk}}kg</strong> i rykk, <strong>{{beste.stot}}kg</strong> i st&oslash;t og et sammenlagtresultat p&aring; <strong>{{beste.sml}}kg</strong> (<i>satt p&aring; {{person.vekt}}kg kroppsvekt</i>).
+                <br /><br />
+                Med en toppscore p&aring; <strong>{{beste.sinclair}} poeng</strong> (<i>sinclair</i>) satt i {{person.poeng_dato}} rangeres {{person.fornavn|title}} som <strong>#{{person.rank}}</strong> i denne databasen.
+
+            </p>
+            <ul class="nav nav-tabs card-header-tabs">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-bs-toggle="tab" href="#home">Stevner</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="tab" href="#menu1">Datavisualisering</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" data-bs-toggle="tab" href="#menu2">Rapport&eacute;r</a>
+                    </li>
+                </ul>
+            </ul>
+        </div>
+        <div class="card-body mx-auto">
+            <!-- Tab panes -->
+            <div class="tab-content">
+                <div class="tab-pane container active" id="home">
+                    <table id="example" class="table table-striped table-hover table-responsive" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>L&oslash;fter</th>
+                                <th>F&oslash;dt</th>
+                                <th>Vekt</th>
+                                <th>Kat</th>
+                                <th>Rykk</th>
+                                <th>St&oslash;t</th>
+                                <th>Sml</th>
+                                <th>Sinclair</th>
+                                <th>Dato</th>
+                                <th>Stevne</th>
+                                <th>Klubb</th>
+                            </tr>
+                        </thead>
+                        <tbody class="table-group-divider">
+                            {% for data in data_set %}
+                            <tr>
+                                <td>{{ data.lofter }}</td>
+                                <td>{{ data.fodt }}</td>
+                                <td>{{ data.vekt }}</td>
+                                <td>{{ data.kat }}</td>
+                                <td>{{ data.rykk }}</td>
+                                <td>{{ data.stot }}</td>
+                                <td>{{ data.sml }}</td>
+                                <td>{{ data.sinclair }}</td>
+                                <td>{{ data.dag }}/{{ data.mnd }}/{{ data.aar }}</td>
+                                <td>{{ data.stevne }}</td>
+                                <td>{{ data.klubb }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div class="tab-pane container fade" id="menu1">
+
+                    <div class="container">
+                        <div class="col">
+                            <div class="row">
+                                {% autoescape off %}
+                                {{ graph }}
+                                {% endautoescape %}
+                            </div>
+                            <div class="row">
+                                {% autoescape off %}
+                                {{ graph1 }}
+                                {% endautoescape %}
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="tab-pane container fade" id="menu2">
+                    <p>NB! Denne oversikten er ufullstendig.</p>
+                    <div class="container">
+                        <img src="{% static 'img/oopsie.gif' %}" />
+                    </div>
+                    <br />
+                    <p>Om det foreligger mangelfull eller feil informasjon om deg kan du ta kontakt p&aring; <br /> <strong><a href="mailto: maelstroemlol@hotmail.com">email</a><br /><a href="https://www.facebook.com/even.dovik">facebook</a></strong></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="text-center fst-italic">(denne oversikten er ufullstendig)<p>kilder: <a href="https://www.akbjorgvin.no/" target="_blank" style="text-decoration: none; color:black;">AK Bj&oslash;rgvin</a>, <a href="https://vektlofting.no/aktiv-idrett/stevneprotokoller" target="_blank" style="text-decoration: none; color:black;">NVF</a></p></div>
+    
+</body>
+</html>
