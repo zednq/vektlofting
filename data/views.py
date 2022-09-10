@@ -81,17 +81,13 @@ def lifter(request, navn):
     def sammensetning(data):
 
         # get dates
-        dates = []
         dates_raw = []
-        dates_test = []
+        dates_tuple = []
         for each in data:
             d = f'{each.dag}/{each.mnd}/{each.aar}'
-            dates_test.append(d)
+            dates_tuple.append(d)
             dates_raw.append((each.aar, each.mnd, each.dag))
-            date = datetime.strptime(d, '%d/%m/%Y')
-            dates.append(date)
 
-        dates.sort()
         dates_raw.sort()
 
         # get rykk, stot
@@ -101,7 +97,7 @@ def lifter(request, navn):
             rykk.append(data.filter(aar=dr[0], mnd=dr[1], dag=dr[2])[0].rykk)
             stot.append(data.filter(aar=dr[0], mnd=dr[1], dag=dr[2])[0].stot)
 
-        stats = [x for x in zip(dates_test, rykk, stot)]
+        stats = [x for x in zip(dates_tuple, rykk, stot)]
 
         df = pd.DataFrame(stats, columns=['dato', 'rykk', 'stot'])
 
