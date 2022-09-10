@@ -7,10 +7,10 @@
     <link href="{% static 'css/bootstrap.css' %}" rel="stylesheet" type="text/css">
 </head>
 <body>
+
     <a href="/" style="text-decoration: none; color:black;"><h3 class="text-center mt-5"><strong>NORSKE STEVNER (1947-2022)</strong></h3></a>
     <div class="card col-xxl-6 shadow p-0 mx-auto">
         <div class="card-header p-3">
-
             <div class="d-flex">
                 <div class="container">
                     <h5 class="m-3"><a href="/"><img src="{% static 'icons/home.png' %}" width="35" height="35"></a>&nbsp;&nbsp;Page {{ page }}</h5>
@@ -22,12 +22,13 @@
                         <option value="/stevner/page={{page}}&show=100{{search}}{{order}}">100</option>
                     </select>
                     {% if search_string != '' %}
-                        <div class="m-3">Søkeresultat for: &nbsp;<strong>"{{search_string}}"</strong></div>
+                    <div class="m-3">Søkeresultat for: &nbsp;<strong>"{{search_string}}"</strong></div>
                     {% endif %}
                     {% if sort_string != '' %}
-                    <div class="m-3">Sortert etter: &nbsp;<strong>{{sort_string}}</strong></div>
-                    {% endif %} 
+                    <div class="m-3">Sortért etter: &nbsp;<strong>{{sort_string}}</strong></div>
+                    {% endif %}
                 </div>
+
                 <div class="container w-75 h-50 d-flex">
 
                     <input class="form-control me-2" id="search" placeholder="S&oslash;k p&aring; l&oslash;fter">
@@ -36,8 +37,8 @@
                     <select class="form-select ms-2" onchange="location = this.value; selected = this.value;" style="width:100px;">
                         <option selected="#">Sort&eacute;r</option>
                         <option value="/stevner/page=1&show={{show}}{{search}}/order_by=lofter">Navn (alfabetisk)</option>
-                        <option value="/stevner/page=1&show={{show}}{{search}}/order_by=aar">Stevne&aring;r (tidlig)</option>
-                        <option value="/stevner/page=1&show={{show}}{{search}}/order_by=-aar">Stevne&aring;r (sent)</option>
+                        <option value="/stevner/page=1&show={{show}}{{search}}/order_by=aar">Stevnedato (tidlig)</option>
+                        <option value="/stevner/page=1&show={{show}}{{search}}/order_by=-aar">Stevnedato (sent)</option>
                         <option value="/stevner/page=1&show={{show}}{{search}}/order_by=fodt">F&oslash;dt (tidlig)</option>
                         <option value="/stevner/page=1&show={{show}}{{search}}/order_by=-fodt">F&oslash;dt (sent)</option>
                         <option value="/stevner/page=1&show={{show}}{{search}}/order_by=-rykk">Rykk (h&oslash;yt)</option>
@@ -49,11 +50,7 @@
                         <option value="/stevner/page=1&show={{show}}{{search}}/order_by=-sinclair">Sinclair (h&oslash;yt)</option>
                         <option value="/stevner/page=1&show={{show}}{{search}}/order_by=sinclair">Sinclair (lavt)</option>
                     </select>
-
                 </div>
-
-
-
             </div>
         </div>
 
@@ -68,7 +65,8 @@
                     return location.href = '';
                 }
             }
-            
+
+
             var input = document.getElementById("search");
             input.addEventListener("keypress", function (event) {
                 if (event.key === "Enter") {
@@ -78,9 +76,9 @@
             });
 
         </script>
-
+        <span class="text-center mt-3"><i>(Klikk på navn for mer info)</i></span>
         <div class="card-body p-4">
-            <table id="example" class="table table-striped" style="width:100%">
+            <table id="example" class="table table-striped table-hover table-responsive" style="width:100%">
                 <thead>
                     <tr>
                         <th>L&oslash;fter</th>
@@ -99,7 +97,7 @@
                 <tbody class="table-group-divider">
                     {% for data in data_set %}
                     <tr>
-                        <td>{{ data.lofter }}</td>
+                        <td class="clickable" onclick="location.href='/lofter/{{data.lofter}}'">{{ data.lofter }}</td>
                         <td>{{ data.fodt }}</td>
                         <td>{{ data.vekt }}</td>
                         <td>{{ data.kat }}</td>
@@ -135,6 +133,7 @@
             </nav>
         </div>
     </div>
+
     <div class="text-center fst-italic">(denne oversikten er ufullstendig)<p>kilder: <a href="https://www.akbjorgvin.no/" target=”_blank” style="text-decoration: none; color:black;">AK Bjørgvin</a>, <a href="https://vektlofting.no/aktiv-idrett/stevneprotokoller" target=”_blank” style="text-decoration: none; color:black;">NVF</a></p></div>
 </body>
 </html>
