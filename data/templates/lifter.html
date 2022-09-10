@@ -11,35 +11,40 @@
     <div class="card text-center col-xxl-6 shadow p-0 mx-auto">
         <div class="card-header">
             <a href="/"><img src="{% static 'icons/home.png' %}" width="35" height="35" class="m-3"></a>
-            <div class="d-flex mx-auto">
 
-                <img src="{% static 'img/workout_datalookup.png' %}" class="img position-absolute mt-4 ms-1 w-90" height="120" />
+            <div class="container">
+                <div class="row">
+                    <div class="col-9"><img src="{% static 'img/workout_datalookup.png' %}" class="mt-4 w-100" height="120" /></div>
+                    <div class="col-3">
+
+                        <div class="d-flex justify-content-end">
 
 
-                <div class="container d-flex justify-content-end">
+                            <div class="card my-3 p-3 text-start">
+                                <table>
+                                    <tr>
+                                        <td><p class="fst-italic h5">Beste resultater:</p></td>
+                                    </tr>
+                                    <tr>
+                                        <td>Rykk:</td>
+                                        <td class="text-end">{{ beste.rykk }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>St&oslash;t:</td>
+                                        <td class="text-end">{{ beste.stot }}</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Sammenlagt:</td>
+                                        <td class="text-end">{{ beste.sml }}</td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
 
-
-                    <div class="card col-xl-4 col-md-5 my-3 text-start">
-                        <table class="m-3 p-3">
-                            <tr>
-                                <td><p class="fst-italic h5">Beste resultater:</p></td>
-                            </tr>
-                            <tr>
-                                <td>Rykk:</td>
-                                <td class="text-end">{{ beste.rykk }}</td>
-                            </tr>
-                            <tr>
-                                <td>St&oslash;t:</td>
-                                <td class="text-end">{{ beste.stot }}</td>
-                            </tr>
-                            <tr>
-                                <td>Sammenlagt:</td>
-                                <td class="text-end">{{ beste.sml }}</td>
-                            </tr>
-                        </table>
                     </div>
                 </div>
             </div>
+
             <p class="container w-75 text-start">
 
                 {{navn|title}} (f&oslash;dt {{person.fodt}}) l&oslash;ftet sist {{person.stevnedato}} p&aring; {{person.stevne}} for {{person.stevneklubb}}. {{person.fornavn|title}}s tyngste l&oslash;ft
