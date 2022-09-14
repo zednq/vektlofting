@@ -134,6 +134,8 @@ def table(request, page=1, show=25, search='', order='lofter'):
         if len(search) < 1:
             if order == 'fodt':
                 data = Data.objects.filter(fodt__gte=1000).order_by(order)[start:end]
+            elif order == '-aar':
+                data = Data.objects.filter(fodt__gte=1000).order_by(order, '-mnd', '-dag')[start:end]
             else:
                 data = Data.objects.all().order_by(order)[start:end]
         else:
